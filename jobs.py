@@ -14,7 +14,7 @@ KEYWORDS = [
     "API Developer",
 ]
 LOCATION   = "Egypt"
-MAX_PAGES  = 2        # لكل كلمة مفتاحية (كل صفحة ~25 وظيفة)
+MAX_PAGES  = 4        # لكل كلمة مفتاحية (كل صفحة ~25 وظيفة) — تغطية أوسع
 KEEP_DAYS  = 14       # الوظيفة تفضل في الكاش كام يوم
 CACHE_FILE = "jobs_cache.json"
 
@@ -114,7 +114,7 @@ TEMPLATE = """<!doctype html>
   *{box-sizing:border-box}
   body{font-family:system-ui,-apple-system,Segoe UI,Tahoma,Arial;background:var(--bg);color:var(--text);margin:0;line-height:1.6}
   .wrap{max-width:820px;margin:0 auto;padding:24px 16px 60px}
-  header{display:flex;justify-content:space-between;align-items:flex-start;gap:12px;flex-wrap:wrap}
+  header{display:flex;justify-content:space-between;align-items:center;gap:12px 16px;flex-wrap:wrap;margin-bottom:6px}
   h1{font-size:22px;margin:0}
   .sub{color:var(--muted);font-size:13px;margin:6px 0 18px}
   .toolbar{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin-bottom:16px}
@@ -127,14 +127,15 @@ TEMPLATE = """<!doctype html>
   .chip{font-size:12px;padding:5px 10px;border-radius:999px;background:var(--chip);border:1px solid transparent;cursor:pointer;color:var(--muted)}
   .chip.active{border-color:var(--accent);color:var(--accent)}
   ul{list-style:none;padding:0;margin:0}
-  .job{background:var(--card);border:1px solid var(--border);border-radius:14px;padding:14px 16px;margin-bottom:10px;position:relative}
+  .job{background:var(--card);border:1px solid var(--border);border-radius:14px;padding:14px 16px;margin-bottom:10px}
   .job.is-new{border-color:var(--new)}
-  .job h3{margin:0 0 4px;font-size:16px}
+  .job .top{display:flex;align-items:flex-start;gap:8px}
+  .job h3{margin:0;font-size:16px;flex:1;min-width:0;overflow-wrap:anywhere}
   .job a{color:var(--accent);text-decoration:none}
   .job a:hover{text-decoration:underline}
-  .meta{color:var(--muted);font-size:13px}
+  .meta{color:var(--muted);font-size:13px;margin-top:6px}
   .tag{display:inline-block;font-size:11px;background:var(--chip);color:var(--muted);padding:2px 8px;border-radius:6px;margin-top:8px}
-  .badge{position:absolute;inset-inline-start:14px;top:14px;background:var(--new);color:#04261a;font-size:11px;font-weight:700;padding:2px 8px;border-radius:6px}
+  .badge{flex:none;background:var(--new);color:#04261a;font-size:11px;font-weight:700;padding:3px 9px;border-radius:6px;white-space:nowrap}
   .empty{text-align:center;color:var(--muted);padding:40px 0}
 </style>
 </head>
@@ -145,7 +146,7 @@ TEMPLATE = """<!doctype html>
       <h1>💼 وظايف Laravel / Backend</h1>
       <div class="sub" id="sub"></div>
     </div>
-    <div style="display:flex;gap:8px">
+    <div style="display:flex;gap:8px;flex-wrap:wrap;margin-top:4px">
       <button id="theme" title="ثيم">🌗</button>
       <button id="markseen">علّم الكل كمقروء</button>
     </div>
@@ -226,8 +227,10 @@ function render(){
     const li = document.createElement("li");
     li.className = "job" + (isNew ? " is-new" : "");
     li.innerHTML =
-      (isNew ? '<span class="badge">جديد</span>' : '') +
+      '<div class="top">' +
       '<h3><a href="' + j.link + '" target="_blank" rel="noopener">' + j.title + '</a></h3>' +
+      (isNew ? '<span class="badge">جديد</span>' : '') +
+      '</div>' +
       '<div class="meta">' + j.company + ' · ' + j.location + ' · ' + timeAgo(j.first_seen) + '</div>' +
       '<span class="tag">' + j.keyword + '</span>';
     list.appendChild(li);
