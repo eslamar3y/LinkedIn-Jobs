@@ -2,7 +2,7 @@ name: build-jobs-page
 
 on:
   schedule:
-    - cron: "0 * * * *"   # كل ساعة
+    - cron: "*/30 * * * *"   # كل نص ساعة
   workflow_dispatch:
 
 permissions:
@@ -23,7 +23,11 @@ jobs:
         with:
           python-version: "3.11"
       - run: pip install -r requirements.txt
-      - run: python jobs.py
+      - name: Build page + send Telegram
+        env:
+          TELEGRAM_TOKEN: PUT_TOKEN_SECRET_HERE 
+          TELEGRAM_CHAT_ID: PUT_CHATID_SECRET_HERE 
+        run: python jobs.py
       - name: Commit cache
         run: |
           git config user.name "github-actions[bot]"
