@@ -72,6 +72,23 @@ def build_html(jobs, now):
         f.write(page)
 
 
+def send_telegram(new_jobs):
+    token = os.environ.get("TELEGRAM_TOKEN")
+    chat_id = os.environ.get("TELEGRAM_CHAT_ID")
+    if not token or not chat_id or not new_jobs:
+        return
+    api = "https://api.telegram.org/bot" + token + "/sendMessage"
+    for j in new_jobs:
+        text = ("🆕 وظيفة جديدة\n" + j["title"] + "\n"
+                + j["company"] + " · " + j["location"] + "\n"
+                + j["keyword"] + "\n" + j["link"])
+        try:
+            requests.post(api, data={"chat_id": chat_id, "text": text}, timeout=20)
+            time.sleep(0.5)
+        except requests.RequestException:
+            pass
+
+
 def main():
     now = datetime.now(timezone.utc)
     cache = load_cache()
@@ -80,13 +97,13 @@ def main():
     for kw in KEYWORDS:
         fetched.update(fetch_for_keyword(kw))
 
-    new_count = 0
+    new_jobs = []
     for jid, job in fetched.items():
         if jid in cache:
             job["first_seen"] = cache[jid].get("first_seen", now.isoformat())
         else:
             job["first_seen"] = now.isoformat()
-            new_count += 1
+            new_jobs.append(job)
         cache[jid] = job
 
     # نشيل اللي أقدم من KEEP_DAYS من الكاش
@@ -99,7 +116,8 @@ def main():
 
     jobs = sorted(cache.values(), key=lambda j: j["first_seen"], reverse=True)
     build_html(jobs, now)
-    print("cached=" + str(len(jobs)) + " new=" + str(new_count))
+    send_telegram(new_jobs)
+    print("cached=" + str(len(jobs)) + " new=" + str(len(new_jobs)))
 
 
 TEMPLATE = """<!doctype html>
