@@ -13,7 +13,7 @@
   "title": "Principal Software Architect",
   "company": "geidea",
   "location": "Cairo, Egypt",
-  "keyword": "Backend Engineer",
+  "keyword": "Backend Developer",
   "link": "https://www.linkedin.com/jobs/view/4428634268",
   "first_seen": "2026-06-14T18:10:59.693998+00:00"
  },
@@ -139,7 +139,7 @@
   "title": "BO IMS Engineer",
   "company": "Ericsson",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "Back end Developer",
+  "keyword": "Backend Developer",
   "link": "https://www.linkedin.com/jobs/view/4427453098",
   "first_seen": "2026-06-14T19:07:21.328087+00:00"
  },
@@ -148,7 +148,7 @@
   "title": "Senior DevOps Engineer, AI4ALL",
   "company": "Valeo",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "Back end Developer",
+  "keyword": "Backend Developer",
   "link": "https://www.linkedin.com/jobs/view/4368856776",
   "first_seen": "2026-06-14T19:07:21.328087+00:00"
  },
@@ -157,7 +157,7 @@
   "title": "IT Development Operations Officer",
   "company": "Takka",
   "location": "Cairo, Egypt",
-  "keyword": "Back end Developer",
+  "keyword": "Backend Developer",
   "link": "https://www.linkedin.com/jobs/view/4425734833",
   "first_seen": "2026-06-14T19:07:21.328087+00:00"
  },
@@ -166,7 +166,7 @@
   "title": "Application Support - Data Engineer (+3 Years Experience)",
   "company": "Valleysoft | Center of Excellence",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "Back end Developer",
+  "keyword": "Backend Developer",
   "link": "https://www.linkedin.com/jobs/view/4428602977",
   "first_seen": "2026-06-14T19:07:21.328087+00:00"
  },
@@ -175,7 +175,7 @@
   "title": "Database Administrator",
   "company": "TP",
   "location": "Cairo, Egypt",
-  "keyword": "Back end Developer",
+  "keyword": "Backend Developer",
   "link": "https://www.linkedin.com/jobs/view/4428630741",
   "first_seen": "2026-06-14T19:07:21.328087+00:00"
  },
@@ -265,7 +265,7 @@
   "title": "Software Engineer (AI Training)",
   "company": "Alignerr",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "Back end Developer",
+  "keyword": "Backend Developer",
   "link": "https://www.linkedin.com/jobs/view/4428648610",
   "first_seen": "2026-06-14T20:44:39.119310+00:00"
  },
@@ -274,7 +274,7 @@
   "title": "Software Engineer (AI Training)",
   "company": "Alignerr",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "Back end Developer",
+  "keyword": "Backend Developer",
   "link": "https://www.linkedin.com/jobs/view/4428638683",
   "first_seen": "2026-06-14T20:44:39.119310+00:00"
  },
@@ -286,5 +286,32 @@
   "keyword": "Back end Developer",
   "link": "https://www.linkedin.com/jobs/view/4428641655",
   "first_seen": "2026-06-14T20:44:39.119310+00:00"
+ },
+ "4428639698": {
+  "id": "4428639698",
+  "title": "Software Engineer (AI Training)",
+  "company": "Alignerr",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "Backend Developer",
+  "link": "https://www.linkedin.com/jobs/view/4428639698",
+  "first_seen": "2026-06-14T22:01:47.617418+00:00"
+ },
+ "4428638686": {
+  "id": "4428638686",
+  "title": "Software Engineer (AI Training)",
+  "company": "Alignerr",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "Backend Developer",
+  "link": "https://www.linkedin.com/jobs/view/4428638686",
+  "first_seen": "2026-06-14T22:01:47.617418+00:00"
+ },
+ "4428659486": {
+  "id": "4428659486",
+  "title": "Software Engineer (AI Training)",
+  "company": "Alignerr",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "Backend Developer",
+  "link": "https://www.linkedin.com/jobs/view/4428659486",
+  "first_seen": "2026-06-14T22:01:47.617418+00:00"
  }
 }
