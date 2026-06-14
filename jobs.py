@@ -114,7 +114,7 @@ TEMPLATE = """<!doctype html>
   *{box-sizing:border-box}
   body{font-family:system-ui,-apple-system,Segoe UI,Tahoma,Arial;background:var(--bg);color:var(--text);margin:0;line-height:1.6}
   .wrap{max-width:820px;margin:0 auto;padding:24px 16px 60px}
-  header{display:flex;justify-content:space-between;align-items:center;gap:12px 16px;flex-wrap:wrap;margin-bottom:6px}
+  header{display:flex;justify-content:space-between;align-items:center;gap:12px 16px;flex-wrap:wrap;margin-bottom:20px}
   h1{font-size:22px;margin:0}
   .sub{color:var(--muted);font-size:13px;margin:6px 0 18px}
   .toolbar{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin-bottom:16px}
@@ -127,7 +127,7 @@ TEMPLATE = """<!doctype html>
   .chip{font-size:12px;padding:5px 10px;border-radius:999px;background:var(--chip);border:1px solid transparent;cursor:pointer;color:var(--muted)}
   .chip.active{border-color:var(--accent);color:var(--accent)}
   ul{list-style:none;padding:0;margin:0}
-  .job{background:var(--card);border:1px solid var(--border);border-radius:14px;padding:14px 16px;margin-bottom:10px}
+  .job{background:var(--card);border:1px solid var(--border);border-radius:14px;padding:14px 16px;margin-bottom:10px;direction:ltr;text-align:left}
   .job.is-new{border-color:var(--new)}
   .job .top{display:flex;align-items:flex-start;gap:8px}
   .job h3{margin:0;font-size:16px;flex:1;min-width:0;overflow-wrap:anywhere}
