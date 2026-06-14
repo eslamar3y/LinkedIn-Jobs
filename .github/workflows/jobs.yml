@@ -25,8 +25,8 @@ jobs:
       - run: pip install -r requirements.txt
       - name: Build page + send Telegram
         env:
-          TELEGRAM_TOKEN: PUT_TOKEN_SECRET_HERE 
-          TELEGRAM_CHAT_ID: PUT_CHATID_SECRET_HERE 
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: python jobs.py
       - name: Commit cache
         run: |
