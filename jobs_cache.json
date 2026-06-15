@@ -355,7 +355,7 @@
   "title": "Go/Golang Developer -  Remote",
   "company": "YO IT Consulting",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "API Developer",
+  "keyword": "Full Stack Developer",
   "link": "https://www.linkedin.com/jobs/view/4427437965",
   "first_seen": "2026-06-15T02:38:26.202160+00:00"
  },
@@ -418,7 +418,7 @@
   "title": "Full-stack Developer",
   "company": "Kaytech industries",
   "location": "Alexandria, Egypt",
-  "keyword": "Full Stack Developer",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4428800657",
   "first_seen": "2026-06-15T08:47:52.206563+00:00"
  },
@@ -499,7 +499,7 @@
   "title": "SAP ABAP Developer (MDG)",
   "company": "Coca-Cola HBC",
   "location": "Cairo, Egypt",
-  "keyword": "Web Developer",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4428818507",
   "first_seen": "2026-06-15T14:54:45.355789+00:00"
  },
@@ -508,7 +508,7 @@
   "title": "Lab Engineer Linux",
   "company": "The German University in Cairo",
   "location": "New Cairo, Cairo, Egypt",
-  "keyword": "PHP Laravel",
+  "keyword": "Laravel",
   "link": "https://www.linkedin.com/jobs/view/4428865453",
   "first_seen": "2026-06-15T14:54:45.355789+00:00"
  },
@@ -526,7 +526,7 @@
   "title": "Software Solution Architect",
   "company": "Sumerge",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "PHP Laravel",
+  "keyword": "Laravel",
   "link": "https://www.linkedin.com/jobs/view/4427494315",
   "first_seen": "2026-06-15T14:54:45.355789+00:00"
  },
@@ -553,7 +553,7 @@
   "title": "Data Analytics - Sr. Software Engineer with AI background - Cairo",
   "company": "Infomineo",
   "location": "Cairo, Egypt",
-  "keyword": "Web Developer",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4426405455",
   "first_seen": "2026-06-15T14:54:45.355789+00:00"
  },
@@ -562,7 +562,7 @@
   "title": "Senior Oracle APEX Developer",
   "company": "Beshara Group",
   "location": "Cairo, Egypt",
-  "keyword": "Web Developer",
+  "keyword": "PHP Laravel",
   "link": "https://www.linkedin.com/jobs/view/4376636476",
   "first_seen": "2026-06-15T14:54:45.355789+00:00"
  },
@@ -574,5 +574,194 @@
   "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4321427623",
   "first_seen": "2026-06-15T14:54:45.355789+00:00"
+ },
+ "4424095698": {
+  "id": "4424095698",
+  "title": "Full-Stack Web Developer",
+  "company": "Palm Outsourcing",
+  "location": "Egypt",
+  "keyword": "API Developer",
+  "link": "https://www.linkedin.com/jobs/view/4424095698",
+  "first_seen": "2026-06-15T18:59:59.954475+00:00"
+ },
+ "4427733577": {
+  "id": "4427733577",
+  "title": "Fullstack Python Developer - Remote Work",
+  "company": "BairesDev",
+  "location": "Egypt",
+  "keyword": "API Developer",
+  "link": "https://www.linkedin.com/jobs/view/4427733577",
+  "first_seen": "2026-06-15T18:59:59.954475+00:00"
+ },
+ "4427726763": {
+  "id": "4427726763",
+  "title": "Fullstack Python Developer - Remote Work",
+  "company": "BairesDev",
+  "location": "Cairo, Egypt",
+  "keyword": "API Developer",
+  "link": "https://www.linkedin.com/jobs/view/4427726763",
+  "first_seen": "2026-06-15T18:59:59.954475+00:00"
+ },
+ "4427724656": {
+  "id": "4427724656",
+  "title": "Software Engineer - Cloud Microservices Developer",
+  "company": "Siemens EDA (Siemens Digital Industries Software)",
+  "location": "Qesm 2nd New Cairo, Cairo, Egypt",
+  "keyword": "API Developer",
+  "link": "https://www.linkedin.com/jobs/view/4427724656",
+  "first_seen": "2026-06-15T18:59:59.954475+00:00"
+ },
+ "4426410033": {
+  "id": "4426410033",
+  "title": "Software DevOps Engineer",
+  "company": "VOIS",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "Laravel",
+  "link": "https://www.linkedin.com/jobs/view/4426410033",
+  "first_seen": "2026-06-15T18:59:59.954475+00:00"
+ },
+ "4428887688": {
+  "id": "4428887688",
+  "title": "Software Project Manager",
+  "company": "tali®",
+  "location": "Heliopolis, Cairo, Egypt",
+  "keyword": "PHP Laravel",
+  "link": "https://www.linkedin.com/jobs/view/4428887688",
+  "first_seen": "2026-06-15T18:59:59.954475+00:00"
+ },
+ "4427737521": {
+  "id": "4427737521",
+  "title": "IT Desktop Analyst II",
+  "company": "Halliburton",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "PHP Laravel",
+  "link": "https://www.linkedin.com/jobs/view/4427737521",
+  "first_seen": "2026-06-15T18:59:59.954475+00:00"
+ },
+ "4428829813": {
+  "id": "4428829813",
+  "title": "NSI TEACHER: Digital & Computer Science",
+  "company": "International Schools of Egypt (ISE)",
+  "location": "Alexandria, Egypt",
+  "keyword": "PHP Laravel",
+  "link": "https://www.linkedin.com/jobs/view/4428829813",
+  "first_seen": "2026-06-15T18:59:59.954475+00:00"
+ },
+ "4428842940": {
+  "id": "4428842940",
+  "title": "SAP FICO Analyst",
+  "company": "MK Enterprise",
+  "location": "Cairo, Egypt",
+  "keyword": "PHP Laravel",
+  "link": "https://www.linkedin.com/jobs/view/4428842940",
+  "first_seen": "2026-06-15T18:59:59.954475+00:00"
+ },
+ "4426409000": {
+  "id": "4426409000",
+  "title": "SAP ABAP/Dev Consultant",
+  "company": "Wadi Degla Clubs Company S.A.E.",
+  "location": "Cairo, Egypt",
+  "keyword": "PHP Laravel",
+  "link": "https://www.linkedin.com/jobs/view/4426409000",
+  "first_seen": "2026-06-15T18:59:59.954475+00:00"
+ },
+ "4428662641": {
+  "id": "4428662641",
+  "title": "Dynamics 365 CRM Administrator - Banking Sector",
+  "company": "NexaTG",
+  "location": "New Cairo, Cairo, Egypt",
+  "keyword": "PHP Laravel",
+  "link": "https://www.linkedin.com/jobs/view/4428662641",
+  "first_seen": "2026-06-15T18:59:59.954475+00:00"
+ },
+ "4428809421": {
+  "id": "4428809421",
+  "title": "Billing/Technical Customer Service - English B2 - Monthly Bonus in USD",
+  "company": "Teleperformance Global Services",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "PHP Laravel",
+  "link": "https://www.linkedin.com/jobs/view/4428809421",
+  "first_seen": "2026-06-15T18:59:59.954475+00:00"
+ },
+ "4426408207": {
+  "id": "4426408207",
+  "title": "Digital Content Creator",
+  "company": "Khatoun",
+  "location": "Heliopolis, Cairo, Egypt",
+  "keyword": "PHP Laravel",
+  "link": "https://www.linkedin.com/jobs/view/4426408207",
+  "first_seen": "2026-06-15T18:59:59.954475+00:00"
+ },
+ "4425748207": {
+  "id": "4425748207",
+  "title": "Founder & Agricultural Engineer | Nano Biofertilizer & Chlorella Systems",
+  "company": "Alpha Chlorella",
+  "location": "Etay El Baroud, Al Buhayrah, Egypt",
+  "keyword": "PHP Laravel",
+  "link": "https://www.linkedin.com/jobs/view/4425748207",
+  "first_seen": "2026-06-15T18:59:59.954475+00:00"
+ },
+ "4427727973": {
+  "id": "4427727973",
+  "title": "Javascript Developer - Remote Work",
+  "company": "BairesDev",
+  "location": "Egypt",
+  "keyword": "Full Stack Developer",
+  "link": "https://www.linkedin.com/jobs/view/4427727973",
+  "first_seen": "2026-06-15T18:59:59.954475+00:00"
+ },
+ "4427734771": {
+  "id": "4427734771",
+  "title": "Java Technical Support Engineer - Remote Work",
+  "company": "BairesDev",
+  "location": "Egypt",
+  "keyword": "Backend Engineer",
+  "link": "https://www.linkedin.com/jobs/view/4427734771",
+  "first_seen": "2026-06-15T18:59:59.954475+00:00"
+ },
+ "4428837399": {
+  "id": "4428837399",
+  "title": "Platform Architect - OT/IT Convergence",
+  "company": "Coca-Cola HBC",
+  "location": "Cairo, Egypt",
+  "keyword": "PHP Laravel",
+  "link": "https://www.linkedin.com/jobs/view/4428837399",
+  "first_seen": "2026-06-15T18:59:59.954475+00:00"
+ },
+ "4427480459": {
+  "id": "4427480459",
+  "title": "Dynamics 365 CE Developer – C# & Azure Integrations",
+  "company": "TestCrew | Quality Engineering & Software Testing",
+  "location": "Egypt",
+  "keyword": "PHP Laravel",
+  "link": "https://www.linkedin.com/jobs/view/4427480459",
+  "first_seen": "2026-06-15T18:59:59.954475+00:00"
+ },
+ "4427736576": {
+  "id": "4427736576",
+  "title": "Javascript Developer - Remote Work",
+  "company": "BairesDev",
+  "location": "Cairo, Egypt",
+  "keyword": "Full Stack Developer",
+  "link": "https://www.linkedin.com/jobs/view/4427736576",
+  "first_seen": "2026-06-15T18:59:59.954475+00:00"
+ },
+ "4427469887": {
+  "id": "4427469887",
+  "title": "Senior Software Developer",
+  "company": "Brightskies",
+  "location": "Cairo, Egypt",
+  "keyword": "API Developer",
+  "link": "https://www.linkedin.com/jobs/view/4427469887",
+  "first_seen": "2026-06-15T18:59:59.954475+00:00"
+ },
+ "4420910086": {
+  "id": "4420910086",
+  "title": "Senior AI Engineer",
+  "company": "Coca-Cola HBC",
+  "location": "New Cairo, Cairo, Egypt",
+  "keyword": "API Developer",
+  "link": "https://www.linkedin.com/jobs/view/4420910086",
+  "first_seen": "2026-06-15T18:59:59.954475+00:00"
  }
 }
