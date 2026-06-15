@@ -13,7 +13,7 @@
   "title": "Principal Software Architect",
   "company": "geidea",
   "location": "Cairo, Egypt",
-  "keyword": "API Developer",
+  "keyword": "Backend Developer",
   "link": "https://www.linkedin.com/jobs/view/4428634268",
   "first_seen": "2026-06-14T18:10:59.693998+00:00"
  },
@@ -22,7 +22,7 @@
   "title": "Senior Full Stack .NET Developer",
   "company": "SoftWare",
   "location": "Qesm El Doki, Al Jizah, Egypt",
-  "keyword": "API Developer",
+  "keyword": "Full Stack Developer",
   "link": "https://www.linkedin.com/jobs/view/4425726202",
   "first_seen": "2026-06-14T18:10:59.693998+00:00"
  },
@@ -40,7 +40,7 @@
   "title": "Backbase Engineer (AI & Digital Banking)",
   "company": "OUVRiEX",
   "location": "Cairo, Egypt",
-  "keyword": "API Developer",
+  "keyword": "PHP Developer",
   "link": "https://www.linkedin.com/jobs/view/4428615057",
   "first_seen": "2026-06-14T18:10:59.693998+00:00"
  },
@@ -49,7 +49,7 @@
   "title": "Senior Software Developer",
   "company": "NEXERA",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "API Developer",
+  "keyword": "PHP Developer",
   "link": "https://www.linkedin.com/jobs/view/4369497538",
   "first_seen": "2026-06-14T18:10:59.693998+00:00"
  },
@@ -67,7 +67,7 @@
   "title": "Senior Spring Boot Developer",
   "company": "Beshara Group",
   "location": "Cairo, Egypt",
-  "keyword": "API Developer",
+  "keyword": "PHP Developer",
   "link": "https://www.linkedin.com/jobs/view/4425731712",
   "first_seen": "2026-06-14T18:10:59.693998+00:00"
  },
@@ -76,7 +76,7 @@
   "title": "Senior Java Software Engineer",
   "company": "Unifonic",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "API Developer",
+  "keyword": "PHP Developer",
   "link": "https://www.linkedin.com/jobs/view/4383823461",
   "first_seen": "2026-06-14T18:10:59.693998+00:00"
  },
@@ -85,7 +85,7 @@
   "title": "Generative AI Engineer",
   "company": "Astek Middle East",
   "location": "Egypt",
-  "keyword": "API Developer",
+  "keyword": "PHP Developer",
   "link": "https://www.linkedin.com/jobs/view/4425738543",
   "first_seen": "2026-06-14T18:10:59.693998+00:00"
  },
@@ -94,7 +94,7 @@
   "title": "AI & Automation Analyst",
   "company": "TP",
   "location": "Cairo, Egypt",
-  "keyword": "API Developer",
+  "keyword": "PHP Developer",
   "link": "https://www.linkedin.com/jobs/view/4428632710",
   "first_seen": "2026-06-14T18:10:59.693998+00:00"
  },
@@ -121,7 +121,7 @@
   "title": "Senior Business Intelligence Developer",
   "company": "TP",
   "location": "Cairo, Egypt",
-  "keyword": "Back end Developer",
+  "keyword": "Backend Engineer",
   "link": "https://www.linkedin.com/jobs/view/4428616789",
   "first_seen": "2026-06-14T19:07:21.328087+00:00"
  },
@@ -139,7 +139,7 @@
   "title": "BO IMS Engineer",
   "company": "Ericsson",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "Back end Developer",
+  "keyword": "Backend Engineer",
   "link": "https://www.linkedin.com/jobs/view/4427453098",
   "first_seen": "2026-06-14T19:07:21.328087+00:00"
  },
@@ -175,7 +175,7 @@
   "title": "Database Administrator",
   "company": "TP",
   "location": "Cairo, Egypt",
-  "keyword": "Backend Developer",
+  "keyword": "PHP Laravel",
   "link": "https://www.linkedin.com/jobs/view/4428630741",
   "first_seen": "2026-06-14T19:07:21.328087+00:00"
  },
@@ -247,7 +247,7 @@
   "title": "Linux Consultant",
   "company": "All for One Egypt",
   "location": "Cairo, Egypt",
-  "keyword": "Laravel",
+  "keyword": "PHP Laravel",
   "link": "https://www.linkedin.com/jobs/view/4428656141",
   "first_seen": "2026-06-14T20:44:39.119310+00:00"
  },
@@ -355,7 +355,7 @@
   "title": "Go/Golang Developer -  Remote",
   "company": "YO IT Consulting",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "Full Stack Developer",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4427437965",
   "first_seen": "2026-06-15T02:38:26.202160+00:00"
  },
@@ -373,7 +373,7 @@
   "title": "Software Engineer (AI Training)",
   "company": "Alignerr",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "Back end Developer",
+  "keyword": "Backend Engineer",
   "link": "https://www.linkedin.com/jobs/view/4428681198",
   "first_seen": "2026-06-15T02:38:26.202160+00:00"
  },
@@ -412,5 +412,68 @@
   "keyword": "Back end Developer",
   "link": "https://www.linkedin.com/jobs/view/4428671299",
   "first_seen": "2026-06-15T02:38:26.202160+00:00"
+ },
+ "4428800657": {
+  "id": "4428800657",
+  "title": "Full-stack Developer",
+  "company": "Kaytech industries",
+  "location": "Alexandria, Egypt",
+  "keyword": "Full Stack Developer",
+  "link": "https://www.linkedin.com/jobs/view/4428800657",
+  "first_seen": "2026-06-15T08:47:52.206563+00:00"
+ },
+ "4428663808": {
+  "id": "4428663808",
+  "title": "Software Lead (Fintech)",
+  "company": "Executive Search AAA",
+  "location": "Qesm El Maadi, Cairo, Egypt",
+  "keyword": "PHP Developer",
+  "link": "https://www.linkedin.com/jobs/view/4428663808",
+  "first_seen": "2026-06-15T08:47:52.206563+00:00"
+ },
+ "4427471776": {
+  "id": "4427471776",
+  "title": "Dynamics 365 CRM Technical Consultant",
+  "company": "TestCrew | Quality Engineering & Software Testing",
+  "location": "Egypt",
+  "keyword": "Laravel",
+  "link": "https://www.linkedin.com/jobs/view/4427471776",
+  "first_seen": "2026-06-15T08:47:52.206563+00:00"
+ },
+ "4428663666": {
+  "id": "4428663666",
+  "title": "Solution Designer / Architect",
+  "company": "NexaTG",
+  "location": "New Cairo, Cairo, Egypt",
+  "keyword": "PHP Laravel",
+  "link": "https://www.linkedin.com/jobs/view/4428663666",
+  "first_seen": "2026-06-15T08:47:52.206563+00:00"
+ },
+ "4428690743": {
+  "id": "4428690743",
+  "title": "Network Engineer",
+  "company": "no",
+  "location": "Egypt",
+  "keyword": "Backend Engineer",
+  "link": "https://www.linkedin.com/jobs/view/4428690743",
+  "first_seen": "2026-06-15T08:47:52.206563+00:00"
+ },
+ "4427486322": {
+  "id": "4427486322",
+  "title": "Dynamics 365 CE Technical Lead",
+  "company": "TestCrew | Quality Engineering & Software Testing",
+  "location": "Egypt",
+  "keyword": "Backend Engineer",
+  "link": "https://www.linkedin.com/jobs/view/4427486322",
+  "first_seen": "2026-06-15T08:47:52.206563+00:00"
+ },
+ "4427447493": {
+  "id": "4427447493",
+  "title": "Engineer-Shift",
+  "company": "Sheraton Hotels & Resorts",
+  "location": "Alexandria, Alexandria, Egypt",
+  "keyword": "Backend Engineer",
+  "link": "https://www.linkedin.com/jobs/view/4427447493",
+  "first_seen": "2026-06-15T08:47:52.206563+00:00"
  }
 }
