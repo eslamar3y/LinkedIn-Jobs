@@ -4,7 +4,7 @@
   "title": "Web Builder (Shopify - Salla - Zid)",
   "company": "ArabyBrand",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "Web Developer",
+  "keyword": "Full Stack Developer",
   "link": "https://www.linkedin.com/jobs/view/4428603811",
   "first_seen": "2026-06-14T18:10:59.693998+00:00"
  },
@@ -13,7 +13,7 @@
   "title": "Principal Software Architect",
   "company": "geidea",
   "location": "Cairo, Egypt",
-  "keyword": "Backend Developer",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4428634268",
   "first_seen": "2026-06-14T18:10:59.693998+00:00"
  },
@@ -22,7 +22,7 @@
   "title": "Senior Full Stack .NET Developer",
   "company": "SoftWare",
   "location": "Qesm El Doki, Al Jizah, Egypt",
-  "keyword": "Full Stack Developer",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4425726202",
   "first_seen": "2026-06-14T18:10:59.693998+00:00"
  },
@@ -40,7 +40,7 @@
   "title": "Backbase Engineer (AI & Digital Banking)",
   "company": "OUVRiEX",
   "location": "Cairo, Egypt",
-  "keyword": "Full Stack Developer",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4428615057",
   "first_seen": "2026-06-14T18:10:59.693998+00:00"
  },
@@ -49,7 +49,7 @@
   "title": "Senior Software Developer",
   "company": "NEXERA",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "Full Stack Developer",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4369497538",
   "first_seen": "2026-06-14T18:10:59.693998+00:00"
  },
@@ -67,7 +67,7 @@
   "title": "Senior Spring Boot Developer",
   "company": "Beshara Group",
   "location": "Cairo, Egypt",
-  "keyword": "Full Stack Developer",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4425731712",
   "first_seen": "2026-06-14T18:10:59.693998+00:00"
  },
@@ -76,7 +76,7 @@
   "title": "Senior Java Software Engineer",
   "company": "Unifonic",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "Full Stack Developer",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4383823461",
   "first_seen": "2026-06-14T18:10:59.693998+00:00"
  },
@@ -85,7 +85,7 @@
   "title": "Generative AI Engineer",
   "company": "Astek Middle East",
   "location": "Egypt",
-  "keyword": "Full Stack Developer",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4425738543",
   "first_seen": "2026-06-14T18:10:59.693998+00:00"
  },
@@ -94,7 +94,7 @@
   "title": "AI & Automation Analyst",
   "company": "TP",
   "location": "Cairo, Egypt",
-  "keyword": "Full Stack Developer",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4428632710",
   "first_seen": "2026-06-14T18:10:59.693998+00:00"
  },
@@ -103,7 +103,7 @@
   "title": "Senior APEX Developer",
   "company": "Beshara Group",
   "location": "Cairo, Egypt",
-  "keyword": "Full Stack Developer",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4425738266",
   "first_seen": "2026-06-14T18:10:59.693998+00:00"
  },
@@ -319,7 +319,7 @@
   "title": "Applied AI Engineer",
   "company": "edulga",
   "location": "Egypt",
-  "keyword": "Full Stack Developer",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4425743367",
   "first_seen": "2026-06-14T23:42:23.548586+00:00"
  },
@@ -340,5 +340,77 @@
   "keyword": "Full Stack Developer",
   "link": "https://www.linkedin.com/jobs/view/4425728554",
   "first_seen": "2026-06-14T23:42:23.548586+00:00"
+ },
+ "4428678289": {
+  "id": "4428678289",
+  "title": "Back End Developer (AI Infrastructure)",
+  "company": "Alignerr",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "Full Stack Developer",
+  "link": "https://www.linkedin.com/jobs/view/4428678289",
+  "first_seen": "2026-06-15T02:38:26.202160+00:00"
+ },
+ "4427437965": {
+  "id": "4427437965",
+  "title": "Go/Golang Developer -  Remote",
+  "company": "YO IT Consulting",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "Full Stack Developer",
+  "link": "https://www.linkedin.com/jobs/view/4427437965",
+  "first_seen": "2026-06-15T02:38:26.202160+00:00"
+ },
+ "4427457563": {
+  "id": "4427457563",
+  "title": "Vue.js/Nuxt Developer - Remote",
+  "company": "YO IT Consulting",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "Full Stack Developer",
+  "link": "https://www.linkedin.com/jobs/view/4427457563",
+  "first_seen": "2026-06-15T02:38:26.202160+00:00"
+ },
+ "4428681198": {
+  "id": "4428681198",
+  "title": "Software Engineer (AI Training)",
+  "company": "Alignerr",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "Back end Developer",
+  "link": "https://www.linkedin.com/jobs/view/4428681198",
+  "first_seen": "2026-06-15T02:38:26.202160+00:00"
+ },
+ "4428662473": {
+  "id": "4428662473",
+  "title": "Software Engineer (AI Training)",
+  "company": "Alignerr",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "Back end Developer",
+  "link": "https://www.linkedin.com/jobs/view/4428662473",
+  "first_seen": "2026-06-15T02:38:26.202160+00:00"
+ },
+ "4428666313": {
+  "id": "4428666313",
+  "title": "Software Engineer (AI Training)",
+  "company": "Alignerr",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "Back end Developer",
+  "link": "https://www.linkedin.com/jobs/view/4428666313",
+  "first_seen": "2026-06-15T02:38:26.202160+00:00"
+ },
+ "4428665327": {
+  "id": "4428665327",
+  "title": "Software Engineer (AI Training)",
+  "company": "Alignerr",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "Backend Developer",
+  "link": "https://www.linkedin.com/jobs/view/4428665327",
+  "first_seen": "2026-06-15T02:38:26.202160+00:00"
+ },
+ "4428671299": {
+  "id": "4428671299",
+  "title": "Software Engineer (AI Training)",
+  "company": "Alignerr",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "Back end Developer",
+  "link": "https://www.linkedin.com/jobs/view/4428671299",
+  "first_seen": "2026-06-15T02:38:26.202160+00:00"
  }
 }
