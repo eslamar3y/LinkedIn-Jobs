@@ -778,7 +778,7 @@
   "title": "Semi Senior .NET Developer - Remote Work",
   "company": "BairesDev",
   "location": "Egypt",
-  "keyword": "API Developer",
+  "keyword": "Backend Engineer",
   "link": "https://www.linkedin.com/jobs/view/4427760050",
   "first_seen": "2026-06-15T21:45:16.032468+00:00"
  },
@@ -787,7 +787,7 @@
   "title": "Senior Fullstack Python Developer - Remote Work",
   "company": "BairesDev",
   "location": "Egypt",
-  "keyword": "Full Stack Developer",
+  "keyword": "Backend Engineer",
   "link": "https://www.linkedin.com/jobs/view/4427743974",
   "first_seen": "2026-06-15T21:45:16.032468+00:00"
  },
@@ -796,7 +796,7 @@
   "title": "Semi Senior .NET Developer - Remote Work",
   "company": "BairesDev",
   "location": "Cairo, Egypt",
-  "keyword": "Web Developer",
+  "keyword": "Backend Engineer",
   "link": "https://www.linkedin.com/jobs/view/4427749386",
   "first_seen": "2026-06-15T21:45:16.032468+00:00"
  },
@@ -814,7 +814,7 @@
   "title": "Semi Senior React Developer - Remote Work",
   "company": "BairesDev",
   "location": "Egypt",
-  "keyword": "PHP Developer",
+  "keyword": "Full Stack Developer",
   "link": "https://www.linkedin.com/jobs/view/4427752684",
   "first_seen": "2026-06-15T21:45:16.032468+00:00"
  },
@@ -877,7 +877,7 @@
   "title": "Deloitte Innovation Hub I Senior Power Platform Developer, Intelligent Automation, Cairo, Egypt",
   "company": "Deloitte",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "Back end Developer",
+  "keyword": "Backend Engineer",
   "link": "https://www.linkedin.com/jobs/view/4317343666",
   "first_seen": "2026-06-15T21:45:16.032468+00:00"
  },
@@ -922,7 +922,7 @@
   "title": "Semi Senior Python Developer - Remote Work",
   "company": "BairesDev",
   "location": "Cairo, Egypt",
-  "keyword": "Web Developer",
+  "keyword": "Backend Developer",
   "link": "https://www.linkedin.com/jobs/view/4427745623",
   "first_seen": "2026-06-15T23:28:22.083759+00:00"
  },
@@ -931,7 +931,7 @@
   "title": "Semi Senior Python Developer - Remote Work",
   "company": "BairesDev",
   "location": "Egypt",
-  "keyword": "Web Developer",
+  "keyword": "PHP Developer",
   "link": "https://www.linkedin.com/jobs/view/4427742694",
   "first_seen": "2026-06-15T23:28:22.083759+00:00"
  },
@@ -985,7 +985,7 @@
   "title": "Full-Stack Engineering Lead",
   "company": "The Flex",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "Web Developer",
+  "keyword": "Backend Engineer",
   "link": "https://www.linkedin.com/jobs/view/4429171671",
   "first_seen": "2026-06-16T02:07:03.993827+00:00"
  },
@@ -1003,7 +1003,7 @@
   "title": "Founding Software Engineer",
   "company": "The Flex",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "Web Developer",
+  "keyword": "Backend Developer",
   "link": "https://www.linkedin.com/jobs/view/4429166658",
   "first_seen": "2026-06-16T02:07:03.993827+00:00"
  },
@@ -1021,7 +1021,7 @@
   "title": "Software Engineer",
   "company": "The Flex",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "Web Developer",
+  "keyword": "Backend Developer",
   "link": "https://www.linkedin.com/jobs/view/4429156787",
   "first_seen": "2026-06-16T02:07:03.993827+00:00"
  },
@@ -1030,7 +1030,7 @@
   "title": "Software Engineer",
   "company": "The Flex",
   "location": "Egypt",
-  "keyword": "Web Developer",
+  "keyword": "PHP Developer",
   "link": "https://www.linkedin.com/jobs/view/4429158770",
   "first_seen": "2026-06-16T02:07:03.993827+00:00"
  },
@@ -1102,7 +1102,7 @@
   "title": "Full-Stack Engineering Lead",
   "company": "The Flex",
   "location": "Egypt",
-  "keyword": "Web Developer",
+  "keyword": "Backend Engineer",
   "link": "https://www.linkedin.com/jobs/view/4429157751",
   "first_seen": "2026-06-16T08:24:59.272885+00:00"
  },
@@ -1186,5 +1186,77 @@
   "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4426487642",
   "first_seen": "2026-06-16T13:09:01.587610+00:00"
+ },
+ "4426833844": {
+  "id": "4426833844",
+  "title": "Frontend - Full Stack Developer (Vue.js / Nuxt.js)",
+  "company": "Confidential",
+  "location": "Cairo, Egypt",
+  "keyword": "Full Stack Developer",
+  "link": "https://www.linkedin.com/jobs/view/4426833844",
+  "first_seen": "2026-06-16T18:13:31.210257+00:00"
+ },
+ "4429554815": {
+  "id": "4429554815",
+  "title": "Software Developer",
+  "company": "Oncoustics",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "Web Developer",
+  "link": "https://www.linkedin.com/jobs/view/4429554815",
+  "first_seen": "2026-06-16T18:13:31.210257+00:00"
+ },
+ "4426857304": {
+  "id": "4426857304",
+  "title": "Rpgle,card 400,finastra",
+  "company": "The United Bank",
+  "location": "Cairo, Egypt",
+  "keyword": "Web Developer",
+  "link": "https://www.linkedin.com/jobs/view/4426857304",
+  "first_seen": "2026-06-16T18:13:31.210257+00:00"
+ },
+ "4429556805": {
+  "id": "4429556805",
+  "title": "Full Stack Developer",
+  "company": "Oncoustics",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "Full Stack Developer",
+  "link": "https://www.linkedin.com/jobs/view/4429556805",
+  "first_seen": "2026-06-16T18:13:31.210257+00:00"
+ },
+ "4426860058": {
+  "id": "4426860058",
+  "title": "Senior Software Engineer",
+  "company": "Loynova",
+  "location": "Giza, Al Jizah, Egypt",
+  "keyword": "Full Stack Developer",
+  "link": "https://www.linkedin.com/jobs/view/4426860058",
+  "first_seen": "2026-06-16T18:13:31.210257+00:00"
+ },
+ "4428062285": {
+  "id": "4428062285",
+  "title": "Semi Senior Java Developer - Remote Work",
+  "company": "BairesDev",
+  "location": "Egypt",
+  "keyword": "Backend Developer",
+  "link": "https://www.linkedin.com/jobs/view/4428062285",
+  "first_seen": "2026-06-16T18:13:31.210257+00:00"
+ },
+ "4426835479": {
+  "id": "4426835479",
+  "title": "Cloud Data & Analytics Engineer",
+  "company": "C3S",
+  "location": "Egypt",
+  "keyword": "API Developer",
+  "link": "https://www.linkedin.com/jobs/view/4426835479",
+  "first_seen": "2026-06-16T18:13:31.210257+00:00"
+ },
+ "4429564633": {
+  "id": "4429564633",
+  "title": "Junior Android Developer",
+  "company": "Oncoustics",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "Backend Engineer",
+  "link": "https://www.linkedin.com/jobs/view/4429564633",
+  "first_seen": "2026-06-16T18:13:31.210257+00:00"
  }
 }
