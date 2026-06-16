@@ -418,7 +418,7 @@
   "title": "Full-stack Developer",
   "company": "Kaytech industries",
   "location": "Alexandria, Egypt",
-  "keyword": "Full Stack Developer",
+  "keyword": "Web Developer",
   "link": "https://www.linkedin.com/jobs/view/4428800657",
   "first_seen": "2026-06-15T08:47:52.206563+00:00"
  },
@@ -499,7 +499,7 @@
   "title": "SAP ABAP Developer (MDG)",
   "company": "Coca-Cola HBC",
   "location": "Cairo, Egypt",
-  "keyword": "Web Developer",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4428818507",
   "first_seen": "2026-06-15T14:54:45.355789+00:00"
  },
@@ -553,7 +553,7 @@
   "title": "Data Analytics - Sr. Software Engineer with AI background - Cairo",
   "company": "Infomineo",
   "location": "Cairo, Egypt",
-  "keyword": "Full Stack Developer",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4426405455",
   "first_seen": "2026-06-15T14:54:45.355789+00:00"
  },
@@ -580,7 +580,7 @@
   "title": "Full-Stack Web Developer",
   "company": "Palm Outsourcing",
   "location": "Egypt",
-  "keyword": "Full Stack Developer",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4424095698",
   "first_seen": "2026-06-15T18:59:59.954475+00:00"
  },
@@ -589,7 +589,7 @@
   "title": "Fullstack Python Developer - Remote Work",
   "company": "BairesDev",
   "location": "Egypt",
-  "keyword": "Web Developer",
+  "keyword": "Full Stack Developer",
   "link": "https://www.linkedin.com/jobs/view/4427733577",
   "first_seen": "2026-06-15T18:59:59.954475+00:00"
  },
@@ -742,7 +742,7 @@
   "title": "Javascript Developer - Remote Work",
   "company": "BairesDev",
   "location": "Cairo, Egypt",
-  "keyword": "Full Stack Developer",
+  "keyword": "Backend Engineer",
   "link": "https://www.linkedin.com/jobs/view/4427736576",
   "first_seen": "2026-06-15T18:59:59.954475+00:00"
  },
@@ -760,7 +760,7 @@
   "title": "Senior AI Engineer",
   "company": "Coca-Cola HBC",
   "location": "New Cairo, Cairo, Egypt",
-  "keyword": "API Developer",
+  "keyword": "Back end Developer",
   "link": "https://www.linkedin.com/jobs/view/4420910086",
   "first_seen": "2026-06-15T18:59:59.954475+00:00"
  },
@@ -778,7 +778,7 @@
   "title": "Semi Senior .NET Developer - Remote Work",
   "company": "BairesDev",
   "location": "Egypt",
-  "keyword": "Laravel",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4427760050",
   "first_seen": "2026-06-15T21:45:16.032468+00:00"
  },
@@ -922,7 +922,7 @@
   "title": "Semi Senior Python Developer - Remote Work",
   "company": "BairesDev",
   "location": "Cairo, Egypt",
-  "keyword": "Full Stack Developer",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4427745623",
   "first_seen": "2026-06-15T23:28:22.083759+00:00"
  },
@@ -931,7 +931,7 @@
   "title": "Semi Senior Python Developer - Remote Work",
   "company": "BairesDev",
   "location": "Egypt",
-  "keyword": "Laravel",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4427742694",
   "first_seen": "2026-06-15T23:28:22.083759+00:00"
  },
@@ -967,7 +967,7 @@
   "title": "DevOps Engineer 1",
   "company": "noon",
   "location": "New Cairo, Cairo, Egypt",
-  "keyword": "API Developer",
+  "keyword": "Web Developer",
   "link": "https://www.linkedin.com/jobs/view/4428830035",
   "first_seen": "2026-06-15T23:28:22.083759+00:00"
  },
@@ -994,7 +994,7 @@
   "title": "Full-Stack Product Engineer",
   "company": "The Flex",
   "location": "Egypt",
-  "keyword": "Full Stack Developer",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4429177193",
   "first_seen": "2026-06-16T02:07:03.993827+00:00"
  },
@@ -1021,7 +1021,7 @@
   "title": "Software Engineer",
   "company": "The Flex",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "PHP Developer",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4429156787",
   "first_seen": "2026-06-16T02:07:03.993827+00:00"
  },
@@ -1030,7 +1030,7 @@
   "title": "Software Engineer",
   "company": "The Flex",
   "location": "Egypt",
-  "keyword": "Full Stack Developer",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4429158770",
   "first_seen": "2026-06-16T02:07:03.993827+00:00"
  },
@@ -1048,7 +1048,7 @@
   "title": "Python Backend Engineer - Remote",
   "company": "YO IT Consulting",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "Full Stack Developer",
+  "keyword": "Backend Engineer",
   "link": "https://www.linkedin.com/jobs/view/4429180860",
   "first_seen": "2026-06-16T02:07:03.993827+00:00"
  },
@@ -1069,5 +1069,50 @@
   "keyword": "Web Developer",
   "link": "https://www.linkedin.com/jobs/view/4426400140",
   "first_seen": "2026-06-16T02:07:03.993827+00:00"
+ },
+ "4428031004": {
+  "id": "4428031004",
+  "title": "Junior Back-end Developer",
+  "company": "Bless Payments",
+  "location": "Egypt",
+  "keyword": "API Developer",
+  "link": "https://www.linkedin.com/jobs/view/4428031004",
+  "first_seen": "2026-06-16T08:24:59.272885+00:00"
+ },
+ "4429237345": {
+  "id": "4429237345",
+  "title": "Python Backend Intern",
+  "company": "Drop Me",
+  "location": "Cairo, Egypt",
+  "keyword": "Backend Developer",
+  "link": "https://www.linkedin.com/jobs/view/4429237345",
+  "first_seen": "2026-06-16T08:24:59.272885+00:00"
+ },
+ "4429228361": {
+  "id": "4429228361",
+  "title": "Microservice Dev engineer",
+  "company": "EgyBell",
+  "location": "Qesm El Maadi, Cairo, Egypt",
+  "keyword": "API Developer",
+  "link": "https://www.linkedin.com/jobs/view/4429228361",
+  "first_seen": "2026-06-16T08:24:59.272885+00:00"
+ },
+ "4429157751": {
+  "id": "4429157751",
+  "title": "Full-Stack Engineering Lead",
+  "company": "The Flex",
+  "location": "Egypt",
+  "keyword": "API Developer",
+  "link": "https://www.linkedin.com/jobs/view/4429157751",
+  "first_seen": "2026-06-16T08:24:59.272885+00:00"
+ },
+ "4429229496": {
+  "id": "4429229496",
+  "title": "Tech Lead - Full Stack .NET/React",
+  "company": "Consultants Valley",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "Full Stack Developer",
+  "link": "https://www.linkedin.com/jobs/view/4429229496",
+  "first_seen": "2026-06-16T08:24:59.272885+00:00"
  }
 }
