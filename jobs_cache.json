@@ -1021,7 +1021,7 @@
   "title": "Software Engineer",
   "company": "The Flex",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "Backend Developer",
+  "keyword": "Back end Developer",
   "link": "https://www.linkedin.com/jobs/view/4429156787",
   "first_seen": "2026-06-16T02:07:03.993827+00:00"
  },
@@ -1030,7 +1030,7 @@
   "title": "Software Engineer",
   "company": "The Flex",
   "location": "Egypt",
-  "keyword": "PHP Developer",
+  "keyword": "Back end Developer",
   "link": "https://www.linkedin.com/jobs/view/4429158770",
   "first_seen": "2026-06-16T02:07:03.993827+00:00"
  },
@@ -1129,7 +1129,7 @@
   "title": "Tech Lead (.NET/Microservices/React.js/DevOps)",
   "company": "Consultants Valley",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "Web Developer",
+  "keyword": "Back end Developer",
   "link": "https://www.linkedin.com/jobs/view/4429523370",
   "first_seen": "2026-06-16T13:09:01.587610+00:00"
  },
@@ -1201,7 +1201,7 @@
   "title": "Software Developer",
   "company": "Oncoustics",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "Web Developer",
+  "keyword": "Back end Developer",
   "link": "https://www.linkedin.com/jobs/view/4429554815",
   "first_seen": "2026-06-16T18:13:31.210257+00:00"
  },
@@ -1210,7 +1210,7 @@
   "title": "Rpgle,card 400,finastra",
   "company": "The United Bank",
   "location": "Cairo, Egypt",
-  "keyword": "Web Developer",
+  "keyword": "PHP Developer",
   "link": "https://www.linkedin.com/jobs/view/4426857304",
   "first_seen": "2026-06-16T18:13:31.210257+00:00"
  },
@@ -1219,7 +1219,7 @@
   "title": "Full Stack Developer",
   "company": "Oncoustics",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "Full Stack Developer",
+  "keyword": "Web Developer",
   "link": "https://www.linkedin.com/jobs/view/4429556805",
   "first_seen": "2026-06-16T18:13:31.210257+00:00"
  },
@@ -1237,7 +1237,7 @@
   "title": "Semi Senior Java Developer - Remote Work",
   "company": "BairesDev",
   "location": "Egypt",
-  "keyword": "Backend Developer",
+  "keyword": "Back end Developer",
   "link": "https://www.linkedin.com/jobs/view/4428062285",
   "first_seen": "2026-06-16T18:13:31.210257+00:00"
  },
@@ -1258,5 +1258,23 @@
   "keyword": "Backend Engineer",
   "link": "https://www.linkedin.com/jobs/view/4429564633",
   "first_seen": "2026-06-16T18:13:31.210257+00:00"
+ },
+ "4429170325": {
+  "id": "4429170325",
+  "title": "Senior Dotnet Developer",
+  "company": "Miramar",
+  "location": "Al Jizah, Egypt",
+  "keyword": "Back end Developer",
+  "link": "https://www.linkedin.com/jobs/view/4429170325",
+  "first_seen": "2026-06-16T21:24:15.517590+00:00"
+ },
+ "4429227746": {
+  "id": "4429227746",
+  "title": "Senior AI Engineer",
+  "company": "CEREBRUM",
+  "location": "Egypt",
+  "keyword": "Back end Developer",
+  "link": "https://www.linkedin.com/jobs/view/4429227746",
+  "first_seen": "2026-06-16T21:24:15.517590+00:00"
  }
 }
