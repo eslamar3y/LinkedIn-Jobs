@@ -976,7 +976,7 @@
   "title": "Founding Software Engineer",
   "company": "The Flex",
   "location": "Egypt",
-  "keyword": "Web Developer",
+  "keyword": "Backend Developer",
   "link": "https://www.linkedin.com/jobs/view/4429176498",
   "first_seen": "2026-06-16T02:07:03.993827+00:00"
  },
@@ -985,7 +985,7 @@
   "title": "Full-Stack Engineering Lead",
   "company": "The Flex",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "Backend Engineer",
+  "keyword": "Backend Developer",
   "link": "https://www.linkedin.com/jobs/view/4429171671",
   "first_seen": "2026-06-16T02:07:03.993827+00:00"
  },
@@ -1021,7 +1021,7 @@
   "title": "Software Engineer",
   "company": "The Flex",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "Back end Developer",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4429156787",
   "first_seen": "2026-06-16T02:07:03.993827+00:00"
  },
@@ -1030,7 +1030,7 @@
   "title": "Software Engineer",
   "company": "The Flex",
   "location": "Egypt",
-  "keyword": "Back end Developer",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4429158770",
   "first_seen": "2026-06-16T02:07:03.993827+00:00"
  },
@@ -1102,7 +1102,7 @@
   "title": "Full-Stack Engineering Lead",
   "company": "The Flex",
   "location": "Egypt",
-  "keyword": "Backend Engineer",
+  "keyword": "Laravel",
   "link": "https://www.linkedin.com/jobs/view/4429157751",
   "first_seen": "2026-06-16T08:24:59.272885+00:00"
  },
@@ -1129,7 +1129,7 @@
   "title": "Tech Lead (.NET/Microservices/React.js/DevOps)",
   "company": "Consultants Valley",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "Back end Developer",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4429523370",
   "first_seen": "2026-06-16T13:09:01.587610+00:00"
  },
@@ -1138,7 +1138,7 @@
   "title": "Job Opening -Senior Technical Engineer (Cisco ISE, Telephony, Zscaler)-Egypt Location",
   "company": "Tech Mahindra",
   "location": "Cairo, Egypt",
-  "keyword": "Back end Developer",
+  "keyword": "Backend Developer",
   "link": "https://www.linkedin.com/jobs/view/4427796930",
   "first_seen": "2026-06-16T13:09:01.587610+00:00"
  },
@@ -1147,7 +1147,7 @@
   "title": "Software Delivery Manager",
   "company": "Andalusia Health Egypt",
   "location": "Alexandria, Egypt",
-  "keyword": "Back end Developer",
+  "keyword": "Backend Developer",
   "link": "https://www.linkedin.com/jobs/view/4429519411",
   "first_seen": "2026-06-16T13:09:01.587610+00:00"
  },
@@ -1156,7 +1156,7 @@
   "title": "AI Architect",
   "company": "Magnet",
   "location": "Cairo, Egypt",
-  "keyword": "Back end Developer",
+  "keyword": "Backend Developer",
   "link": "https://www.linkedin.com/jobs/view/4429511716",
   "first_seen": "2026-06-16T13:09:01.587610+00:00"
  },
@@ -1201,7 +1201,7 @@
   "title": "Software Developer",
   "company": "Oncoustics",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "Back end Developer",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4429554815",
   "first_seen": "2026-06-16T18:13:31.210257+00:00"
  },
@@ -1210,7 +1210,7 @@
   "title": "Rpgle,card 400,finastra",
   "company": "The United Bank",
   "location": "Cairo, Egypt",
-  "keyword": "PHP Developer",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4426857304",
   "first_seen": "2026-06-16T18:13:31.210257+00:00"
  },
@@ -1219,7 +1219,7 @@
   "title": "Full Stack Developer",
   "company": "Oncoustics",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "Web Developer",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4429556805",
   "first_seen": "2026-06-16T18:13:31.210257+00:00"
  },
@@ -1228,7 +1228,7 @@
   "title": "Senior Software Engineer",
   "company": "Loynova",
   "location": "Giza, Al Jizah, Egypt",
-  "keyword": "Full Stack Developer",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4426860058",
   "first_seen": "2026-06-16T18:13:31.210257+00:00"
  },
@@ -1237,7 +1237,7 @@
   "title": "Semi Senior Java Developer - Remote Work",
   "company": "BairesDev",
   "location": "Egypt",
-  "keyword": "Back end Developer",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4428062285",
   "first_seen": "2026-06-16T18:13:31.210257+00:00"
  },
@@ -1273,8 +1273,44 @@
   "title": "Senior AI Engineer",
   "company": "CEREBRUM",
   "location": "Egypt",
-  "keyword": "Back end Developer",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4429227746",
   "first_seen": "2026-06-16T21:24:15.517590+00:00"
+ },
+ "4426479348": {
+  "id": "4426479348",
+  "title": "Senior Automation & AI Engineer (Project-based)",
+  "company": "Mobility Pro DMCC",
+  "location": "Cairo, Egypt",
+  "keyword": "Backend Developer",
+  "link": "https://www.linkedin.com/jobs/view/4426479348",
+  "first_seen": "2026-06-16T23:00:03.363236+00:00"
+ },
+ "4414089869": {
+  "id": "4414089869",
+  "title": "SASE Automation Engineer",
+  "company": "CodiLime",
+  "location": "Egypt",
+  "keyword": "Backend Developer",
+  "link": "https://www.linkedin.com/jobs/view/4414089869",
+  "first_seen": "2026-06-16T23:00:03.363236+00:00"
+ },
+ "4418217363": {
+  "id": "4418217363",
+  "title": "Stay Connected with Ciena – Future Opportunities",
+  "company": "Ciena",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "Backend Developer",
+  "link": "https://www.linkedin.com/jobs/view/4418217363",
+  "first_seen": "2026-06-16T23:00:03.363236+00:00"
+ },
+ "4426837527": {
+  "id": "4426837527",
+  "title": "Senior Software Engineer - Ionic",
+  "company": "FlairsTech",
+  "location": "Qesm El Maadi, Cairo, Egypt",
+  "keyword": "Back end Developer",
+  "link": "https://www.linkedin.com/jobs/view/4426837527",
+  "first_seen": "2026-06-16T23:00:03.363236+00:00"
  }
 }
