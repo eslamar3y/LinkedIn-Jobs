@@ -1462,7 +1462,7 @@
   "title": "Mid-level Backend .NET Engineer",
   "company": "United for Aviation Technology Services",
   "location": "Cairo, Egypt",
-  "keyword": "Full Stack Developer",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4429786632",
   "first_seen": "2026-06-17T10:11:42.344895+00:00"
  },
@@ -1489,7 +1489,7 @@
   "title": "Java Software Engineer",
   "company": "Banque Misr",
   "location": "Cairo, Egypt",
-  "keyword": "Backend Engineer",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4427332422",
   "first_seen": "2026-06-17T10:11:42.344895+00:00"
  },
@@ -1498,7 +1498,7 @@
   "title": "Java Software Engineer",
   "company": "Banque Misr",
   "location": "New Cairo, Cairo, Egypt",
-  "keyword": "Backend Engineer",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4429909089",
   "first_seen": "2026-06-17T10:11:42.344895+00:00"
  },
@@ -1507,7 +1507,7 @@
   "title": "Senior Software Engineer (. Net Core)",
   "company": "Floward",
   "location": "Cairo, Egypt",
-  "keyword": "Backend Developer",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4224334202",
   "first_seen": "2026-06-17T10:11:42.344895+00:00"
  },
@@ -1534,7 +1534,7 @@
   "title": "PHP Technical Interviewer",
   "company": "Intetics",
   "location": "Egypt",
-  "keyword": "Laravel",
+  "keyword": "PHP Laravel",
   "link": "https://www.linkedin.com/jobs/view/4429951404",
   "first_seen": "2026-06-17T14:06:36.560528+00:00"
  },
@@ -1561,7 +1561,7 @@
   "title": "Provisioning Specialist",
   "company": "Vodafone",
   "location": "Giza, Al Jizah, Egypt",
-  "keyword": "PHP Developer",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4427344690",
   "first_seen": "2026-06-17T14:06:36.560528+00:00"
  },
@@ -1570,7 +1570,7 @@
   "title": "Backend Chapter Lead",
   "company": "Vodafone",
   "location": "Giza, Al Jizah, Egypt",
-  "keyword": "Back end Developer",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4427366501",
   "first_seen": "2026-06-17T14:06:36.560528+00:00"
  },
@@ -1660,7 +1660,7 @@
   "title": "Zoho Developer",
   "company": "فانوس للإنارة",
   "location": "New Cairo, Cairo, Egypt",
-  "keyword": "API Developer",
+  "keyword": "Full Stack Developer",
   "link": "https://www.linkedin.com/jobs/view/4429936124",
   "first_seen": "2026-06-17T14:06:36.560528+00:00"
  },
@@ -1669,7 +1669,7 @@
   "title": "Charging Tech Specialist",
   "company": "Vodafone",
   "location": "Giza, Al Jizah, Egypt",
-  "keyword": "Backend Engineer",
+  "keyword": "Full Stack Developer",
   "link": "https://www.linkedin.com/jobs/view/4427365563",
   "first_seen": "2026-06-17T17:27:31.809776+00:00"
  },
@@ -1687,7 +1687,7 @@
   "title": "Junior Data Developer",
   "company": "Palm Outsourcing",
   "location": "Egypt",
-  "keyword": "Backend Engineer",
+  "keyword": "PHP Developer",
   "link": "https://www.linkedin.com/jobs/view/4428467758",
   "first_seen": "2026-06-17T17:27:31.809776+00:00"
  },
@@ -1705,7 +1705,7 @@
   "title": "Software Engineer (.NET)",
   "company": "Swisstech",
   "location": "Cairo, Egypt",
-  "keyword": "PHP Developer",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4429962696",
   "first_seen": "2026-06-17T17:27:31.809776+00:00"
  },
@@ -1750,7 +1750,7 @@
   "title": "Senior Frontend Developer",
   "company": "Celfocus",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "Web Developer",
+  "keyword": "Full Stack Developer",
   "link": "https://www.linkedin.com/jobs/view/4370070887",
   "first_seen": "2026-06-17T17:27:31.809776+00:00"
  },
@@ -1795,7 +1795,7 @@
   "title": "Software Tester (Hybrid)",
   "company": "NEN | National Education Network",
   "location": "Qesm 1st 6 October, Al Jizah, Egypt",
-  "keyword": "Backend Engineer",
+  "keyword": "Web Developer",
   "link": "https://www.linkedin.com/jobs/view/4429942728",
   "first_seen": "2026-06-17T17:27:31.809776+00:00"
  },
@@ -1852,5 +1852,77 @@
   "keyword": "Backend Engineer",
   "link": "https://www.linkedin.com/jobs/view/4429903039",
   "first_seen": "2026-06-17T17:27:31.809776+00:00"
+ },
+ "4379088074": {
+  "id": "4379088074",
+  "title": "Deloitte Innovation Hub I Senior Backend Developer, Cairo, Egypt",
+  "company": "Deloitte",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "API Developer",
+  "link": "https://www.linkedin.com/jobs/view/4379088074",
+  "first_seen": "2026-06-17T19:34:48.261051+00:00"
+ },
+ "4379066931": {
+  "id": "4379066931",
+  "title": "Deloitte Innovation Hub I React Native Developer Tech Lead, Cairo, Egypt",
+  "company": "Deloitte",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "Web Developer",
+  "link": "https://www.linkedin.com/jobs/view/4379066931",
+  "first_seen": "2026-06-17T19:34:48.261051+00:00"
+ },
+ "4427355133": {
+  "id": "4427355133",
+  "title": "AI Engineering Lead",
+  "company": "Unifonic",
+  "location": "Cairo, Egypt",
+  "keyword": "Web Developer",
+  "link": "https://www.linkedin.com/jobs/view/4427355133",
+  "first_seen": "2026-06-17T19:34:48.261051+00:00"
+ },
+ "4428479361": {
+  "id": "4428479361",
+  "title": "Senior Flutter Developer (Mobile)",
+  "company": "York Towers",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "Web Developer",
+  "link": "https://www.linkedin.com/jobs/view/4428479361",
+  "first_seen": "2026-06-17T19:34:48.261051+00:00"
+ },
+ "4427342521": {
+  "id": "4427342521",
+  "title": "Senior Data Platform Engineer",
+  "company": "ProperBird",
+  "location": "Egypt",
+  "keyword": "Web Developer",
+  "link": "https://www.linkedin.com/jobs/view/4427342521",
+  "first_seen": "2026-06-17T19:34:48.261051+00:00"
+ },
+ "4429989312": {
+  "id": "4429989312",
+  "title": "Engineering Manager (Fin-tech)",
+  "company": "The Empire of Fin-tech Companies",
+  "location": "Qesm El Maadi, Cairo, Egypt",
+  "keyword": "Web Developer",
+  "link": "https://www.linkedin.com/jobs/view/4429989312",
+  "first_seen": "2026-06-17T19:34:48.261051+00:00"
+ },
+ "4379088073": {
+  "id": "4379088073",
+  "title": "Deloitte Innovation Hub I Power Platform Developer Tech Lead, Intelligent Automation, Cairo, Egypt",
+  "company": "Deloitte",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "Web Developer",
+  "link": "https://www.linkedin.com/jobs/view/4379088073",
+  "first_seen": "2026-06-17T19:34:48.261051+00:00"
+ },
+ "4379077256": {
+  "id": "4379077256",
+  "title": "Deloitte Innovation Hub I Data Engineering Tech Lead, Cairo, Egypt",
+  "company": "Deloitte",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "Web Developer",
+  "link": "https://www.linkedin.com/jobs/view/4379077256",
+  "first_seen": "2026-06-17T19:34:48.261051+00:00"
  }
 }
