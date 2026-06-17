@@ -1507,7 +1507,7 @@
   "title": "Senior Software Engineer (. Net Core)",
   "company": "Floward",
   "location": "Cairo, Egypt",
-  "keyword": "Back end Developer",
+  "keyword": "Backend Developer",
   "link": "https://www.linkedin.com/jobs/view/4224334202",
   "first_seen": "2026-06-17T10:11:42.344895+00:00"
  },
@@ -1534,7 +1534,7 @@
   "title": "PHP Technical Interviewer",
   "company": "Intetics",
   "location": "Egypt",
-  "keyword": "PHP Developer",
+  "keyword": "Laravel",
   "link": "https://www.linkedin.com/jobs/view/4429951404",
   "first_seen": "2026-06-17T14:06:36.560528+00:00"
  },
@@ -1561,7 +1561,7 @@
   "title": "Provisioning Specialist",
   "company": "Vodafone",
   "location": "Giza, Al Jizah, Egypt",
-  "keyword": "Back end Developer",
+  "keyword": "PHP Developer",
   "link": "https://www.linkedin.com/jobs/view/4427344690",
   "first_seen": "2026-06-17T14:06:36.560528+00:00"
  },
@@ -1606,7 +1606,7 @@
   "title": "Senior Data Engineer (VOIS)",
   "company": "VOIS",
   "location": "Giza, Al Jizah, Egypt",
-  "keyword": "Back end Developer",
+  "keyword": "Backend Engineer",
   "link": "https://www.linkedin.com/jobs/view/4427346630",
   "first_seen": "2026-06-17T14:06:36.560528+00:00"
  },
@@ -1633,7 +1633,7 @@
   "title": "Senior Software Development Engineer in Test",
   "company": "Pixelogic Media",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "Back end Developer",
+  "keyword": "Backend Engineer",
   "link": "https://www.linkedin.com/jobs/view/4427365338",
   "first_seen": "2026-06-17T14:06:36.560528+00:00"
  },
@@ -1642,7 +1642,7 @@
   "title": "Senior Hybrid Cloud Automation Engineer",
   "company": "Coca-Cola HBC",
   "location": "Cairo, Egypt",
-  "keyword": "Back end Developer",
+  "keyword": "Backend Engineer",
   "link": "https://www.linkedin.com/jobs/view/4429900241",
   "first_seen": "2026-06-17T14:06:36.560528+00:00"
  },
@@ -1663,5 +1663,194 @@
   "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4429936124",
   "first_seen": "2026-06-17T14:06:36.560528+00:00"
+ },
+ "4427365563": {
+  "id": "4427365563",
+  "title": "Charging Tech Specialist",
+  "company": "Vodafone",
+  "location": "Giza, Al Jizah, Egypt",
+  "keyword": "Backend Engineer",
+  "link": "https://www.linkedin.com/jobs/view/4427365563",
+  "first_seen": "2026-06-17T17:27:31.809776+00:00"
+ },
+ "4429963467": {
+  "id": "4429963467",
+  "title": "Integration Developer",
+  "company": "TP",
+  "location": "Qesm El Maadi, Cairo, Egypt",
+  "keyword": "API Developer",
+  "link": "https://www.linkedin.com/jobs/view/4429963467",
+  "first_seen": "2026-06-17T17:27:31.809776+00:00"
+ },
+ "4428467758": {
+  "id": "4428467758",
+  "title": "Junior Data Developer",
+  "company": "Palm Outsourcing",
+  "location": "Egypt",
+  "keyword": "Backend Engineer",
+  "link": "https://www.linkedin.com/jobs/view/4428467758",
+  "first_seen": "2026-06-17T17:27:31.809776+00:00"
+ },
+ "4429949578": {
+  "id": "4429949578",
+  "title": "Odoo Consultant – MEA",
+  "company": "NOK Human Capital",
+  "location": "Cairo, Egypt",
+  "keyword": "PHP Laravel",
+  "link": "https://www.linkedin.com/jobs/view/4429949578",
+  "first_seen": "2026-06-17T17:27:31.809776+00:00"
+ },
+ "4429962696": {
+  "id": "4429962696",
+  "title": "Software Engineer (.NET)",
+  "company": "Swisstech",
+  "location": "Cairo, Egypt",
+  "keyword": "PHP Developer",
+  "link": "https://www.linkedin.com/jobs/view/4429962696",
+  "first_seen": "2026-06-17T17:27:31.809776+00:00"
+ },
+ "4429942854": {
+  "id": "4429942854",
+  "title": "Lead Software Engineer - .Net Full Stack",
+  "company": "Integrant, Inc.",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "Full Stack Developer",
+  "link": "https://www.linkedin.com/jobs/view/4429942854",
+  "first_seen": "2026-06-17T17:27:31.809776+00:00"
+ },
+ "4427390045": {
+  "id": "4427390045",
+  "title": "Hands-On Development Lead  (SaaS Workflow & Transactional Orchestration)",
+  "company": "Unival",
+  "location": "Heliopolis, Cairo, Egypt",
+  "keyword": "API Developer",
+  "link": "https://www.linkedin.com/jobs/view/4427390045",
+  "first_seen": "2026-06-17T17:27:31.809776+00:00"
+ },
+ "4370343501": {
+  "id": "4370343501",
+  "title": "Senior Google Cloud Data Engineer, Valeo Service",
+  "company": "Valeo",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "Backend Engineer",
+  "link": "https://www.linkedin.com/jobs/view/4370343501",
+  "first_seen": "2026-06-17T17:27:31.809776+00:00"
+ },
+ "4429901689": {
+  "id": "4429901689",
+  "title": "Integration Support Engineer",
+  "company": "noon",
+  "location": "New Cairo, Cairo, Egypt",
+  "keyword": "Backend Engineer",
+  "link": "https://www.linkedin.com/jobs/view/4429901689",
+  "first_seen": "2026-06-17T17:27:31.809776+00:00"
+ },
+ "4370070887": {
+  "id": "4370070887",
+  "title": "Senior Frontend Developer",
+  "company": "Celfocus",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "Web Developer",
+  "link": "https://www.linkedin.com/jobs/view/4370070887",
+  "first_seen": "2026-06-17T17:27:31.809776+00:00"
+ },
+ "4429974305": {
+  "id": "4429974305",
+  "title": "System Engineer",
+  "company": "IST Networks",
+  "location": "Cairo, Egypt",
+  "keyword": "Backend Engineer",
+  "link": "https://www.linkedin.com/jobs/view/4429974305",
+  "first_seen": "2026-06-17T17:27:31.809776+00:00"
+ },
+ "4399782070": {
+  "id": "4399782070",
+  "title": "Senior Data Engineer - Data Integration - Databricks",
+  "company": "IBM",
+  "location": "Giza, Al Jizah, Egypt",
+  "keyword": "Backend Engineer",
+  "link": "https://www.linkedin.com/jobs/view/4399782070",
+  "first_seen": "2026-06-17T17:27:31.809776+00:00"
+ },
+ "4409902046": {
+  "id": "4409902046",
+  "title": "Cyber Security Engineer (m/w/d)",
+  "company": "sonnen Egypt",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "Backend Engineer",
+  "link": "https://www.linkedin.com/jobs/view/4409902046",
+  "first_seen": "2026-06-17T17:27:31.809776+00:00"
+ },
+ "4428489917": {
+  "id": "4428489917",
+  "title": "Application Engineer (P2)",
+  "company": "ITT Inc.",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "Backend Engineer",
+  "link": "https://www.linkedin.com/jobs/view/4428489917",
+  "first_seen": "2026-06-17T17:27:31.809776+00:00"
+ },
+ "4429942728": {
+  "id": "4429942728",
+  "title": "Software Tester (Hybrid)",
+  "company": "NEN | National Education Network",
+  "location": "Qesm 1st 6 October, Al Jizah, Egypt",
+  "keyword": "Backend Engineer",
+  "link": "https://www.linkedin.com/jobs/view/4429942728",
+  "first_seen": "2026-06-17T17:27:31.809776+00:00"
+ },
+ "4387525263": {
+  "id": "4387525263",
+  "title": "Technical Support Engineer",
+  "company": "Mindware",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "Backend Engineer",
+  "link": "https://www.linkedin.com/jobs/view/4387525263",
+  "first_seen": "2026-06-17T17:27:31.809776+00:00"
+ },
+ "4428736076": {
+  "id": "4428736076",
+  "title": "Test Engineering Team Lead",
+  "company": "Siemens",
+  "location": "Qesm 2nd New Cairo, Cairo, Egypt",
+  "keyword": "Backend Engineer",
+  "link": "https://www.linkedin.com/jobs/view/4428736076",
+  "first_seen": "2026-06-17T17:27:31.809776+00:00"
+ },
+ "4429902500": {
+  "id": "4429902500",
+  "title": "Senior Integration Specialist",
+  "company": "geidea",
+  "location": "Cairo, Egypt",
+  "keyword": "Backend Engineer",
+  "link": "https://www.linkedin.com/jobs/view/4429902500",
+  "first_seen": "2026-06-17T17:27:31.809776+00:00"
+ },
+ "4417894625": {
+  "id": "4417894625",
+  "title": "E&M Interface Engineer @Siemens Mobility Egypt",
+  "company": "Siemens",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "Backend Engineer",
+  "link": "https://www.linkedin.com/jobs/view/4417894625",
+  "first_seen": "2026-06-17T17:27:31.809776+00:00"
+ },
+ "4428488927": {
+  "id": "4428488927",
+  "title": "Remote Python/FastAPI Developer",
+  "company": "Turing",
+  "location": "Egypt",
+  "keyword": "Backend Engineer",
+  "link": "https://www.linkedin.com/jobs/view/4428488927",
+  "first_seen": "2026-06-17T17:27:31.809776+00:00"
+ },
+ "4429903039": {
+  "id": "4429903039",
+  "title": "Application Support Team Lead",
+  "company": "geidea",
+  "location": "Cairo, Egypt",
+  "keyword": "Backend Engineer",
+  "link": "https://www.linkedin.com/jobs/view/4429903039",
+  "first_seen": "2026-06-17T17:27:31.809776+00:00"
  }
 }
