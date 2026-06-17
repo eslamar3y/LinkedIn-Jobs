@@ -1129,7 +1129,7 @@
   "title": "Tech Lead (.NET/Microservices/React.js/DevOps)",
   "company": "Consultants Valley",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "PHP Laravel",
+  "keyword": "Web Developer",
   "link": "https://www.linkedin.com/jobs/view/4429523370",
   "first_seen": "2026-06-16T13:09:01.587610+00:00"
  },
@@ -1237,7 +1237,7 @@
   "title": "Semi Senior Java Developer - Remote Work",
   "company": "BairesDev",
   "location": "Egypt",
-  "keyword": "PHP Developer",
+  "keyword": "Web Developer",
   "link": "https://www.linkedin.com/jobs/view/4428062285",
   "first_seen": "2026-06-16T18:13:31.210257+00:00"
  },
@@ -1309,7 +1309,7 @@
   "title": "Senior Software Engineer - Ionic",
   "company": "FlairsTech",
   "location": "Qesm El Maadi, Cairo, Egypt",
-  "keyword": "Back end Developer",
+  "keyword": "Web Developer",
   "link": "https://www.linkedin.com/jobs/view/4426837527",
   "first_seen": "2026-06-16T23:00:03.363236+00:00"
  },
@@ -1327,7 +1327,7 @@
   "title": "Data Engineering Lead",
   "company": "Native-Career",
   "location": "Cairo, Egypt",
-  "keyword": "PHP Laravel",
+  "keyword": "Web Developer",
   "link": "https://www.linkedin.com/jobs/view/4429240497",
   "first_seen": "2026-06-17T00:19:22.743798+00:00"
  },
@@ -1420,5 +1420,41 @@
   "keyword": "Back end Developer",
   "link": "https://www.linkedin.com/jobs/view/4429553886",
   "first_seen": "2026-06-17T00:19:22.743798+00:00"
+ },
+ "4427305105": {
+  "id": "4427305105",
+  "title": "Node.js Software Engineer - Remote",
+  "company": "YO IT Consulting",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "Full Stack Developer",
+  "link": "https://www.linkedin.com/jobs/view/4427305105",
+  "first_seen": "2026-06-17T05:21:45.958929+00:00"
+ },
+ "4379254806": {
+  "id": "4379254806",
+  "title": "Deloitte Innovation Hub | ServiceNow Developer Tech Lead, Cairo, Egypt",
+  "company": "Deloitte",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "Web Developer",
+  "link": "https://www.linkedin.com/jobs/view/4379254806",
+  "first_seen": "2026-06-17T05:21:45.958929+00:00"
+ },
+ "4429224833": {
+  "id": "4429224833",
+  "title": "Business Intelligence Developer",
+  "company": "TP",
+  "location": "Qesm El Maadi, Cairo, Egypt",
+  "keyword": "Web Developer",
+  "link": "https://www.linkedin.com/jobs/view/4429224833",
+  "first_seen": "2026-06-17T05:21:45.958929+00:00"
+ },
+ "4428405889": {
+  "id": "4428405889",
+  "title": "Remote User Interface (B2B SaaS)",
+  "company": "Infomatix Web Technologies LLP",
+  "location": "Egypt",
+  "keyword": "Web Developer",
+  "link": "https://www.linkedin.com/jobs/view/4428405889",
+  "first_seen": "2026-06-17T05:21:45.958929+00:00"
  }
 }
