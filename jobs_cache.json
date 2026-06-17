@@ -1129,7 +1129,7 @@
   "title": "Tech Lead (.NET/Microservices/React.js/DevOps)",
   "company": "Consultants Valley",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "API Developer",
+  "keyword": "PHP Laravel",
   "link": "https://www.linkedin.com/jobs/view/4429523370",
   "first_seen": "2026-06-16T13:09:01.587610+00:00"
  },
@@ -1138,7 +1138,7 @@
   "title": "Job Opening -Senior Technical Engineer (Cisco ISE, Telephony, Zscaler)-Egypt Location",
   "company": "Tech Mahindra",
   "location": "Cairo, Egypt",
-  "keyword": "Backend Developer",
+  "keyword": "PHP Laravel",
   "link": "https://www.linkedin.com/jobs/view/4427796930",
   "first_seen": "2026-06-16T13:09:01.587610+00:00"
  },
@@ -1156,7 +1156,7 @@
   "title": "AI Architect",
   "company": "Magnet",
   "location": "Cairo, Egypt",
-  "keyword": "Backend Developer",
+  "keyword": "Back end Developer",
   "link": "https://www.linkedin.com/jobs/view/4429511716",
   "first_seen": "2026-06-16T13:09:01.587610+00:00"
  },
@@ -1201,7 +1201,7 @@
   "title": "Software Developer",
   "company": "Oncoustics",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "API Developer",
+  "keyword": "PHP Developer",
   "link": "https://www.linkedin.com/jobs/view/4429554815",
   "first_seen": "2026-06-16T18:13:31.210257+00:00"
  },
@@ -1219,7 +1219,7 @@
   "title": "Full Stack Developer",
   "company": "Oncoustics",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "API Developer",
+  "keyword": "Full Stack Developer",
   "link": "https://www.linkedin.com/jobs/view/4429556805",
   "first_seen": "2026-06-16T18:13:31.210257+00:00"
  },
@@ -1228,7 +1228,7 @@
   "title": "Senior Software Engineer",
   "company": "Loynova",
   "location": "Giza, Al Jizah, Egypt",
-  "keyword": "API Developer",
+  "keyword": "Full Stack Developer",
   "link": "https://www.linkedin.com/jobs/view/4426860058",
   "first_seen": "2026-06-16T18:13:31.210257+00:00"
  },
@@ -1237,7 +1237,7 @@
   "title": "Semi Senior Java Developer - Remote Work",
   "company": "BairesDev",
   "location": "Egypt",
-  "keyword": "API Developer",
+  "keyword": "PHP Developer",
   "link": "https://www.linkedin.com/jobs/view/4428062285",
   "first_seen": "2026-06-16T18:13:31.210257+00:00"
  },
@@ -1255,7 +1255,7 @@
   "title": "Junior Android Developer",
   "company": "Oncoustics",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "Backend Engineer",
+  "keyword": "Back end Developer",
   "link": "https://www.linkedin.com/jobs/view/4429564633",
   "first_seen": "2026-06-16T18:13:31.210257+00:00"
  },
@@ -1312,5 +1312,113 @@
   "keyword": "Back end Developer",
   "link": "https://www.linkedin.com/jobs/view/4426837527",
   "first_seen": "2026-06-16T23:00:03.363236+00:00"
+ },
+ "4429242579": {
+  "id": "4429242579",
+  "title": "Intune Support Engineer",
+  "company": "Tech Mahindra",
+  "location": "Cairo, Egypt",
+  "keyword": "PHP Laravel",
+  "link": "https://www.linkedin.com/jobs/view/4429242579",
+  "first_seen": "2026-06-17T00:19:22.743798+00:00"
+ },
+ "4429240497": {
+  "id": "4429240497",
+  "title": "Data Engineering Lead",
+  "company": "Native-Career",
+  "location": "Cairo, Egypt",
+  "keyword": "PHP Laravel",
+  "link": "https://www.linkedin.com/jobs/view/4429240497",
+  "first_seen": "2026-06-17T00:19:22.743798+00:00"
+ },
+ "4429527275": {
+  "id": "4429527275",
+  "title": "Wintel System Administrator - Freelancer",
+  "company": "SCC Services Romania",
+  "location": "Egypt",
+  "keyword": "PHP Laravel",
+  "link": "https://www.linkedin.com/jobs/view/4429527275",
+  "first_seen": "2026-06-17T00:19:22.743798+00:00"
+ },
+ "4379290101": {
+  "id": "4379290101",
+  "title": "Deloitte Innovation Hub | Senior Cloud Engineer, Site Reliability Engineer, Cairo, Egypt",
+  "company": "Deloitte",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "PHP Laravel",
+  "link": "https://www.linkedin.com/jobs/view/4379290101",
+  "first_seen": "2026-06-17T00:19:22.743798+00:00"
+ },
+ "4426815439": {
+  "id": "4426815439",
+  "title": "Information Technology Analyst",
+  "company": "NUMENTIS",
+  "location": "Cairo, Egypt",
+  "keyword": "PHP Laravel",
+  "link": "https://www.linkedin.com/jobs/view/4426815439",
+  "first_seen": "2026-06-17T00:19:22.743798+00:00"
+ },
+ "4429527008": {
+  "id": "4429527008",
+  "title": "Senior SAP Basis Administrator - Egypt - remote",
+  "company": "SCC Services Romania",
+  "location": "Egypt",
+  "keyword": "PHP Laravel",
+  "link": "https://www.linkedin.com/jobs/view/4429527008",
+  "first_seen": "2026-06-17T00:19:22.743798+00:00"
+ },
+ "4412251852": {
+  "id": "4412251852",
+  "title": "Senior Data Engineer",
+  "company": "IBM",
+  "location": "Giza, Al Jizah, Egypt",
+  "keyword": "PHP Laravel",
+  "link": "https://www.linkedin.com/jobs/view/4412251852",
+  "first_seen": "2026-06-17T00:19:22.743798+00:00"
+ },
+ "4362372614": {
+  "id": "4362372614",
+  "title": "Technical Support Specialist Level 2 - VMware by Broadcom",
+  "company": "Arrow Electronics",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "PHP Laravel",
+  "link": "https://www.linkedin.com/jobs/view/4362372614",
+  "first_seen": "2026-06-17T00:19:22.743798+00:00"
+ },
+ "4426820687": {
+  "id": "4426820687",
+  "title": "Senior Application Support Engineer (L2)",
+  "company": "BlackStone eIT",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "PHP Laravel",
+  "link": "https://www.linkedin.com/jobs/view/4426820687",
+  "first_seen": "2026-06-17T00:19:22.743798+00:00"
+ },
+ "4427498026": {
+  "id": "4427498026",
+  "title": "Technical Support Team Lead",
+  "company": "WinFi",
+  "location": "Cairo, Egypt",
+  "keyword": "PHP Laravel",
+  "link": "https://www.linkedin.com/jobs/view/4427498026",
+  "first_seen": "2026-06-17T00:19:22.743798+00:00"
+ },
+ "4429243117": {
+  "id": "4429243117",
+  "title": "English technical Customer Support",
+  "company": "ETISAL International Group",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "PHP Laravel",
+  "link": "https://www.linkedin.com/jobs/view/4429243117",
+  "first_seen": "2026-06-17T00:19:22.743798+00:00"
+ },
+ "4429553886": {
+  "id": "4429553886",
+  "title": "Senior Machine Learning Engineer",
+  "company": "Oncoustics",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "Back end Developer",
+  "link": "https://www.linkedin.com/jobs/view/4429553886",
+  "first_seen": "2026-06-17T00:19:22.743798+00:00"
  }
 }
