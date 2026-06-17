@@ -1237,7 +1237,7 @@
   "title": "Semi Senior Java Developer - Remote Work",
   "company": "BairesDev",
   "location": "Egypt",
-  "keyword": "Web Developer",
+  "keyword": "Backend Developer",
   "link": "https://www.linkedin.com/jobs/view/4428062285",
   "first_seen": "2026-06-16T18:13:31.210257+00:00"
  },
@@ -1309,7 +1309,7 @@
   "title": "Senior Software Engineer - Ionic",
   "company": "FlairsTech",
   "location": "Qesm El Maadi, Cairo, Egypt",
-  "keyword": "Web Developer",
+  "keyword": "Back end Developer",
   "link": "https://www.linkedin.com/jobs/view/4426837527",
   "first_seen": "2026-06-16T23:00:03.363236+00:00"
  },
@@ -1456,5 +1456,77 @@
   "keyword": "Web Developer",
   "link": "https://www.linkedin.com/jobs/view/4428405889",
   "first_seen": "2026-06-17T05:21:45.958929+00:00"
+ },
+ "4429786632": {
+  "id": "4429786632",
+  "title": "Mid-level Backend .NET Engineer",
+  "company": "United for Aviation Technology Services",
+  "location": "Cairo, Egypt",
+  "keyword": "Full Stack Developer",
+  "link": "https://www.linkedin.com/jobs/view/4429786632",
+  "first_seen": "2026-06-17T10:11:42.344895+00:00"
+ },
+ "4429904285": {
+  "id": "4429904285",
+  "title": "Sr. Backend Developer (Golang)",
+  "company": "Technosat Company for Communications and Information Technology",
+  "location": "New Cairo, Cairo, Egypt",
+  "keyword": "Backend Developer",
+  "link": "https://www.linkedin.com/jobs/view/4429904285",
+  "first_seen": "2026-06-17T10:11:42.344895+00:00"
+ },
+ "4429792524": {
+  "id": "4429792524",
+  "title": "Mid-Level Python Backend Developer",
+  "company": "IGRC SQUARE",
+  "location": "Cairo, Egypt",
+  "keyword": "Backend Developer",
+  "link": "https://www.linkedin.com/jobs/view/4429792524",
+  "first_seen": "2026-06-17T10:11:42.344895+00:00"
+ },
+ "4427332422": {
+  "id": "4427332422",
+  "title": "Java Software Engineer",
+  "company": "Banque Misr",
+  "location": "Cairo, Egypt",
+  "keyword": "Backend Engineer",
+  "link": "https://www.linkedin.com/jobs/view/4427332422",
+  "first_seen": "2026-06-17T10:11:42.344895+00:00"
+ },
+ "4429909089": {
+  "id": "4429909089",
+  "title": "Java Software Engineer",
+  "company": "Banque Misr",
+  "location": "New Cairo, Cairo, Egypt",
+  "keyword": "Backend Engineer",
+  "link": "https://www.linkedin.com/jobs/view/4429909089",
+  "first_seen": "2026-06-17T10:11:42.344895+00:00"
+ },
+ "4224334202": {
+  "id": "4224334202",
+  "title": "Senior Software Engineer (. Net Core)",
+  "company": "Floward",
+  "location": "Cairo, Egypt",
+  "keyword": "Backend Developer",
+  "link": "https://www.linkedin.com/jobs/view/4224334202",
+  "first_seen": "2026-06-17T10:11:42.344895+00:00"
+ },
+ "4429913452": {
+  "id": "4429913452",
+  "title": "Full Stack Developer",
+  "company": "EV Cozmo",
+  "location": "Egypt",
+  "keyword": "Full Stack Developer",
+  "link": "https://www.linkedin.com/jobs/view/4429913452",
+  "first_seen": "2026-06-17T10:11:42.344895+00:00"
+ },
+ "4429912577": {
+  "id": "4429912577",
+  "title": "AI Agent Engineer",
+  "company": "Mondia",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "Backend Developer",
+  "link": "https://www.linkedin.com/jobs/view/4429912577",
+  "first_seen": "2026-06-17T10:11:42.344895+00:00"
  }
 }
