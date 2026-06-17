@@ -1237,7 +1237,7 @@
   "title": "Semi Senior Java Developer - Remote Work",
   "company": "BairesDev",
   "location": "Egypt",
-  "keyword": "Backend Developer",
+  "keyword": "Back end Developer",
   "link": "https://www.linkedin.com/jobs/view/4428062285",
   "first_seen": "2026-06-16T18:13:31.210257+00:00"
  },
@@ -1345,7 +1345,7 @@
   "title": "Deloitte Innovation Hub | Senior Cloud Engineer, Site Reliability Engineer, Cairo, Egypt",
   "company": "Deloitte",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "PHP Laravel",
+  "keyword": "Back end Developer",
   "link": "https://www.linkedin.com/jobs/view/4379290101",
   "first_seen": "2026-06-17T00:19:22.743798+00:00"
  },
@@ -1435,7 +1435,7 @@
   "title": "Deloitte Innovation Hub | ServiceNow Developer Tech Lead, Cairo, Egypt",
   "company": "Deloitte",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "Web Developer",
+  "keyword": "Back end Developer",
   "link": "https://www.linkedin.com/jobs/view/4379254806",
   "first_seen": "2026-06-17T05:21:45.958929+00:00"
  },
@@ -1507,7 +1507,7 @@
   "title": "Senior Software Engineer (. Net Core)",
   "company": "Floward",
   "location": "Cairo, Egypt",
-  "keyword": "Backend Developer",
+  "keyword": "Back end Developer",
   "link": "https://www.linkedin.com/jobs/view/4224334202",
   "first_seen": "2026-06-17T10:11:42.344895+00:00"
  },
@@ -1528,5 +1528,140 @@
   "keyword": "Backend Developer",
   "link": "https://www.linkedin.com/jobs/view/4429912577",
   "first_seen": "2026-06-17T10:11:42.344895+00:00"
+ },
+ "4429951404": {
+  "id": "4429951404",
+  "title": "PHP Technical Interviewer",
+  "company": "Intetics",
+  "location": "Egypt",
+  "keyword": "PHP Developer",
+  "link": "https://www.linkedin.com/jobs/view/4429951404",
+  "first_seen": "2026-06-17T14:06:36.560528+00:00"
+ },
+ "4429961305": {
+  "id": "4429961305",
+  "title": "Full Stack Developer",
+  "company": "NubaLink",
+  "location": "New Cairo, Cairo, Egypt",
+  "keyword": "Full Stack Developer",
+  "link": "https://www.linkedin.com/jobs/view/4429961305",
+  "first_seen": "2026-06-17T14:06:36.560528+00:00"
+ },
+ "4429795808": {
+  "id": "4429795808",
+  "title": "Full-Stack Developer (OutSystems + High-Code)",
+  "company": "Simon-Kucher",
+  "location": "Cairo, Egypt",
+  "keyword": "Full Stack Developer",
+  "link": "https://www.linkedin.com/jobs/view/4429795808",
+  "first_seen": "2026-06-17T14:06:36.560528+00:00"
+ },
+ "4427344690": {
+  "id": "4427344690",
+  "title": "Provisioning Specialist",
+  "company": "Vodafone",
+  "location": "Giza, Al Jizah, Egypt",
+  "keyword": "Back end Developer",
+  "link": "https://www.linkedin.com/jobs/view/4427344690",
+  "first_seen": "2026-06-17T14:06:36.560528+00:00"
+ },
+ "4427366501": {
+  "id": "4427366501",
+  "title": "Backend Chapter Lead",
+  "company": "Vodafone",
+  "location": "Giza, Al Jizah, Egypt",
+  "keyword": "Back end Developer",
+  "link": "https://www.linkedin.com/jobs/view/4427366501",
+  "first_seen": "2026-06-17T14:06:36.560528+00:00"
+ },
+ "4427360399": {
+  "id": "4427360399",
+  "title": "Java Technical Lead",
+  "company": "Fawry",
+  "location": "6th of October, Al Jizah, Egypt",
+  "keyword": "Back end Developer",
+  "link": "https://www.linkedin.com/jobs/view/4427360399",
+  "first_seen": "2026-06-17T14:06:36.560528+00:00"
+ },
+ "4427352044": {
+  "id": "4427352044",
+  "title": "Data Engineer",
+  "company": "Tamer Group",
+  "location": "Cairo, Egypt",
+  "keyword": "Back end Developer",
+  "link": "https://www.linkedin.com/jobs/view/4427352044",
+  "first_seen": "2026-06-17T14:06:36.560528+00:00"
+ },
+ "4429559265": {
+  "id": "4429559265",
+  "title": "Staff DevOps Engineer",
+  "company": "Lean Technologies",
+  "location": "Cairo, Egypt",
+  "keyword": "Back end Developer",
+  "link": "https://www.linkedin.com/jobs/view/4429559265",
+  "first_seen": "2026-06-17T14:06:36.560528+00:00"
+ },
+ "4427346630": {
+  "id": "4427346630",
+  "title": "Senior Data Engineer (VOIS)",
+  "company": "VOIS",
+  "location": "Giza, Al Jizah, Egypt",
+  "keyword": "Back end Developer",
+  "link": "https://www.linkedin.com/jobs/view/4427346630",
+  "first_seen": "2026-06-17T14:06:36.560528+00:00"
+ },
+ "4427358291": {
+  "id": "4427358291",
+  "title": "Odoo Team Lead",
+  "company": "Aumet inc",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "Back end Developer",
+  "link": "https://www.linkedin.com/jobs/view/4427358291",
+  "first_seen": "2026-06-17T14:06:36.560528+00:00"
+ },
+ "4429568026": {
+  "id": "4429568026",
+  "title": "Senior Embedded Engineer",
+  "company": "Arrow Electronics",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "Back end Developer",
+  "link": "https://www.linkedin.com/jobs/view/4429568026",
+  "first_seen": "2026-06-17T14:06:36.560528+00:00"
+ },
+ "4427365338": {
+  "id": "4427365338",
+  "title": "Senior Software Development Engineer in Test",
+  "company": "Pixelogic Media",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "Back end Developer",
+  "link": "https://www.linkedin.com/jobs/view/4427365338",
+  "first_seen": "2026-06-17T14:06:36.560528+00:00"
+ },
+ "4429900241": {
+  "id": "4429900241",
+  "title": "Senior Hybrid Cloud Automation Engineer",
+  "company": "Coca-Cola HBC",
+  "location": "Cairo, Egypt",
+  "keyword": "Back end Developer",
+  "link": "https://www.linkedin.com/jobs/view/4429900241",
+  "first_seen": "2026-06-17T14:06:36.560528+00:00"
+ },
+ "4429530907": {
+  "id": "4429530907",
+  "title": "Software Quality Engineer (Automation)",
+  "company": "Bosta",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "Back end Developer",
+  "link": "https://www.linkedin.com/jobs/view/4429530907",
+  "first_seen": "2026-06-17T14:06:36.560528+00:00"
+ },
+ "4429936124": {
+  "id": "4429936124",
+  "title": "Zoho Developer",
+  "company": "فانوس للإنارة",
+  "location": "New Cairo, Cairo, Egypt",
+  "keyword": "API Developer",
+  "link": "https://www.linkedin.com/jobs/view/4429936124",
+  "first_seen": "2026-06-17T14:06:36.560528+00:00"
  }
 }
