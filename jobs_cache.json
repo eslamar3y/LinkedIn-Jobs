@@ -1669,7 +1669,7 @@
   "title": "Charging Tech Specialist",
   "company": "Vodafone",
   "location": "Giza, Al Jizah, Egypt",
-  "keyword": "PHP Laravel",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4427365563",
   "first_seen": "2026-06-17T17:27:31.809776+00:00"
  },
@@ -1921,7 +1921,7 @@
   "title": "Deloitte Innovation Hub I Data Engineering Tech Lead, Cairo, Egypt",
   "company": "Deloitte",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "Back end Developer",
+  "keyword": "Web Developer",
   "link": "https://www.linkedin.com/jobs/view/4379077256",
   "first_seen": "2026-06-17T19:34:48.261051+00:00"
  },
@@ -1957,7 +1957,7 @@
   "title": "Software Engineer 2, Agentic Foundation",
   "company": "Procore Technologies",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "API Developer",
+  "keyword": "Web Developer",
   "link": "https://www.linkedin.com/jobs/view/4430139091",
   "first_seen": "2026-06-17T23:16:07.558778+00:00"
  },
@@ -2074,7 +2074,7 @@
   "title": "Fintech Engineering Lead",
   "company": "Executive Search B",
   "location": "Qesm El Maadi, Cairo, Egypt",
-  "keyword": "API Developer",
+  "keyword": "PHP Laravel",
   "link": "https://www.linkedin.com/jobs/view/4429255692",
   "first_seen": "2026-06-18T11:04:35.261374+00:00"
  },
@@ -2275,5 +2275,113 @@
   "keyword": "Back end Developer",
   "link": "https://www.linkedin.com/jobs/view/4428738406",
   "first_seen": "2026-06-18T11:04:35.261374+00:00"
+ },
+ "4429301033": {
+  "id": "4429301033",
+  "title": "Senior Backend Developer PHP Laravel",
+  "company": "Tocaan",
+  "location": "Egypt",
+  "keyword": "API Developer",
+  "link": "https://www.linkedin.com/jobs/view/4429301033",
+  "first_seen": "2026-06-18T14:27:28.227481+00:00"
+ },
+ "4430438684": {
+  "id": "4430438684",
+  "title": "Software Engineer (Web SDK)",
+  "company": "Storyteller",
+  "location": "Egypt",
+  "keyword": "API Developer",
+  "link": "https://www.linkedin.com/jobs/view/4430438684",
+  "first_seen": "2026-06-18T14:27:28.227481+00:00"
+ },
+ "4430450359": {
+  "id": "4430450359",
+  "title": "Integration Support Engineer",
+  "company": "noon",
+  "location": "El Sheikh Zaid, Al Jizah, Egypt",
+  "keyword": "PHP Laravel",
+  "link": "https://www.linkedin.com/jobs/view/4430450359",
+  "first_seen": "2026-06-18T14:27:28.227481+00:00"
+ },
+ "4430455138": {
+  "id": "4430455138",
+  "title": "Graduate In Training Program (GIT), Embedded Software",
+  "company": "Valeo",
+  "location": "Cairo, Egypt",
+  "keyword": "Backend Engineer",
+  "link": "https://www.linkedin.com/jobs/view/4430455138",
+  "first_seen": "2026-06-18T14:27:28.227481+00:00"
+ },
+ "4430412080": {
+  "id": "4430412080",
+  "title": "Solutions Engineer - Implementations",
+  "company": "Lean Technologies",
+  "location": "Cairo, Egypt",
+  "keyword": "Backend Engineer",
+  "link": "https://www.linkedin.com/jobs/view/4430412080",
+  "first_seen": "2026-06-18T14:27:28.227481+00:00"
+ },
+ "4430461747": {
+  "id": "4430461747",
+  "title": "IT Infrastructure Engineer",
+  "company": "TATWEER MIDDLE EAST AND AFRICA L.L.C",
+  "location": "Heliopolis, Cairo, Egypt",
+  "keyword": "Backend Engineer",
+  "link": "https://www.linkedin.com/jobs/view/4430461747",
+  "first_seen": "2026-06-18T14:27:28.227481+00:00"
+ },
+ "4427838594": {
+  "id": "4427838594",
+  "title": "Senior Testing Engineer",
+  "company": "VOIS",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "Backend Engineer",
+  "link": "https://www.linkedin.com/jobs/view/4427838594",
+  "first_seen": "2026-06-18T14:27:28.227481+00:00"
+ },
+ "4429062034": {
+  "id": "4429062034",
+  "title": "R&D Engineer",
+  "company": "ABB",
+  "location": "Sharkia, Egypt",
+  "keyword": "Backend Engineer",
+  "link": "https://www.linkedin.com/jobs/view/4429062034",
+  "first_seen": "2026-06-18T14:27:28.227481+00:00"
+ },
+ "4430154193": {
+  "id": "4430154193",
+  "title": "Automation Engineer",
+  "company": "The Coca-Cola Company",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "Backend Engineer",
+  "link": "https://www.linkedin.com/jobs/view/4430154193",
+  "first_seen": "2026-06-18T14:27:28.227481+00:00"
+ },
+ "4428764390": {
+  "id": "4428764390",
+  "title": "Voice Network Engineer",
+  "company": "Tech Mahindra",
+  "location": "Cairo, Egypt",
+  "keyword": "Backend Engineer",
+  "link": "https://www.linkedin.com/jobs/view/4428764390",
+  "first_seen": "2026-06-18T14:27:28.227481+00:00"
+ },
+ "4427816884": {
+  "id": "4427816884",
+  "title": "Retail Support Tech Specialist",
+  "company": "Vodafone",
+  "location": "Giza, Al Jizah, Egypt",
+  "keyword": "Web Developer",
+  "link": "https://www.linkedin.com/jobs/view/4427816884",
+  "first_seen": "2026-06-18T14:27:28.227481+00:00"
+ },
+ "4427832700": {
+  "id": "4427832700",
+  "title": "Android Chapter Lead",
+  "company": "Vodafone",
+  "location": "Giza, Al Jizah, Egypt",
+  "keyword": "Web Developer",
+  "link": "https://www.linkedin.com/jobs/view/4427832700",
+  "first_seen": "2026-06-18T14:27:28.227481+00:00"
  }
 }
