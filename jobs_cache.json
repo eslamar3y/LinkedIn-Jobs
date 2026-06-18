@@ -1525,7 +1525,7 @@
   "title": "AI Agent Engineer",
   "company": "Mondia",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "Back end Developer",
+  "keyword": "Backend Engineer",
   "link": "https://www.linkedin.com/jobs/view/4429912577",
   "first_seen": "2026-06-17T10:11:42.344895+00:00"
  },
@@ -1588,7 +1588,7 @@
   "title": "Data Engineer",
   "company": "Tamer Group",
   "location": "Cairo, Egypt",
-  "keyword": "API Developer",
+  "keyword": "Backend Engineer",
   "link": "https://www.linkedin.com/jobs/view/4427352044",
   "first_seen": "2026-06-17T14:06:36.560528+00:00"
  },
@@ -1615,7 +1615,7 @@
   "title": "Odoo Team Lead",
   "company": "Aumet inc",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "Backend Developer",
+  "keyword": "Backend Engineer",
   "link": "https://www.linkedin.com/jobs/view/4427358291",
   "first_seen": "2026-06-17T14:06:36.560528+00:00"
  },
@@ -1732,7 +1732,7 @@
   "title": "Senior Google Cloud Data Engineer, Valeo Service",
   "company": "Valeo",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "API Developer",
+  "keyword": "Backend Engineer",
   "link": "https://www.linkedin.com/jobs/view/4370343501",
   "first_seen": "2026-06-17T17:27:31.809776+00:00"
  },
@@ -1750,7 +1750,7 @@
   "title": "Senior Frontend Developer",
   "company": "Celfocus",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "API Developer",
+  "keyword": "Web Developer",
   "link": "https://www.linkedin.com/jobs/view/4370070887",
   "first_seen": "2026-06-17T17:27:31.809776+00:00"
  },
@@ -1867,7 +1867,7 @@
   "title": "Deloitte Innovation Hub I React Native Developer Tech Lead, Cairo, Egypt",
   "company": "Deloitte",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "API Developer",
+  "keyword": "Full Stack Developer",
   "link": "https://www.linkedin.com/jobs/view/4379066931",
   "first_seen": "2026-06-17T19:34:48.261051+00:00"
  },
@@ -1885,7 +1885,7 @@
   "title": "Senior Flutter Developer (Mobile)",
   "company": "York Towers",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "Web Developer",
+  "keyword": "Backend Engineer",
   "link": "https://www.linkedin.com/jobs/view/4428479361",
   "first_seen": "2026-06-17T19:34:48.261051+00:00"
  },
@@ -1948,7 +1948,7 @@
   "title": "Data Engineer",
   "company": "OPSERA",
   "location": "Egypt",
-  "keyword": "Backend Developer",
+  "keyword": "Backend Engineer",
   "link": "https://www.linkedin.com/jobs/view/4426483831",
   "first_seen": "2026-06-17T21:52:32.500227+00:00"
  },
@@ -1984,7 +1984,7 @@
   "title": "Data Engineer",
   "company": "Systems Limited - Egypt",
   "location": "Al Jizah, Egypt",
-  "keyword": "API Developer",
+  "keyword": "Backend Engineer",
   "link": "https://www.linkedin.com/jobs/view/4429950552",
   "first_seen": "2026-06-17T23:16:07.558778+00:00"
  },
@@ -1996,5 +1996,41 @@
   "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4429797482",
   "first_seen": "2026-06-17T23:16:07.558778+00:00"
+ },
+ "4428490539": {
+  "id": "4428490539",
+  "title": "Senior .NET Developer - Remote Work",
+  "company": "BairesDev",
+  "location": "Cairo, Egypt",
+  "keyword": "Backend Engineer",
+  "link": "https://www.linkedin.com/jobs/view/4428490539",
+  "first_seen": "2026-06-18T01:59:36.446248+00:00"
+ },
+ "4429929286": {
+  "id": "4429929286",
+  "title": "ETIC, Summer Internship - Custom Development",
+  "company": "PwC",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "Backend Engineer",
+  "link": "https://www.linkedin.com/jobs/view/4429929286",
+  "first_seen": "2026-06-18T01:59:36.446248+00:00"
+ },
+ "4387528040": {
+  "id": "4387528040",
+  "title": "Technical Consultant",
+  "company": "Mindware",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "Backend Engineer",
+  "link": "https://www.linkedin.com/jobs/view/4387528040",
+  "first_seen": "2026-06-18T01:59:36.446248+00:00"
+ },
+ "4430144534": {
+  "id": "4430144534",
+  "title": "Senior SiteCore Developer",
+  "company": "Arcsen",
+  "location": "Qesm El Maadi, Cairo, Egypt",
+  "keyword": "API Developer",
+  "link": "https://www.linkedin.com/jobs/view/4430144534",
+  "first_seen": "2026-06-18T01:59:36.446248+00:00"
  }
 }
