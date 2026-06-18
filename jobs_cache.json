@@ -1561,7 +1561,7 @@
   "title": "Provisioning Specialist",
   "company": "Vodafone",
   "location": "Giza, Al Jizah, Egypt",
-  "keyword": "API Developer",
+  "keyword": "Web Developer",
   "link": "https://www.linkedin.com/jobs/view/4427344690",
   "first_seen": "2026-06-17T14:06:36.560528+00:00"
  },
@@ -1570,7 +1570,7 @@
   "title": "Backend Chapter Lead",
   "company": "Vodafone",
   "location": "Giza, Al Jizah, Egypt",
-  "keyword": "API Developer",
+  "keyword": "Back end Developer",
   "link": "https://www.linkedin.com/jobs/view/4427366501",
   "first_seen": "2026-06-17T14:06:36.560528+00:00"
  },
@@ -1669,7 +1669,7 @@
   "title": "Charging Tech Specialist",
   "company": "Vodafone",
   "location": "Giza, Al Jizah, Egypt",
-  "keyword": "Backend Developer",
+  "keyword": "Full Stack Developer",
   "link": "https://www.linkedin.com/jobs/view/4427365563",
   "first_seen": "2026-06-17T17:27:31.809776+00:00"
  },
@@ -1957,7 +1957,7 @@
   "title": "Software Engineer 2, Agentic Foundation",
   "company": "Procore Technologies",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "API Developer",
+  "keyword": "Full Stack Developer",
   "link": "https://www.linkedin.com/jobs/view/4430139091",
   "first_seen": "2026-06-17T23:16:07.558778+00:00"
  },
@@ -2074,7 +2074,7 @@
   "title": "Fintech Engineering Lead",
   "company": "Executive Search B",
   "location": "Qesm El Maadi, Cairo, Egypt",
-  "keyword": "API Developer",
+  "keyword": "Full Stack Developer",
   "link": "https://www.linkedin.com/jobs/view/4429255692",
   "first_seen": "2026-06-18T11:04:35.261374+00:00"
  },
@@ -2173,7 +2173,7 @@
   "title": "Senior Application Development Specialist",
   "company": "Network International",
   "location": "Egypt",
-  "keyword": "API Developer",
+  "keyword": "Back end Developer",
   "link": "https://www.linkedin.com/jobs/view/4429022981",
   "first_seen": "2026-06-18T11:04:35.261374+00:00"
  },
@@ -2290,7 +2290,7 @@
   "title": "Software Engineer (Web SDK)",
   "company": "Storyteller",
   "location": "Egypt",
-  "keyword": "API Developer",
+  "keyword": "Full Stack Developer",
   "link": "https://www.linkedin.com/jobs/view/4430438684",
   "first_seen": "2026-06-18T14:27:28.227481+00:00"
  },
@@ -2308,7 +2308,7 @@
   "title": "Graduate In Training Program (GIT), Embedded Software",
   "company": "Valeo",
   "location": "Cairo, Egypt",
-  "keyword": "Backend Engineer",
+  "keyword": "PHP Laravel",
   "link": "https://www.linkedin.com/jobs/view/4430455138",
   "first_seen": "2026-06-18T14:27:28.227481+00:00"
  },
@@ -2335,7 +2335,7 @@
   "title": "Senior Testing Engineer",
   "company": "VOIS",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "Backend Engineer",
+  "keyword": "PHP Laravel",
   "link": "https://www.linkedin.com/jobs/view/4427838594",
   "first_seen": "2026-06-18T14:27:28.227481+00:00"
  },
@@ -2353,7 +2353,7 @@
   "title": "Automation Engineer",
   "company": "The Coca-Cola Company",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "Backend Engineer",
+  "keyword": "PHP Laravel",
   "link": "https://www.linkedin.com/jobs/view/4430154193",
   "first_seen": "2026-06-18T14:27:28.227481+00:00"
  },
@@ -2389,7 +2389,7 @@
   "title": "Mid level Backend developer (AwS)",
   "company": "Dataloops",
   "location": "Alexandria, Egypt",
-  "keyword": "API Developer",
+  "keyword": "Full Stack Developer",
   "link": "https://www.linkedin.com/jobs/view/4427850365",
   "first_seen": "2026-06-18T17:40:42.237722+00:00"
  },
@@ -2398,7 +2398,7 @@
   "title": "Fullstack Developer - AI Hub (Cairo or Amman)",
   "company": "EY",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "API Developer",
+  "keyword": "Full Stack Developer",
   "link": "https://www.linkedin.com/jobs/view/4388063421",
   "first_seen": "2026-06-18T17:40:42.237722+00:00"
  },
@@ -2428,5 +2428,86 @@
   "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4430487653",
   "first_seen": "2026-06-18T17:40:42.237722+00:00"
+ },
+ "4430705791": {
+  "id": "4430705791",
+  "title": "Full Stack Developer",
+  "company": "Credmart",
+  "location": "Egypt",
+  "keyword": "Full Stack Developer",
+  "link": "https://www.linkedin.com/jobs/view/4430705791",
+  "first_seen": "2026-06-18T20:08:56.641962+00:00"
+ },
+ "4430717088": {
+  "id": "4430717088",
+  "title": "PTM Lead (PP)",
+  "company": "Valleysoft | Center of Excellence",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "PHP Laravel",
+  "link": "https://www.linkedin.com/jobs/view/4430717088",
+  "first_seen": "2026-06-18T20:08:56.641962+00:00"
+ },
+ "4430445921": {
+  "id": "4430445921",
+  "title": "Legal AI Solutions Engineer",
+  "company": "Ejadah Management Consultancy",
+  "location": "Egypt",
+  "keyword": "PHP Laravel",
+  "link": "https://www.linkedin.com/jobs/view/4430445921",
+  "first_seen": "2026-06-18T20:08:56.641962+00:00"
+ },
+ "4430442344": {
+  "id": "4430442344",
+  "title": "Technician",
+  "company": "Americana2000",
+  "location": "Cairo, Egypt",
+  "keyword": "PHP Laravel",
+  "link": "https://www.linkedin.com/jobs/view/4430442344",
+  "first_seen": "2026-06-18T20:08:56.641962+00:00"
+ },
+ "4430487217": {
+  "id": "4430487217",
+  "title": "Appointment Setter",
+  "company": "BPOHIVE",
+  "location": "Egypt",
+  "keyword": "PHP Laravel",
+  "link": "https://www.linkedin.com/jobs/view/4430487217",
+  "first_seen": "2026-06-18T20:08:56.641962+00:00"
+ },
+ "4427803599": {
+  "id": "4427803599",
+  "title": "Search Engine Optimization Specialist",
+  "company": "Dot IT | Digital Marketing Agency",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "PHP Laravel",
+  "link": "https://www.linkedin.com/jobs/view/4427803599",
+  "first_seen": "2026-06-18T20:08:56.641962+00:00"
+ },
+ "4430431561": {
+  "id": "4430431561",
+  "title": "Squad Lead",
+  "company": "Integrant, Inc.",
+  "location": "Qesm El Maadi, Cairo, Egypt",
+  "keyword": "PHP Laravel",
+  "link": "https://www.linkedin.com/jobs/view/4430431561",
+  "first_seen": "2026-06-18T20:08:56.641962+00:00"
+ },
+ "4379284573": {
+  "id": "4379284573",
+  "title": "Deloitte Innovation Hub | Senior Full Stack Developer, Cairo, Egypt",
+  "company": "Deloitte",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "Full Stack Developer",
+  "link": "https://www.linkedin.com/jobs/view/4379284573",
+  "first_seen": "2026-06-18T20:08:56.641962+00:00"
+ },
+ "4430424883": {
+  "id": "4430424883",
+  "title": "Senior Mendix Developer.",
+  "company": "SSC HR Solutions",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "API Developer",
+  "link": "https://www.linkedin.com/jobs/view/4430424883",
+  "first_seen": "2026-06-18T20:08:56.641962+00:00"
  }
 }
