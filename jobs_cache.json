@@ -1507,7 +1507,7 @@
   "title": "Senior Software Engineer (. Net Core)",
   "company": "Floward",
   "location": "Cairo, Egypt",
-  "keyword": "Backend Engineer",
+  "keyword": "Backend Developer",
   "link": "https://www.linkedin.com/jobs/view/4224334202",
   "first_seen": "2026-06-17T10:11:42.344895+00:00"
  },
@@ -1588,7 +1588,7 @@
   "title": "Data Engineer",
   "company": "Tamer Group",
   "location": "Cairo, Egypt",
-  "keyword": "Backend Engineer",
+  "keyword": "Back end Developer",
   "link": "https://www.linkedin.com/jobs/view/4427352044",
   "first_seen": "2026-06-17T14:06:36.560528+00:00"
  },
@@ -1606,7 +1606,7 @@
   "title": "Senior Data Engineer (VOIS)",
   "company": "VOIS",
   "location": "Giza, Al Jizah, Egypt",
-  "keyword": "API Developer",
+  "keyword": "Backend Developer",
   "link": "https://www.linkedin.com/jobs/view/4427346630",
   "first_seen": "2026-06-17T14:06:36.560528+00:00"
  },
@@ -1615,7 +1615,7 @@
   "title": "Odoo Team Lead",
   "company": "Aumet inc",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "Backend Engineer",
+  "keyword": "Back end Developer",
   "link": "https://www.linkedin.com/jobs/view/4427358291",
   "first_seen": "2026-06-17T14:06:36.560528+00:00"
  },
@@ -1633,7 +1633,7 @@
   "title": "Senior Software Development Engineer in Test",
   "company": "Pixelogic Media",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "API Developer",
+  "keyword": "Backend Developer",
   "link": "https://www.linkedin.com/jobs/view/4427365338",
   "first_seen": "2026-06-17T14:06:36.560528+00:00"
  },
@@ -1732,7 +1732,7 @@
   "title": "Senior Google Cloud Data Engineer, Valeo Service",
   "company": "Valeo",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "Backend Engineer",
+  "keyword": "Back end Developer",
   "link": "https://www.linkedin.com/jobs/view/4370343501",
   "first_seen": "2026-06-17T17:27:31.809776+00:00"
  },
@@ -1741,7 +1741,7 @@
   "title": "Integration Support Engineer",
   "company": "noon",
   "location": "New Cairo, Cairo, Egypt",
-  "keyword": "Backend Engineer",
+  "keyword": "Backend Developer",
   "link": "https://www.linkedin.com/jobs/view/4429901689",
   "first_seen": "2026-06-17T17:27:31.809776+00:00"
  },
@@ -1840,7 +1840,7 @@
   "title": "Remote Python/FastAPI Developer",
   "company": "Turing",
   "location": "Egypt",
-  "keyword": "Backend Engineer",
+  "keyword": "Back end Developer",
   "link": "https://www.linkedin.com/jobs/view/4428488927",
   "first_seen": "2026-06-17T17:27:31.809776+00:00"
  },
@@ -1885,7 +1885,7 @@
   "title": "Senior Flutter Developer (Mobile)",
   "company": "York Towers",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "Backend Engineer",
+  "keyword": "Back end Developer",
   "link": "https://www.linkedin.com/jobs/view/4428479361",
   "first_seen": "2026-06-17T19:34:48.261051+00:00"
  },
@@ -1921,7 +1921,7 @@
   "title": "Deloitte Innovation Hub I Data Engineering Tech Lead, Cairo, Egypt",
   "company": "Deloitte",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "Backend Engineer",
+  "keyword": "Back end Developer",
   "link": "https://www.linkedin.com/jobs/view/4379077256",
   "first_seen": "2026-06-17T19:34:48.261051+00:00"
  },
@@ -1948,7 +1948,7 @@
   "title": "Data Engineer",
   "company": "OPSERA",
   "location": "Egypt",
-  "keyword": "Backend Engineer",
+  "keyword": "Backend Developer",
   "link": "https://www.linkedin.com/jobs/view/4426483831",
   "first_seen": "2026-06-17T21:52:32.500227+00:00"
  },
@@ -1984,7 +1984,7 @@
   "title": "Data Engineer",
   "company": "Systems Limited - Egypt",
   "location": "Al Jizah, Egypt",
-  "keyword": "Backend Engineer",
+  "keyword": "Back end Developer",
   "link": "https://www.linkedin.com/jobs/view/4429950552",
   "first_seen": "2026-06-17T23:16:07.558778+00:00"
  },
@@ -1993,7 +1993,7 @@
   "title": "Senior C++ Engineer with Core processing experince",
   "company": "EgyBell",
   "location": "Cairo, Egypt",
-  "keyword": "API Developer",
+  "keyword": "Back end Developer",
   "link": "https://www.linkedin.com/jobs/view/4429797482",
   "first_seen": "2026-06-17T23:16:07.558778+00:00"
  },
@@ -2011,7 +2011,7 @@
   "title": "ETIC, Summer Internship - Custom Development",
   "company": "PwC",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "Backend Engineer",
+  "keyword": "Back end Developer",
   "link": "https://www.linkedin.com/jobs/view/4429929286",
   "first_seen": "2026-06-18T01:59:36.446248+00:00"
  },
@@ -2032,5 +2032,32 @@
   "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4430144534",
   "first_seen": "2026-06-18T01:59:36.446248+00:00"
+ },
+ "4427836301": {
+  "id": "4427836301",
+  "title": "Senior Full-Stack Engineer - React Native, Next.js, Backend, Product Engineering",
+  "company": "Supaapps",
+  "location": "Egypt",
+  "keyword": "Full Stack Developer",
+  "link": "https://www.linkedin.com/jobs/view/4427836301",
+  "first_seen": "2026-06-18T06:54:20.275187+00:00"
+ },
+ "4428782689": {
+  "id": "4428782689",
+  "title": "Data Engineer",
+  "company": "Nexttec Technology Outsourcing",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "Backend Developer",
+  "link": "https://www.linkedin.com/jobs/view/4428782689",
+  "first_seen": "2026-06-18T06:54:20.275187+00:00"
+ },
+ "4428780753": {
+  "id": "4428780753",
+  "title": "Cards Management Systems Specialist",
+  "company": "PayTech Group",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "Back end Developer",
+  "link": "https://www.linkedin.com/jobs/view/4428780753",
+  "first_seen": "2026-06-18T06:54:20.275187+00:00"
  }
 }
