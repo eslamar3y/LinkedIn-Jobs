@@ -1561,7 +1561,7 @@
   "title": "Provisioning Specialist",
   "company": "Vodafone",
   "location": "Giza, Al Jizah, Egypt",
-  "keyword": "Backend Engineer",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4427344690",
   "first_seen": "2026-06-17T14:06:36.560528+00:00"
  },
@@ -1570,7 +1570,7 @@
   "title": "Backend Chapter Lead",
   "company": "Vodafone",
   "location": "Giza, Al Jizah, Egypt",
-  "keyword": "Backend Engineer",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4427366501",
   "first_seen": "2026-06-17T14:06:36.560528+00:00"
  },
@@ -1669,7 +1669,7 @@
   "title": "Charging Tech Specialist",
   "company": "Vodafone",
   "location": "Giza, Al Jizah, Egypt",
-  "keyword": "API Developer",
+  "keyword": "PHP Laravel",
   "link": "https://www.linkedin.com/jobs/view/4427365563",
   "first_seen": "2026-06-17T17:27:31.809776+00:00"
  },
@@ -1705,7 +1705,7 @@
   "title": "Software Engineer (.NET)",
   "company": "Swisstech",
   "location": "Cairo, Egypt",
-  "keyword": "Backend Engineer",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4429962696",
   "first_seen": "2026-06-17T17:27:31.809776+00:00"
  },
@@ -1876,7 +1876,7 @@
   "title": "AI Engineering Lead",
   "company": "Unifonic",
   "location": "Cairo, Egypt",
-  "keyword": "PHP Laravel",
+  "keyword": "Backend Engineer",
   "link": "https://www.linkedin.com/jobs/view/4427355133",
   "first_seen": "2026-06-17T19:34:48.261051+00:00"
  },
@@ -1912,7 +1912,7 @@
   "title": "Deloitte Innovation Hub I Power Platform Developer Tech Lead, Intelligent Automation, Cairo, Egypt",
   "company": "Deloitte",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "Web Developer",
+  "keyword": "Full Stack Developer",
   "link": "https://www.linkedin.com/jobs/view/4379088073",
   "first_seen": "2026-06-17T19:34:48.261051+00:00"
  },
@@ -1930,7 +1930,7 @@
   "title": "Back End Developer",
   "company": "Connect Squads | كونكت سكوادز",
   "location": "Egypt",
-  "keyword": "Full Stack Developer",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4430113171",
   "first_seen": "2026-06-17T21:52:32.500227+00:00"
  },
@@ -1939,7 +1939,7 @@
   "title": "AI Engineering Lead",
   "company": "Unifonic",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "Laravel",
+  "keyword": "PHP Laravel",
   "link": "https://www.linkedin.com/jobs/view/4429953629",
   "first_seen": "2026-06-17T21:52:32.500227+00:00"
  },
@@ -1948,7 +1948,7 @@
   "title": "Data Engineer",
   "company": "OPSERA",
   "location": "Egypt",
-  "keyword": "Backend Developer",
+  "keyword": "PHP Laravel",
   "link": "https://www.linkedin.com/jobs/view/4426483831",
   "first_seen": "2026-06-17T21:52:32.500227+00:00"
  },
@@ -1957,7 +1957,7 @@
   "title": "Software Engineer 2, Agentic Foundation",
   "company": "Procore Technologies",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "Web Developer",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4430139091",
   "first_seen": "2026-06-17T23:16:07.558778+00:00"
  },
@@ -2059,5 +2059,221 @@
   "keyword": "Back end Developer",
   "link": "https://www.linkedin.com/jobs/view/4428780753",
   "first_seen": "2026-06-18T06:54:20.275187+00:00"
+ },
+ "4429029941": {
+  "id": "4429029941",
+  "title": "Application Development Specialist",
+  "company": "Network International",
+  "location": "Egypt",
+  "keyword": "API Developer",
+  "link": "https://www.linkedin.com/jobs/view/4429029941",
+  "first_seen": "2026-06-18T11:04:35.261374+00:00"
+ },
+ "4429255692": {
+  "id": "4429255692",
+  "title": "Fintech Engineering Lead",
+  "company": "Executive Search B",
+  "location": "Qesm El Maadi, Cairo, Egypt",
+  "keyword": "API Developer",
+  "link": "https://www.linkedin.com/jobs/view/4429255692",
+  "first_seen": "2026-06-18T11:04:35.261374+00:00"
+ },
+ "4419842405": {
+  "id": "4419842405",
+  "title": "【フルリモート】バックエンドエンジニア",
+  "company": "PERSOL CAREER BRS (Bilingual Recruitment Solutions)",
+  "location": "Tokyo, Tokyo, Japan",
+  "keyword": "PHP Developer",
+  "link": "https://www.linkedin.com/jobs/view/4419842405",
+  "first_seen": "2026-06-18T11:04:35.261374+00:00"
+ },
+ "4430159414": {
+  "id": "4430159414",
+  "title": "Arcgate - PHP Laravel Developer - Microservices Architecture",
+  "company": "Arcgate",
+  "location": "Rajasthan, India",
+  "keyword": "PHP Developer",
+  "link": "https://www.linkedin.com/jobs/view/4430159414",
+  "first_seen": "2026-06-18T11:04:35.261374+00:00"
+ },
+ "4308175191": {
+  "id": "4308175191",
+  "title": "Backend Entwickler/-in (m/w/d)",
+  "company": "Instaffo",
+  "location": "Ochtrup, North Rhine-Westphalia, Germany",
+  "keyword": "PHP Developer",
+  "link": "https://www.linkedin.com/jobs/view/4308175191",
+  "first_seen": "2026-06-18T11:04:35.261374+00:00"
+ },
+ "4427543025": {
+  "id": "4427543025",
+  "title": "Sr. PHP/Laravel Developer",
+  "company": "New York Technology Partners",
+  "location": "Greater Chicago Area",
+  "keyword": "PHP Developer",
+  "link": "https://www.linkedin.com/jobs/view/4427543025",
+  "first_seen": "2026-06-18T11:04:35.261374+00:00"
+ },
+ "4428493602": {
+  "id": "4428493602",
+  "title": "Senior Backend Engineer - PHP",
+  "company": "EasyPark",
+  "location": "London, England, United Kingdom",
+  "keyword": "PHP Developer",
+  "link": "https://www.linkedin.com/jobs/view/4428493602",
+  "first_seen": "2026-06-18T11:04:35.261374+00:00"
+ },
+ "4429014527": {
+  "id": "4429014527",
+  "title": "Backend Developer",
+  "company": "Netrolynx AI",
+  "location": "United Kingdom",
+  "keyword": "PHP Developer",
+  "link": "https://www.linkedin.com/jobs/view/4429014527",
+  "first_seen": "2026-06-18T11:04:35.261374+00:00"
+ },
+ "4429031008": {
+  "id": "4429031008",
+  "title": "PHP And .NET Developer",
+  "company": "ARNA Accounting Pvt Ltd",
+  "location": "Ahmedabad, Gujarat, India",
+  "keyword": "PHP Developer",
+  "link": "https://www.linkedin.com/jobs/view/4429031008",
+  "first_seen": "2026-06-18T11:04:35.261374+00:00"
+ },
+ "4430415169": {
+  "id": "4430415169",
+  "title": "SENIOR LARAVEL DEVELOPER",
+  "company": "PayOn",
+  "location": "Pakistan",
+  "keyword": "PHP Developer",
+  "link": "https://www.linkedin.com/jobs/view/4430415169",
+  "first_seen": "2026-06-18T11:04:35.261374+00:00"
+ },
+ "4428731999": {
+  "id": "4428731999",
+  "title": "Senior Backend Engineer - PHP",
+  "company": "Arrive",
+  "location": "London, England, United Kingdom",
+  "keyword": "PHP Developer",
+  "link": "https://www.linkedin.com/jobs/view/4428731999",
+  "first_seen": "2026-06-18T11:04:35.261374+00:00"
+ },
+ "4399684957": {
+  "id": "4399684957",
+  "title": "Procurement Full Stack Developer",
+  "company": "Zimmer Biomet",
+  "location": "Bengaluru, Karnataka, India",
+  "keyword": "PHP Developer",
+  "link": "https://www.linkedin.com/jobs/view/4399684957",
+  "first_seen": "2026-06-18T11:04:35.261374+00:00"
+ },
+ "4429022981": {
+  "id": "4429022981",
+  "title": "Senior Application Development Specialist",
+  "company": "Network International",
+  "location": "Egypt",
+  "keyword": "API Developer",
+  "link": "https://www.linkedin.com/jobs/view/4429022981",
+  "first_seen": "2026-06-18T11:04:35.261374+00:00"
+ },
+ "4429958230": {
+  "id": "4429958230",
+  "title": "Generative AI Engineer",
+  "company": "e& CX Solutions Egypt",
+  "location": "Cairo, Egypt",
+  "keyword": "Backend Developer",
+  "link": "https://www.linkedin.com/jobs/view/4429958230",
+  "first_seen": "2026-06-18T11:04:35.261374+00:00"
+ },
+ "4429014614": {
+  "id": "4429014614",
+  "title": "Java Backend Developer Developer (Payments & Digital Wallets)",
+  "company": "Ubique Systems",
+  "location": "Amsterdam, North Holland, Netherlands",
+  "keyword": "Back end Developer",
+  "link": "https://www.linkedin.com/jobs/view/4429014614",
+  "first_seen": "2026-06-18T11:04:35.261374+00:00"
+ },
+ "4364788282": {
+  "id": "4364788282",
+  "title": "Backend Developer",
+  "company": "Scorp",
+  "location": "Türkiye",
+  "keyword": "Back end Developer",
+  "link": "https://www.linkedin.com/jobs/view/4364788282",
+  "first_seen": "2026-06-18T11:04:35.261374+00:00"
+ },
+ "4427390298": {
+  "id": "4427390298",
+  "title": "Backend Engineer",
+  "company": "Apilex",
+  "location": "Sisli, Istanbul, Türkiye",
+  "keyword": "Back end Developer",
+  "link": "https://www.linkedin.com/jobs/view/4427390298",
+  "first_seen": "2026-06-18T11:04:35.261374+00:00"
+ },
+ "4419598224": {
+  "id": "4419598224",
+  "title": "Backend Engineer",
+  "company": "ERGO NEXT Insurance",
+  "location": "Kfar Saba, Center District, Israel",
+  "keyword": "Back end Developer",
+  "link": "https://www.linkedin.com/jobs/view/4419598224",
+  "first_seen": "2026-06-18T11:04:35.261374+00:00"
+ },
+ "4299354094": {
+  "id": "4299354094",
+  "title": "Senior Backend Engineer - Java",
+  "company": "Binance",
+  "location": "Hanoi, Hanoi, Vietnam",
+  "keyword": "Back end Developer",
+  "link": "https://www.linkedin.com/jobs/view/4299354094",
+  "first_seen": "2026-06-18T11:04:35.261374+00:00"
+ },
+ "4401460750": {
+  "id": "4401460750",
+  "title": "Backend Software Engineer (Developer Platform Team)",
+  "company": "Pollard Digital Solutions",
+  "location": "Belgrade, Serbia",
+  "keyword": "Back end Developer",
+  "link": "https://www.linkedin.com/jobs/view/4401460750",
+  "first_seen": "2026-06-18T11:04:35.261374+00:00"
+ },
+ "4428783376": {
+  "id": "4428783376",
+  "title": "Senior Backend Engineer",
+  "company": "DL Remote",
+  "location": "Graz, Styria, Austria",
+  "keyword": "Back end Developer",
+  "link": "https://www.linkedin.com/jobs/view/4428783376",
+  "first_seen": "2026-06-18T11:04:35.261374+00:00"
+ },
+ "4428739332": {
+  "id": "4428739332",
+  "title": "Senior Web Back End Developer Azurion Eye",
+  "company": "Philips",
+  "location": "Best, North Brabant, Netherlands",
+  "keyword": "Back end Developer",
+  "link": "https://www.linkedin.com/jobs/view/4428739332",
+  "first_seen": "2026-06-18T11:04:35.261374+00:00"
+ },
+ "4408807180": {
+  "id": "4408807180",
+  "title": "Software Engineer (Backend) + Devops",
+  "company": "Ethosia",
+  "location": "Or Yehuda, Tel Aviv District, Israel",
+  "keyword": "Back end Developer",
+  "link": "https://www.linkedin.com/jobs/view/4408807180",
+  "first_seen": "2026-06-18T11:04:35.261374+00:00"
+ },
+ "4428738406": {
+  "id": "4428738406",
+  "title": "Software Developer Azurion Eye",
+  "company": "Philips",
+  "location": "Best, North Brabant, Netherlands",
+  "keyword": "Back end Developer",
+  "link": "https://www.linkedin.com/jobs/view/4428738406",
+  "first_seen": "2026-06-18T11:04:35.261374+00:00"
  }
 }
