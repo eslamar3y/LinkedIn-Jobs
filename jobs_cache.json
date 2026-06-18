@@ -1561,7 +1561,7 @@
   "title": "Provisioning Specialist",
   "company": "Vodafone",
   "location": "Giza, Al Jizah, Egypt",
-  "keyword": "Web Developer",
+  "keyword": "Back end Developer",
   "link": "https://www.linkedin.com/jobs/view/4427344690",
   "first_seen": "2026-06-17T14:06:36.560528+00:00"
  },
@@ -1957,7 +1957,7 @@
   "title": "Software Engineer 2, Agentic Foundation",
   "company": "Procore Technologies",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "Full Stack Developer",
+  "keyword": "Web Developer",
   "link": "https://www.linkedin.com/jobs/view/4430139091",
   "first_seen": "2026-06-17T23:16:07.558778+00:00"
  },
@@ -2074,7 +2074,7 @@
   "title": "Fintech Engineering Lead",
   "company": "Executive Search B",
   "location": "Qesm El Maadi, Cairo, Egypt",
-  "keyword": "Full Stack Developer",
+  "keyword": "Back end Developer",
   "link": "https://www.linkedin.com/jobs/view/4429255692",
   "first_seen": "2026-06-18T11:04:35.261374+00:00"
  },
@@ -2290,7 +2290,7 @@
   "title": "Software Engineer (Web SDK)",
   "company": "Storyteller",
   "location": "Egypt",
-  "keyword": "Full Stack Developer",
+  "keyword": "Web Developer",
   "link": "https://www.linkedin.com/jobs/view/4430438684",
   "first_seen": "2026-06-18T14:27:28.227481+00:00"
  },
@@ -2509,5 +2509,50 @@
   "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4430424883",
   "first_seen": "2026-06-18T20:08:56.641962+00:00"
+ },
+ "4430732688": {
+  "id": "4430732688",
+  "title": "Data Engineer (Data Integration)",
+  "company": "Valleysoft | Center of Excellence",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "PHP Laravel",
+  "link": "https://www.linkedin.com/jobs/view/4430732688",
+  "first_seen": "2026-06-18T22:28:30.532638+00:00"
+ },
+ "4408827265": {
+  "id": "4408827265",
+  "title": "Senior DevOps Engineer",
+  "company": "Arrow Electronics",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "PHP Laravel",
+  "link": "https://www.linkedin.com/jobs/view/4408827265",
+  "first_seen": "2026-06-18T22:28:30.532638+00:00"
+ },
+ "4429035843": {
+  "id": "4429035843",
+  "title": "ATM Setup & Support Specialist",
+  "company": "Network International",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "PHP Laravel",
+  "link": "https://www.linkedin.com/jobs/view/4429035843",
+  "first_seen": "2026-06-18T22:28:30.532638+00:00"
+ },
+ "4427351619": {
+  "id": "4427351619",
+  "title": "TX 2nd line Support Tech Sr. Specialist",
+  "company": "Vodafone",
+  "location": "Giza, Al Jizah, Egypt",
+  "keyword": "PHP Laravel",
+  "link": "https://www.linkedin.com/jobs/view/4427351619",
+  "first_seen": "2026-06-18T22:28:30.532638+00:00"
+ },
+ "4339889375": {
+  "id": "4339889375",
+  "title": "Technical Support Specialist Level 1 - VMware by Broadcom",
+  "company": "Arrow Electronics",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "PHP Laravel",
+  "link": "https://www.linkedin.com/jobs/view/4339889375",
+  "first_seen": "2026-06-18T22:28:30.532638+00:00"
  }
 }
