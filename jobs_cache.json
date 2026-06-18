@@ -1669,7 +1669,7 @@
   "title": "Charging Tech Specialist",
   "company": "Vodafone",
   "location": "Giza, Al Jizah, Egypt",
-  "keyword": "API Developer",
+  "keyword": "Backend Developer",
   "link": "https://www.linkedin.com/jobs/view/4427365563",
   "first_seen": "2026-06-17T17:27:31.809776+00:00"
  },
@@ -1921,7 +1921,7 @@
   "title": "Deloitte Innovation Hub I Data Engineering Tech Lead, Cairo, Egypt",
   "company": "Deloitte",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "Web Developer",
+  "keyword": "Backend Developer",
   "link": "https://www.linkedin.com/jobs/view/4379077256",
   "first_seen": "2026-06-17T19:34:48.261051+00:00"
  },
@@ -1957,7 +1957,7 @@
   "title": "Software Engineer 2, Agentic Foundation",
   "company": "Procore Technologies",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "Web Developer",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4430139091",
   "first_seen": "2026-06-17T23:16:07.558778+00:00"
  },
@@ -2074,7 +2074,7 @@
   "title": "Fintech Engineering Lead",
   "company": "Executive Search B",
   "location": "Qesm El Maadi, Cairo, Egypt",
-  "keyword": "PHP Laravel",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4429255692",
   "first_seen": "2026-06-18T11:04:35.261374+00:00"
  },
@@ -2317,7 +2317,7 @@
   "title": "Solutions Engineer - Implementations",
   "company": "Lean Technologies",
   "location": "Cairo, Egypt",
-  "keyword": "Backend Engineer",
+  "keyword": "Backend Developer",
   "link": "https://www.linkedin.com/jobs/view/4430412080",
   "first_seen": "2026-06-18T14:27:28.227481+00:00"
  },
@@ -2344,7 +2344,7 @@
   "title": "R&D Engineer",
   "company": "ABB",
   "location": "Sharkia, Egypt",
-  "keyword": "Backend Engineer",
+  "keyword": "Backend Developer",
   "link": "https://www.linkedin.com/jobs/view/4429062034",
   "first_seen": "2026-06-18T14:27:28.227481+00:00"
  },
@@ -2371,7 +2371,7 @@
   "title": "Retail Support Tech Specialist",
   "company": "Vodafone",
   "location": "Giza, Al Jizah, Egypt",
-  "keyword": "Web Developer",
+  "keyword": "Backend Developer",
   "link": "https://www.linkedin.com/jobs/view/4427816884",
   "first_seen": "2026-06-18T14:27:28.227481+00:00"
  },
@@ -2380,8 +2380,53 @@
   "title": "Android Chapter Lead",
   "company": "Vodafone",
   "location": "Giza, Al Jizah, Egypt",
-  "keyword": "Web Developer",
+  "keyword": "Backend Developer",
   "link": "https://www.linkedin.com/jobs/view/4427832700",
   "first_seen": "2026-06-18T14:27:28.227481+00:00"
+ },
+ "4427850365": {
+  "id": "4427850365",
+  "title": "Mid level Backend developer (AwS)",
+  "company": "Dataloops",
+  "location": "Alexandria, Egypt",
+  "keyword": "API Developer",
+  "link": "https://www.linkedin.com/jobs/view/4427850365",
+  "first_seen": "2026-06-18T17:40:42.237722+00:00"
+ },
+ "4388063421": {
+  "id": "4388063421",
+  "title": "Fullstack Developer - AI Hub (Cairo or Amman)",
+  "company": "EY",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "API Developer",
+  "link": "https://www.linkedin.com/jobs/view/4388063421",
+  "first_seen": "2026-06-18T17:40:42.237722+00:00"
+ },
+ "4399783041": {
+  "id": "4399783041",
+  "title": "Senior Data Engineer-Data Platforms-Databricks",
+  "company": "IBM",
+  "location": "Giza, Al Jizah, Egypt",
+  "keyword": "Backend Developer",
+  "link": "https://www.linkedin.com/jobs/view/4399783041",
+  "first_seen": "2026-06-18T17:40:42.237722+00:00"
+ },
+ "4430152538": {
+  "id": "4430152538",
+  "title": "SiteCore DevOps / Platform Engineer",
+  "company": "Arcsen",
+  "location": "Qesm El Maadi, Cairo, Egypt",
+  "keyword": "Backend Developer",
+  "link": "https://www.linkedin.com/jobs/view/4430152538",
+  "first_seen": "2026-06-18T17:40:42.237722+00:00"
+ },
+ "4430487653": {
+  "id": "4430487653",
+  "title": "Solutions Engineer",
+  "company": "MetLife Egypt",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "API Developer",
+  "link": "https://www.linkedin.com/jobs/view/4430487653",
+  "first_seen": "2026-06-18T17:40:42.237722+00:00"
  }
 }
