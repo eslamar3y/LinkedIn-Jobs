@@ -1561,7 +1561,7 @@
   "title": "Provisioning Specialist",
   "company": "Vodafone",
   "location": "Giza, Al Jizah, Egypt",
-  "keyword": "Back end Developer",
+  "keyword": "Backend Engineer",
   "link": "https://www.linkedin.com/jobs/view/4427344690",
   "first_seen": "2026-06-17T14:06:36.560528+00:00"
  },
@@ -1570,7 +1570,7 @@
   "title": "Backend Chapter Lead",
   "company": "Vodafone",
   "location": "Giza, Al Jizah, Egypt",
-  "keyword": "Back end Developer",
+  "keyword": "Backend Engineer",
   "link": "https://www.linkedin.com/jobs/view/4427366501",
   "first_seen": "2026-06-17T14:06:36.560528+00:00"
  },
@@ -2173,7 +2173,7 @@
   "title": "Senior Application Development Specialist",
   "company": "Network International",
   "location": "Egypt",
-  "keyword": "Back end Developer",
+  "keyword": "Backend Engineer",
   "link": "https://www.linkedin.com/jobs/view/4429022981",
   "first_seen": "2026-06-18T11:04:35.261374+00:00"
  },
@@ -2299,7 +2299,7 @@
   "title": "Integration Support Engineer",
   "company": "noon",
   "location": "El Sheikh Zaid, Al Jizah, Egypt",
-  "keyword": "PHP Laravel",
+  "keyword": "Backend Engineer",
   "link": "https://www.linkedin.com/jobs/view/4430450359",
   "first_seen": "2026-06-18T14:27:28.227481+00:00"
  },
@@ -2371,7 +2371,7 @@
   "title": "Retail Support Tech Specialist",
   "company": "Vodafone",
   "location": "Giza, Al Jizah, Egypt",
-  "keyword": "Backend Engineer",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4427816884",
   "first_seen": "2026-06-18T14:27:28.227481+00:00"
  },
@@ -2380,7 +2380,7 @@
   "title": "Android Chapter Lead",
   "company": "Vodafone",
   "location": "Giza, Al Jizah, Egypt",
-  "keyword": "Backend Engineer",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4427832700",
   "first_seen": "2026-06-18T14:27:28.227481+00:00"
  },
@@ -2662,5 +2662,50 @@
   "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4409997427",
   "first_seen": "2026-06-19T05:31:22.902413+00:00"
+ },
+ "4430920031": {
+  "id": "4430920031",
+  "title": "Developer",
+  "company": "Next Gen",
+  "location": "Markaz Etay El Baroud, Al Buhayrah, Egypt",
+  "keyword": "API Developer",
+  "link": "https://www.linkedin.com/jobs/view/4430920031",
+  "first_seen": "2026-06-19T10:10:54.279848+00:00"
+ },
+ "4430715242": {
+  "id": "4430715242",
+  "title": "Data Engineer",
+  "company": "Easygenerator",
+  "location": "Alexandria, Alexandria, Egypt",
+  "keyword": "Backend Engineer",
+  "link": "https://www.linkedin.com/jobs/view/4430715242",
+  "first_seen": "2026-06-19T10:10:54.279848+00:00"
+ },
+ "4430918853": {
+  "id": "4430918853",
+  "title": "Senior Frontend Developer",
+  "company": "800 Storage",
+  "location": "Cairo, Egypt",
+  "keyword": "Web Developer",
+  "link": "https://www.linkedin.com/jobs/view/4430918853",
+  "first_seen": "2026-06-19T10:10:54.279848+00:00"
+ },
+ "4360411344": {
+  "id": "4360411344",
+  "title": "SAP SAC Analytics Teamlead",
+  "company": "Accenture",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "API Developer",
+  "link": "https://www.linkedin.com/jobs/view/4360411344",
+  "first_seen": "2026-06-19T10:10:54.279848+00:00"
+ },
+ "4375353825": {
+  "id": "4375353825",
+  "title": "SAP SAC Analytics Associate Manager",
+  "company": "Accenture",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "API Developer",
+  "link": "https://www.linkedin.com/jobs/view/4375353825",
+  "first_seen": "2026-06-19T10:10:54.279848+00:00"
  }
 }
