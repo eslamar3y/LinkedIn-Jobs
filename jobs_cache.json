@@ -2524,7 +2524,7 @@
   "title": "Senior DevOps Engineer",
   "company": "Arrow Electronics",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "PHP Laravel",
+  "keyword": "Backend Engineer",
   "link": "https://www.linkedin.com/jobs/view/4408827265",
   "first_seen": "2026-06-18T22:28:30.532638+00:00"
  },
@@ -2578,7 +2578,7 @@
   "title": "Deloitte Innovation Hub I Senior Data & Analytics Engineer, Cairo, Egypt",
   "company": "Deloitte",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "Backend Engineer",
+  "keyword": "Backend Developer",
   "link": "https://www.linkedin.com/jobs/view/4379087111",
   "first_seen": "2026-06-19T00:08:43.099426+00:00"
  },
@@ -2587,7 +2587,7 @@
   "title": "Deloitte Innovation Hub I AI / ML Engineering Tech Lead, Cairo, Egypt",
   "company": "Deloitte",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "Web Developer",
+  "keyword": "Backend Developer",
   "link": "https://www.linkedin.com/jobs/view/4132278801",
   "first_seen": "2026-06-19T00:08:43.099426+00:00"
  },
@@ -2614,7 +2614,7 @@
   "title": "IT Architecture and Design Tech. Lead",
   "company": "Vodafone",
   "location": "Giza, Al Jizah, Egypt",
-  "keyword": "Backend Engineer",
+  "keyword": "PHP Laravel",
   "link": "https://www.linkedin.com/jobs/view/4427818845",
   "first_seen": "2026-06-19T00:08:43.099426+00:00"
  },
@@ -2623,7 +2623,7 @@
   "title": "Deloitte Innovation Hub | Senior ServiceNow Developer, Cairo, Egypt",
   "company": "Deloitte",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "API Developer",
+  "keyword": "Backend Engineer",
   "link": "https://www.linkedin.com/jobs/view/4379079232",
   "first_seen": "2026-06-19T00:08:43.099426+00:00"
  },
@@ -2650,7 +2650,7 @@
   "title": "Dynamics CRM Technical Developer",
   "company": "Accenture",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "Back end Developer",
+  "keyword": "Backend Engineer",
   "link": "https://www.linkedin.com/jobs/view/4329792955",
   "first_seen": "2026-06-19T05:31:22.902413+00:00"
  },
@@ -2695,7 +2695,7 @@
   "title": "SAP SAC Analytics Teamlead",
   "company": "Accenture",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "API Developer",
+  "keyword": "Backend Developer",
   "link": "https://www.linkedin.com/jobs/view/4360411344",
   "first_seen": "2026-06-19T10:10:54.279848+00:00"
  },
@@ -2704,7 +2704,7 @@
   "title": "SAP SAC Analytics Associate Manager",
   "company": "Accenture",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "Web Developer",
+  "keyword": "Backend Developer",
   "link": "https://www.linkedin.com/jobs/view/4375353825",
   "first_seen": "2026-06-19T10:10:54.279848+00:00"
  },
@@ -2713,7 +2713,7 @@
   "title": "Game Programmer",
   "company": "Engineered Alchemy",
   "location": "Cairo, Egypt",
-  "keyword": "PHP Developer",
+  "keyword": "Backend Engineer",
   "link": "https://www.linkedin.com/jobs/view/4430963427",
   "first_seen": "2026-06-19T13:52:55.778608+00:00"
  },
@@ -2740,8 +2740,125 @@
   "title": "Oracle Data Conversion Manager",
   "company": "Accenture",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "Web Developer",
+  "keyword": "Backend Developer",
   "link": "https://www.linkedin.com/jobs/view/4392484271",
   "first_seen": "2026-06-19T13:52:55.778608+00:00"
+ },
+ "4429690422": {
+  "id": "4429690422",
+  "title": "Technical Support Engineer",
+  "company": "York Towers",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "PHP Laravel",
+  "link": "https://www.linkedin.com/jobs/view/4429690422",
+  "first_seen": "2026-06-19T16:27:37.295888+00:00"
+ },
+ "4428239981": {
+  "id": "4428239981",
+  "title": "Artificial Intelligence Engineer",
+  "company": "OPSERA",
+  "location": "Egypt",
+  "keyword": "Backend Engineer",
+  "link": "https://www.linkedin.com/jobs/view/4428239981",
+  "first_seen": "2026-06-19T16:27:37.295888+00:00"
+ },
+ "4406213161": {
+  "id": "4406213161",
+  "title": "PAM Engineer",
+  "company": "Accenture",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "Backend Developer",
+  "link": "https://www.linkedin.com/jobs/view/4406213161",
+  "first_seen": "2026-06-19T16:27:37.295888+00:00"
+ },
+ "4411328916": {
+  "id": "4411328916",
+  "title": "Senior Consultant - AI Software Engineer- AI Hub - Cairo",
+  "company": "EY",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "Backend Engineer",
+  "link": "https://www.linkedin.com/jobs/view/4411328916",
+  "first_seen": "2026-06-19T16:27:37.295888+00:00"
+ },
+ "4418203693": {
+  "id": "4418203693",
+  "title": "SAP UI5 Technical Analyst",
+  "company": "Accenture",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "PHP Laravel",
+  "link": "https://www.linkedin.com/jobs/view/4418203693",
+  "first_seen": "2026-06-19T16:27:37.295888+00:00"
+ },
+ "4321417332": {
+  "id": "4321417332",
+  "title": "SAP ABAP Analyst",
+  "company": "Accenture",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "PHP Laravel",
+  "link": "https://www.linkedin.com/jobs/view/4321417332",
+  "first_seen": "2026-06-19T16:27:37.295888+00:00"
+ },
+ "4401459800": {
+  "id": "4401459800",
+  "title": "SAP CPI Technical Team lead",
+  "company": "Accenture",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "PHP Laravel",
+  "link": "https://www.linkedin.com/jobs/view/4401459800",
+  "first_seen": "2026-06-19T16:27:37.295888+00:00"
+ },
+ "4379678581": {
+  "id": "4379678581",
+  "title": "SAP Automation Test Developer",
+  "company": "Accenture",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "Backend Developer",
+  "link": "https://www.linkedin.com/jobs/view/4379678581",
+  "first_seen": "2026-06-19T16:27:37.295888+00:00"
+ },
+ "4360910803": {
+  "id": "4360910803",
+  "title": "SAP Fiori Associate Manager",
+  "company": "Accenture",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "PHP Laravel",
+  "link": "https://www.linkedin.com/jobs/view/4360910803",
+  "first_seen": "2026-06-19T16:27:37.295888+00:00"
+ },
+ "4370461551": {
+  "id": "4370461551",
+  "title": "AI/Agentic Lead",
+  "company": "Accenture",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "PHP Laravel",
+  "link": "https://www.linkedin.com/jobs/view/4370461551",
+  "first_seen": "2026-06-19T16:27:37.295888+00:00"
+ },
+ "4392475487": {
+  "id": "4392475487",
+  "title": "Open Text Lead",
+  "company": "Accenture",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "PHP Laravel",
+  "link": "https://www.linkedin.com/jobs/view/4392475487",
+  "first_seen": "2026-06-19T16:27:37.295888+00:00"
+ },
+ "4360900819": {
+  "id": "4360900819",
+  "title": "SAP Ariba SME",
+  "company": "Accenture",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "PHP Laravel",
+  "link": "https://www.linkedin.com/jobs/view/4360900819",
+  "first_seen": "2026-06-19T16:27:37.295888+00:00"
+ },
+ "4395908197": {
+  "id": "4395908197",
+  "title": "SAP UI5 Technical Senior Analyst",
+  "company": "Accenture",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "Backend Developer",
+  "link": "https://www.linkedin.com/jobs/view/4395908197",
+  "first_seen": "2026-06-19T16:27:37.295888+00:00"
  }
 }
