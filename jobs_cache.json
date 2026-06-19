@@ -2695,7 +2695,7 @@
   "title": "SAP SAC Analytics Teamlead",
   "company": "Accenture",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "Backend Developer",
+  "keyword": "Backend Engineer",
   "link": "https://www.linkedin.com/jobs/view/4360411344",
   "first_seen": "2026-06-19T10:10:54.279848+00:00"
  },
@@ -2704,7 +2704,7 @@
   "title": "SAP SAC Analytics Associate Manager",
   "company": "Accenture",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "Backend Developer",
+  "keyword": "Back end Developer",
   "link": "https://www.linkedin.com/jobs/view/4375353825",
   "first_seen": "2026-06-19T10:10:54.279848+00:00"
  },
@@ -2740,7 +2740,7 @@
   "title": "Oracle Data Conversion Manager",
   "company": "Accenture",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "Backend Developer",
+  "keyword": "Backend Engineer",
   "link": "https://www.linkedin.com/jobs/view/4392484271",
   "first_seen": "2026-06-19T13:52:55.778608+00:00"
  },
@@ -2749,7 +2749,7 @@
   "title": "Technical Support Engineer",
   "company": "York Towers",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "PHP Laravel",
+  "keyword": "PHP Developer",
   "link": "https://www.linkedin.com/jobs/view/4429690422",
   "first_seen": "2026-06-19T16:27:37.295888+00:00"
  },
@@ -2767,7 +2767,7 @@
   "title": "PAM Engineer",
   "company": "Accenture",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "PHP Laravel",
+  "keyword": "Back end Developer",
   "link": "https://www.linkedin.com/jobs/view/4406213161",
   "first_seen": "2026-06-19T16:27:37.295888+00:00"
  },
@@ -2803,7 +2803,7 @@
   "title": "SAP CPI Technical Team lead",
   "company": "Accenture",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "PHP Laravel",
+  "keyword": "Backend Engineer",
   "link": "https://www.linkedin.com/jobs/view/4401459800",
   "first_seen": "2026-06-19T16:27:37.295888+00:00"
  },
@@ -2812,7 +2812,7 @@
   "title": "SAP Automation Test Developer",
   "company": "Accenture",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "Backend Developer",
+  "keyword": "Back end Developer",
   "link": "https://www.linkedin.com/jobs/view/4379678581",
   "first_seen": "2026-06-19T16:27:37.295888+00:00"
  },
@@ -2857,7 +2857,7 @@
   "title": "SAP UI5 Technical Senior Analyst",
   "company": "Accenture",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "Backend Developer",
+  "keyword": "Back end Developer",
   "link": "https://www.linkedin.com/jobs/view/4395908197",
   "first_seen": "2026-06-19T16:27:37.295888+00:00"
  },
@@ -2905,5 +2905,77 @@
   "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4402506202",
   "first_seen": "2026-06-19T18:14:53.332555+00:00"
+ },
+ "4428296131": {
+  "id": "4428296131",
+  "title": "Cloud Engineer",
+  "company": "FLO Clinics",
+  "location": "Egypt",
+  "keyword": "PHP Laravel",
+  "link": "https://www.linkedin.com/jobs/view/4428296131",
+  "first_seen": "2026-06-19T20:11:00.317502+00:00"
+ },
+ "4328019690": {
+  "id": "4328019690",
+  "title": "SAC Analytics Senior Analyst",
+  "company": "Accenture",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "Backend Engineer",
+  "link": "https://www.linkedin.com/jobs/view/4328019690",
+  "first_seen": "2026-06-19T20:11:00.317502+00:00"
+ },
+ "4427477111": {
+  "id": "4427477111",
+  "title": "Oracle Data Conversion Team Lead",
+  "company": "Accenture",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "Backend Engineer",
+  "link": "https://www.linkedin.com/jobs/view/4427477111",
+  "first_seen": "2026-06-19T20:11:00.317502+00:00"
+ },
+ "4425888989": {
+  "id": "4425888989",
+  "title": "Oracle Data Conversion Lead - Associate Manager",
+  "company": "Accenture",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "Backend Engineer",
+  "link": "https://www.linkedin.com/jobs/view/4425888989",
+  "first_seen": "2026-06-19T20:11:00.317502+00:00"
+ },
+ "4365835975": {
+  "id": "4365835975",
+  "title": "SAP BTP Extension Suite Specialist",
+  "company": "Accenture",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "Backend Engineer",
+  "link": "https://www.linkedin.com/jobs/view/4365835975",
+  "first_seen": "2026-06-19T20:11:00.317502+00:00"
+ },
+ "4380470116": {
+  "id": "4380470116",
+  "title": "SAP SAC Specialist",
+  "company": "Accenture",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "Backend Engineer",
+  "link": "https://www.linkedin.com/jobs/view/4380470116",
+  "first_seen": "2026-06-19T20:11:00.317502+00:00"
+ },
+ "4367243854": {
+  "id": "4367243854",
+  "title": "Technical SAP ABAP/ BTP Lead",
+  "company": "Accenture",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "Backend Engineer",
+  "link": "https://www.linkedin.com/jobs/view/4367243854",
+  "first_seen": "2026-06-19T20:11:00.317502+00:00"
+ },
+ "4395955103": {
+  "id": "4395955103",
+  "title": "SAP CI / Integration Manager",
+  "company": "Accenture",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "Backend Engineer",
+  "link": "https://www.linkedin.com/jobs/view/4395955103",
+  "first_seen": "2026-06-19T20:11:00.317502+00:00"
  }
 }
