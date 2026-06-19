@@ -2650,7 +2650,7 @@
   "title": "Dynamics CRM Technical Developer",
   "company": "Accenture",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "Backend Engineer",
+  "keyword": "PHP Laravel",
   "link": "https://www.linkedin.com/jobs/view/4329792955",
   "first_seen": "2026-06-19T05:31:22.902413+00:00"
  },
@@ -2686,7 +2686,7 @@
   "title": "Senior Frontend Developer",
   "company": "800 Storage",
   "location": "Cairo, Egypt",
-  "keyword": "API Developer",
+  "keyword": "Web Developer",
   "link": "https://www.linkedin.com/jobs/view/4430918853",
   "first_seen": "2026-06-19T10:10:54.279848+00:00"
  },
@@ -2713,7 +2713,7 @@
   "title": "Game Programmer",
   "company": "Engineered Alchemy",
   "location": "Cairo, Egypt",
-  "keyword": "API Developer",
+  "keyword": "Backend Engineer",
   "link": "https://www.linkedin.com/jobs/view/4430963427",
   "first_seen": "2026-06-19T13:52:55.778608+00:00"
  },
@@ -2722,7 +2722,7 @@
   "title": "Senior Software Backend Development Engineer",
   "company": "Siemens",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "API Developer",
+  "keyword": "Full Stack Developer",
   "link": "https://www.linkedin.com/jobs/view/4418808926",
   "first_seen": "2026-06-19T13:52:55.778608+00:00"
  },
@@ -2740,7 +2740,7 @@
   "title": "Oracle Data Conversion Manager",
   "company": "Accenture",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "Backend Engineer",
+  "keyword": "PHP Laravel",
   "link": "https://www.linkedin.com/jobs/view/4392484271",
   "first_seen": "2026-06-19T13:52:55.778608+00:00"
  },
@@ -2749,7 +2749,7 @@
   "title": "Technical Support Engineer",
   "company": "York Towers",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "PHP Developer",
+  "keyword": "PHP Laravel",
   "link": "https://www.linkedin.com/jobs/view/4429690422",
   "first_seen": "2026-06-19T16:27:37.295888+00:00"
  },
@@ -2758,7 +2758,7 @@
   "title": "Artificial Intelligence Engineer",
   "company": "OPSERA",
   "location": "Egypt",
-  "keyword": "API Developer",
+  "keyword": "Backend Engineer",
   "link": "https://www.linkedin.com/jobs/view/4428239981",
   "first_seen": "2026-06-19T16:27:37.295888+00:00"
  },
@@ -2776,7 +2776,7 @@
   "title": "Senior Consultant - AI Software Engineer- AI Hub - Cairo",
   "company": "EY",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "API Developer",
+  "keyword": "Backend Engineer",
   "link": "https://www.linkedin.com/jobs/view/4411328916",
   "first_seen": "2026-06-19T16:27:37.295888+00:00"
  },
@@ -2794,7 +2794,7 @@
   "title": "SAP ABAP Analyst",
   "company": "Accenture",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "API Developer",
+  "keyword": "PHP Laravel",
   "link": "https://www.linkedin.com/jobs/view/4321417332",
   "first_seen": "2026-06-19T16:27:37.295888+00:00"
  },
@@ -2803,7 +2803,7 @@
   "title": "SAP CPI Technical Team lead",
   "company": "Accenture",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "Backend Engineer",
+  "keyword": "PHP Laravel",
   "link": "https://www.linkedin.com/jobs/view/4401459800",
   "first_seen": "2026-06-19T16:27:37.295888+00:00"
  },
@@ -2812,7 +2812,7 @@
   "title": "SAP Automation Test Developer",
   "company": "Accenture",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "Back end Developer",
+  "keyword": "PHP Laravel",
   "link": "https://www.linkedin.com/jobs/view/4379678581",
   "first_seen": "2026-06-19T16:27:37.295888+00:00"
  },
@@ -2884,7 +2884,7 @@
   "title": "Deloitte Innovation Hub | Data Engineering, Senior Tech Lead, Cairo, Egypt",
   "company": "Deloitte",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "API Developer",
+  "keyword": "Backend Engineer",
   "link": "https://www.linkedin.com/jobs/view/4411643682",
   "first_seen": "2026-06-19T18:14:53.332555+00:00"
  },
@@ -2893,7 +2893,7 @@
   "title": "Remote Python/FastAPI Developer",
   "company": "Turing",
   "location": "Egypt",
-  "keyword": "Back end Developer",
+  "keyword": "Backend Engineer",
   "link": "https://www.linkedin.com/jobs/view/4429632608",
   "first_seen": "2026-06-19T18:14:53.332555+00:00"
  },
@@ -2977,5 +2977,32 @@
   "keyword": "Backend Engineer",
   "link": "https://www.linkedin.com/jobs/view/4395955103",
   "first_seen": "2026-06-19T20:11:00.317502+00:00"
+ },
+ "4429677825": {
+  "id": "4429677825",
+  "title": "Head of LAS CU KSA & NME",
+  "company": "Ericsson",
+  "location": "Smart Village, Egypt",
+  "keyword": "PHP Laravel",
+  "link": "https://www.linkedin.com/jobs/view/4429677825",
+  "first_seen": "2026-06-19T21:40:45.960465+00:00"
+ },
+ "4429647701": {
+  "id": "4429647701",
+  "title": "Odoo Developer",
+  "company": "York Towers",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "Backend Engineer",
+  "link": "https://www.linkedin.com/jobs/view/4429647701",
+  "first_seen": "2026-06-19T21:40:45.960465+00:00"
+ },
+ "4428252923": {
+  "id": "4428252923",
+  "title": "Trainee/Junior C# Developer with Azure",
+  "company": "Akvelon, Inc.",
+  "location": "Egypt",
+  "keyword": "Backend Engineer",
+  "link": "https://www.linkedin.com/jobs/view/4428252923",
+  "first_seen": "2026-06-19T21:40:45.960465+00:00"
  }
 }
