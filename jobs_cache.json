@@ -2425,7 +2425,7 @@
   "title": "Solutions Engineer",
   "company": "MetLife Egypt",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "API Developer",
+  "keyword": "Web Developer",
   "link": "https://www.linkedin.com/jobs/view/4430487653",
   "first_seen": "2026-06-18T17:40:42.237722+00:00"
  },
@@ -2587,7 +2587,7 @@
   "title": "Deloitte Innovation Hub I AI / ML Engineering Tech Lead, Cairo, Egypt",
   "company": "Deloitte",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "Backend Engineer",
+  "keyword": "Web Developer",
   "link": "https://www.linkedin.com/jobs/view/4132278801",
   "first_seen": "2026-06-19T00:08:43.099426+00:00"
  },
@@ -2704,8 +2704,44 @@
   "title": "SAP SAC Analytics Associate Manager",
   "company": "Accenture",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "API Developer",
+  "keyword": "Web Developer",
   "link": "https://www.linkedin.com/jobs/view/4375353825",
   "first_seen": "2026-06-19T10:10:54.279848+00:00"
+ },
+ "4430963427": {
+  "id": "4430963427",
+  "title": "Game Programmer",
+  "company": "Engineered Alchemy",
+  "location": "Cairo, Egypt",
+  "keyword": "PHP Developer",
+  "link": "https://www.linkedin.com/jobs/view/4430963427",
+  "first_seen": "2026-06-19T13:52:55.778608+00:00"
+ },
+ "4418808926": {
+  "id": "4418808926",
+  "title": "Senior Software Backend Development Engineer",
+  "company": "Siemens",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "Full Stack Developer",
+  "link": "https://www.linkedin.com/jobs/view/4418808926",
+  "first_seen": "2026-06-19T13:52:55.778608+00:00"
+ },
+ "4430963733": {
+  "id": "4430963733",
+  "title": "Django Backend Intern",
+  "company": "Drop Me",
+  "location": "Cairo, Egypt",
+  "keyword": "Backend Developer",
+  "link": "https://www.linkedin.com/jobs/view/4430963733",
+  "first_seen": "2026-06-19T13:52:55.778608+00:00"
+ },
+ "4392484271": {
+  "id": "4392484271",
+  "title": "Oracle Data Conversion Manager",
+  "company": "Accenture",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "Web Developer",
+  "link": "https://www.linkedin.com/jobs/view/4392484271",
+  "first_seen": "2026-06-19T13:52:55.778608+00:00"
  }
 }
