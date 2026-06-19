@@ -1561,7 +1561,7 @@
   "title": "Provisioning Specialist",
   "company": "Vodafone",
   "location": "Giza, Al Jizah, Egypt",
-  "keyword": "API Developer",
+  "keyword": "Back end Developer",
   "link": "https://www.linkedin.com/jobs/view/4427344690",
   "first_seen": "2026-06-17T14:06:36.560528+00:00"
  },
@@ -1570,7 +1570,7 @@
   "title": "Backend Chapter Lead",
   "company": "Vodafone",
   "location": "Giza, Al Jizah, Egypt",
-  "keyword": "API Developer",
+  "keyword": "Back end Developer",
   "link": "https://www.linkedin.com/jobs/view/4427366501",
   "first_seen": "2026-06-17T14:06:36.560528+00:00"
  },
@@ -2173,7 +2173,7 @@
   "title": "Senior Application Development Specialist",
   "company": "Network International",
   "location": "Egypt",
-  "keyword": "API Developer",
+  "keyword": "Back end Developer",
   "link": "https://www.linkedin.com/jobs/view/4429022981",
   "first_seen": "2026-06-18T11:04:35.261374+00:00"
  },
@@ -2290,7 +2290,7 @@
   "title": "Software Engineer (Web SDK)",
   "company": "Storyteller",
   "location": "Egypt",
-  "keyword": "API Developer",
+  "keyword": "Web Developer",
   "link": "https://www.linkedin.com/jobs/view/4430438684",
   "first_seen": "2026-06-18T14:27:28.227481+00:00"
  },
@@ -2398,7 +2398,7 @@
   "title": "Fullstack Developer - AI Hub (Cairo or Amman)",
   "company": "EY",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "API Developer",
+  "keyword": "Full Stack Developer",
   "link": "https://www.linkedin.com/jobs/view/4388063421",
   "first_seen": "2026-06-18T17:40:42.237722+00:00"
  },
@@ -2497,7 +2497,7 @@
   "title": "Deloitte Innovation Hub | Senior Full Stack Developer, Cairo, Egypt",
   "company": "Deloitte",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "API Developer",
+  "keyword": "Full Stack Developer",
   "link": "https://www.linkedin.com/jobs/view/4379284573",
   "first_seen": "2026-06-18T20:08:56.641962+00:00"
  },
@@ -2626,5 +2626,41 @@
   "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4379079232",
   "first_seen": "2026-06-19T00:08:43.099426+00:00"
+ },
+ "4321503473": {
+  "id": "4321503473",
+  "title": "SAP BTP Application Developer",
+  "company": "Accenture",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "API Developer",
+  "link": "https://www.linkedin.com/jobs/view/4321503473",
+  "first_seen": "2026-06-19T05:31:22.902413+00:00"
+ },
+ "4389232082": {
+  "id": "4389232082",
+  "title": "Senior Engineer – Knowledge Graph & Context",
+  "company": "Coca-Cola HBC",
+  "location": "Cairo, Egypt",
+  "keyword": "Back end Developer",
+  "link": "https://www.linkedin.com/jobs/view/4389232082",
+  "first_seen": "2026-06-19T05:31:22.902413+00:00"
+ },
+ "4329792955": {
+  "id": "4329792955",
+  "title": "Dynamics CRM Technical Developer",
+  "company": "Accenture",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "Back end Developer",
+  "link": "https://www.linkedin.com/jobs/view/4329792955",
+  "first_seen": "2026-06-19T05:31:22.902413+00:00"
+ },
+ "4409997427": {
+  "id": "4409997427",
+  "title": "SAP ABAP Application Developer Manager",
+  "company": "Accenture",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "API Developer",
+  "link": "https://www.linkedin.com/jobs/view/4409997427",
+  "first_seen": "2026-06-19T05:31:22.902413+00:00"
  }
 }
