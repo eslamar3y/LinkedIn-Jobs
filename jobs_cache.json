@@ -2515,7 +2515,7 @@
   "title": "Data Engineer (Data Integration)",
   "company": "Valleysoft | Center of Excellence",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "PHP Laravel",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4430732688",
   "first_seen": "2026-06-18T22:28:30.532638+00:00"
  },
@@ -2686,7 +2686,7 @@
   "title": "Senior Frontend Developer",
   "company": "800 Storage",
   "location": "Cairo, Egypt",
-  "keyword": "Web Developer",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4430918853",
   "first_seen": "2026-06-19T10:10:54.279848+00:00"
  },
@@ -2713,7 +2713,7 @@
   "title": "Game Programmer",
   "company": "Engineered Alchemy",
   "location": "Cairo, Egypt",
-  "keyword": "Backend Engineer",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4430963427",
   "first_seen": "2026-06-19T13:52:55.778608+00:00"
  },
@@ -2722,7 +2722,7 @@
   "title": "Senior Software Backend Development Engineer",
   "company": "Siemens",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "Full Stack Developer",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4418808926",
   "first_seen": "2026-06-19T13:52:55.778608+00:00"
  },
@@ -2758,7 +2758,7 @@
   "title": "Artificial Intelligence Engineer",
   "company": "OPSERA",
   "location": "Egypt",
-  "keyword": "Backend Engineer",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4428239981",
   "first_seen": "2026-06-19T16:27:37.295888+00:00"
  },
@@ -2767,7 +2767,7 @@
   "title": "PAM Engineer",
   "company": "Accenture",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "Backend Developer",
+  "keyword": "PHP Laravel",
   "link": "https://www.linkedin.com/jobs/view/4406213161",
   "first_seen": "2026-06-19T16:27:37.295888+00:00"
  },
@@ -2776,7 +2776,7 @@
   "title": "Senior Consultant - AI Software Engineer- AI Hub - Cairo",
   "company": "EY",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "Backend Engineer",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4411328916",
   "first_seen": "2026-06-19T16:27:37.295888+00:00"
  },
@@ -2794,7 +2794,7 @@
   "title": "SAP ABAP Analyst",
   "company": "Accenture",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "PHP Laravel",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4321417332",
   "first_seen": "2026-06-19T16:27:37.295888+00:00"
  },
@@ -2860,5 +2860,50 @@
   "keyword": "Backend Developer",
   "link": "https://www.linkedin.com/jobs/view/4395908197",
   "first_seen": "2026-06-19T16:27:37.295888+00:00"
+ },
+ "4387524292": {
+  "id": "4387524292",
+  "title": "Technical Support Engineer",
+  "company": "Mindware",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "PHP Laravel",
+  "link": "https://www.linkedin.com/jobs/view/4387524292",
+  "first_seen": "2026-06-19T18:14:53.332555+00:00"
+ },
+ "4430914375": {
+  "id": "4430914375",
+  "title": "Remote Computer User Support",
+  "company": "Recruitlytixs HR",
+  "location": "El Drotin, Ad Daqahliyah, Egypt",
+  "keyword": "PHP Laravel",
+  "link": "https://www.linkedin.com/jobs/view/4430914375",
+  "first_seen": "2026-06-19T18:14:53.332555+00:00"
+ },
+ "4411643682": {
+  "id": "4411643682",
+  "title": "Deloitte Innovation Hub | Data Engineering, Senior Tech Lead, Cairo, Egypt",
+  "company": "Deloitte",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "API Developer",
+  "link": "https://www.linkedin.com/jobs/view/4411643682",
+  "first_seen": "2026-06-19T18:14:53.332555+00:00"
+ },
+ "4429632608": {
+  "id": "4429632608",
+  "title": "Remote Python/FastAPI Developer",
+  "company": "Turing",
+  "location": "Egypt",
+  "keyword": "Back end Developer",
+  "link": "https://www.linkedin.com/jobs/view/4429632608",
+  "first_seen": "2026-06-19T18:14:53.332555+00:00"
+ },
+ "4402506202": {
+  "id": "4402506202",
+  "title": "Senior Services Engineer",
+  "company": "GE Vernova",
+  "location": "Cairo, Egypt",
+  "keyword": "API Developer",
+  "link": "https://www.linkedin.com/jobs/view/4402506202",
+  "first_seen": "2026-06-19T18:14:53.332555+00:00"
  }
 }
