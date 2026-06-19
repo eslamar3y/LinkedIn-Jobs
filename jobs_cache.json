@@ -1561,7 +1561,7 @@
   "title": "Provisioning Specialist",
   "company": "Vodafone",
   "location": "Giza, Al Jizah, Egypt",
-  "keyword": "Back end Developer",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4427344690",
   "first_seen": "2026-06-17T14:06:36.560528+00:00"
  },
@@ -1570,7 +1570,7 @@
   "title": "Backend Chapter Lead",
   "company": "Vodafone",
   "location": "Giza, Al Jizah, Egypt",
-  "keyword": "Back end Developer",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4427366501",
   "first_seen": "2026-06-17T14:06:36.560528+00:00"
  },
@@ -1669,7 +1669,7 @@
   "title": "Charging Tech Specialist",
   "company": "Vodafone",
   "location": "Giza, Al Jizah, Egypt",
-  "keyword": "Full Stack Developer",
+  "keyword": "Backend Engineer",
   "link": "https://www.linkedin.com/jobs/view/4427365563",
   "first_seen": "2026-06-17T17:27:31.809776+00:00"
  },
@@ -2074,7 +2074,7 @@
   "title": "Fintech Engineering Lead",
   "company": "Executive Search B",
   "location": "Qesm El Maadi, Cairo, Egypt",
-  "keyword": "Back end Developer",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4429255692",
   "first_seen": "2026-06-18T11:04:35.261374+00:00"
  },
@@ -2173,7 +2173,7 @@
   "title": "Senior Application Development Specialist",
   "company": "Network International",
   "location": "Egypt",
-  "keyword": "Back end Developer",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4429022981",
   "first_seen": "2026-06-18T11:04:35.261374+00:00"
  },
@@ -2290,7 +2290,7 @@
   "title": "Software Engineer (Web SDK)",
   "company": "Storyteller",
   "location": "Egypt",
-  "keyword": "Web Developer",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4430438684",
   "first_seen": "2026-06-18T14:27:28.227481+00:00"
  },
@@ -2371,7 +2371,7 @@
   "title": "Retail Support Tech Specialist",
   "company": "Vodafone",
   "location": "Giza, Al Jizah, Egypt",
-  "keyword": "Backend Developer",
+  "keyword": "Backend Engineer",
   "link": "https://www.linkedin.com/jobs/view/4427816884",
   "first_seen": "2026-06-18T14:27:28.227481+00:00"
  },
@@ -2380,7 +2380,7 @@
   "title": "Android Chapter Lead",
   "company": "Vodafone",
   "location": "Giza, Al Jizah, Egypt",
-  "keyword": "Backend Developer",
+  "keyword": "Backend Engineer",
   "link": "https://www.linkedin.com/jobs/view/4427832700",
   "first_seen": "2026-06-18T14:27:28.227481+00:00"
  },
@@ -2398,7 +2398,7 @@
   "title": "Fullstack Developer - AI Hub (Cairo or Amman)",
   "company": "EY",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "Full Stack Developer",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4388063421",
   "first_seen": "2026-06-18T17:40:42.237722+00:00"
  },
@@ -2434,7 +2434,7 @@
   "title": "Full Stack Developer",
   "company": "Credmart",
   "location": "Egypt",
-  "keyword": "Full Stack Developer",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4430705791",
   "first_seen": "2026-06-18T20:08:56.641962+00:00"
  },
@@ -2497,7 +2497,7 @@
   "title": "Deloitte Innovation Hub | Senior Full Stack Developer, Cairo, Egypt",
   "company": "Deloitte",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "Full Stack Developer",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4379284573",
   "first_seen": "2026-06-18T20:08:56.641962+00:00"
  },
@@ -2554,5 +2554,77 @@
   "keyword": "PHP Laravel",
   "link": "https://www.linkedin.com/jobs/view/4339889375",
   "first_seen": "2026-06-18T22:28:30.532638+00:00"
+ },
+ "4427478515": {
+  "id": "4427478515",
+  "title": "Digital Workplace Service Engineer (M/F) Junior",
+  "company": "Otis Elevator Co.",
+  "location": "Nasr City, Cairo, Egypt",
+  "keyword": "Backend Engineer",
+  "link": "https://www.linkedin.com/jobs/view/4427478515",
+  "first_seen": "2026-06-19T00:08:43.099426+00:00"
+ },
+ "4430474379": {
+  "id": "4430474379",
+  "title": "Senior Quality Assurance Test Engineer (CRM Applications)",
+  "company": "Qualyn",
+  "location": "Egypt",
+  "keyword": "Backend Engineer",
+  "link": "https://www.linkedin.com/jobs/view/4430474379",
+  "first_seen": "2026-06-19T00:08:43.099426+00:00"
+ },
+ "4379087111": {
+  "id": "4379087111",
+  "title": "Deloitte Innovation Hub I Senior Data & Analytics Engineer, Cairo, Egypt",
+  "company": "Deloitte",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "Backend Engineer",
+  "link": "https://www.linkedin.com/jobs/view/4379087111",
+  "first_seen": "2026-06-19T00:08:43.099426+00:00"
+ },
+ "4132278801": {
+  "id": "4132278801",
+  "title": "Deloitte Innovation Hub I AI / ML Engineering Tech Lead, Cairo, Egypt",
+  "company": "Deloitte",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "Backend Engineer",
+  "link": "https://www.linkedin.com/jobs/view/4132278801",
+  "first_seen": "2026-06-19T00:08:43.099426+00:00"
+ },
+ "4379250318": {
+  "id": "4379250318",
+  "title": "Deloitte Innovation Hub I Senior Data Modelling Engineer, Cairo, Egypt",
+  "company": "Deloitte",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "Backend Engineer",
+  "link": "https://www.linkedin.com/jobs/view/4379250318",
+  "first_seen": "2026-06-19T00:08:43.099426+00:00"
+ },
+ "4427819800": {
+  "id": "4427819800",
+  "title": "Technical Product Owner",
+  "company": "VOIS",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "Backend Engineer",
+  "link": "https://www.linkedin.com/jobs/view/4427819800",
+  "first_seen": "2026-06-19T00:08:43.099426+00:00"
+ },
+ "4427818845": {
+  "id": "4427818845",
+  "title": "IT Architecture and Design Tech. Lead",
+  "company": "Vodafone",
+  "location": "Giza, Al Jizah, Egypt",
+  "keyword": "Backend Engineer",
+  "link": "https://www.linkedin.com/jobs/view/4427818845",
+  "first_seen": "2026-06-19T00:08:43.099426+00:00"
+ },
+ "4379079232": {
+  "id": "4379079232",
+  "title": "Deloitte Innovation Hub | Senior ServiceNow Developer, Cairo, Egypt",
+  "company": "Deloitte",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "API Developer",
+  "link": "https://www.linkedin.com/jobs/view/4379079232",
+  "first_seen": "2026-06-19T00:08:43.099426+00:00"
  }
 }
