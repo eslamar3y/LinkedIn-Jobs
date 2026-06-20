@@ -2380,7 +2380,7 @@
   "title": "Android Chapter Lead",
   "company": "Vodafone",
   "location": "Giza, Al Jizah, Egypt",
-  "keyword": "API Developer",
+  "keyword": "PHP Laravel",
   "link": "https://www.linkedin.com/jobs/view/4427832700",
   "first_seen": "2026-06-18T14:27:28.227481+00:00"
  },
@@ -3082,7 +3082,7 @@
   "title": "Senior Software Developer",
   "company": "VOIS",
   "location": "Giza, Al Jizah, Egypt",
-  "keyword": "API Developer",
+  "keyword": "PHP Laravel",
   "link": "https://www.linkedin.com/jobs/view/4428546409",
   "first_seen": "2026-06-20T14:37:44.581599+00:00"
  },
@@ -3100,7 +3100,7 @@
   "title": "System Design engineer - AI & Tooling, LIGHT",
   "company": "Valeo",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "API Developer",
+  "keyword": "PHP Laravel",
   "link": "https://www.linkedin.com/jobs/view/4380382243",
   "first_seen": "2026-06-20T14:37:44.581599+00:00"
  },
@@ -3166,5 +3166,32 @@
   "keyword": "Backend Developer",
   "link": "https://www.linkedin.com/jobs/view/4431117459",
   "first_seen": "2026-06-20T17:51:40.480669+00:00"
+ },
+ "4431314985": {
+  "id": "4431314985",
+  "title": "Senior System Engineer",
+  "company": "Bonya",
+  "location": "Cairo, Egypt",
+  "keyword": "PHP Laravel",
+  "link": "https://www.linkedin.com/jobs/view/4431314985",
+  "first_seen": "2026-06-20T20:46:26.950988+00:00"
+ },
+ "4431356091": {
+  "id": "4431356091",
+  "title": "Senior Dotnet Developer",
+  "company": "3i-Vision",
+  "location": "Al Maḩallah al Kubrá, Al Gharbiyah, Egypt",
+  "keyword": "Laravel",
+  "link": "https://www.linkedin.com/jobs/view/4431356091",
+  "first_seen": "2026-06-20T20:46:26.950988+00:00"
+ },
+ "4428296751": {
+  "id": "4428296751",
+  "title": "Owner",
+  "company": "formal-فورمل",
+  "location": "El Mansoura, Ad Daqahliyah, Egypt",
+  "keyword": "PHP Laravel",
+  "link": "https://www.linkedin.com/jobs/view/4428296751",
+  "first_seen": "2026-06-20T20:46:26.950988+00:00"
  }
 }
