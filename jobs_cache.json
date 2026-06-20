@@ -2749,7 +2749,7 @@
   "title": "Technical Support Engineer",
   "company": "York Towers",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "PHP Laravel",
+  "keyword": "Back end Developer",
   "link": "https://www.linkedin.com/jobs/view/4429690422",
   "first_seen": "2026-06-19T16:27:37.295888+00:00"
  },
@@ -2776,7 +2776,7 @@
   "title": "Senior Consultant - AI Software Engineer- AI Hub - Cairo",
   "company": "EY",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "Back end Developer",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4411328916",
   "first_seen": "2026-06-19T16:27:37.295888+00:00"
  },
@@ -2884,7 +2884,7 @@
   "title": "Deloitte Innovation Hub | Data Engineering, Senior Tech Lead, Cairo, Egypt",
   "company": "Deloitte",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "Back end Developer",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4411643682",
   "first_seen": "2026-06-19T18:14:53.332555+00:00"
  },
@@ -3064,7 +3064,7 @@
   "title": "Senior Data Engineer",
   "company": "geidea",
   "location": "Cairo, Egypt",
-  "keyword": "Back end Developer",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4431303878",
   "first_seen": "2026-06-20T12:13:41.509073+00:00"
  },
@@ -3076,5 +3076,32 @@
   "keyword": "Back end Developer",
   "link": "https://www.linkedin.com/jobs/view/4391599233",
   "first_seen": "2026-06-20T12:13:41.509073+00:00"
+ },
+ "4428546409": {
+  "id": "4428546409",
+  "title": "Senior Software Developer",
+  "company": "VOIS",
+  "location": "Giza, Al Jizah, Egypt",
+  "keyword": "API Developer",
+  "link": "https://www.linkedin.com/jobs/view/4428546409",
+  "first_seen": "2026-06-20T14:37:44.581599+00:00"
+ },
+ "4387420289": {
+  "id": "4387420289",
+  "title": "Salesforce CRM Developer",
+  "company": "Arrow Electronics",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "Web Developer",
+  "link": "https://www.linkedin.com/jobs/view/4387420289",
+  "first_seen": "2026-06-20T14:37:44.581599+00:00"
+ },
+ "4380382243": {
+  "id": "4380382243",
+  "title": "System Design engineer - AI & Tooling, LIGHT",
+  "company": "Valeo",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "API Developer",
+  "link": "https://www.linkedin.com/jobs/view/4380382243",
+  "first_seen": "2026-06-20T14:37:44.581599+00:00"
  }
 }
