@@ -3037,7 +3037,7 @@
   "title": "Backend Engineer, EGYPT",
   "company": "nsave",
   "location": "Egypt",
-  "keyword": "Backend Engineer",
+  "keyword": "Back end Developer",
   "link": "https://www.linkedin.com/jobs/view/4431172210",
   "first_seen": "2026-06-20T03:39:32.095426+00:00"
  },
@@ -3064,7 +3064,7 @@
   "title": "Senior Data Engineer",
   "company": "geidea",
   "location": "Cairo, Egypt",
-  "keyword": "API Developer",
+  "keyword": "Backend Engineer",
   "link": "https://www.linkedin.com/jobs/view/4431303878",
   "first_seen": "2026-06-20T12:13:41.509073+00:00"
  },
@@ -3073,7 +3073,7 @@
   "title": "Senior Engineer (R&D Engineering)",
   "company": "Synopsys Inc",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "Backend Developer",
+  "keyword": "Backend Engineer",
   "link": "https://www.linkedin.com/jobs/view/4391599233",
   "first_seen": "2026-06-20T12:13:41.509073+00:00"
  },
@@ -3082,7 +3082,7 @@
   "title": "Senior Software Developer",
   "company": "VOIS",
   "location": "Giza, Al Jizah, Egypt",
-  "keyword": "Full Stack Developer",
+  "keyword": "Web Developer",
   "link": "https://www.linkedin.com/jobs/view/4428546409",
   "first_seen": "2026-06-20T14:37:44.581599+00:00"
  },
@@ -3208,8 +3208,53 @@
   "title": "Head of Software Engineering (On-sight)",
   "company": "Innovitics inc.",
   "location": "Cairo, Egypt",
-  "keyword": "Full Stack Developer",
+  "keyword": "Web Developer",
   "link": "https://www.linkedin.com/jobs/view/4431355383",
   "first_seen": "2026-06-20T21:58:45.239875+00:00"
+ },
+ "4428537846": {
+  "id": "4428537846",
+  "title": "Wordpress Developer",
+  "company": "FEJUS",
+  "location": "New Cairo, Cairo, Egypt",
+  "keyword": "Full Stack Developer",
+  "link": "https://www.linkedin.com/jobs/view/4428537846",
+  "first_seen": "2026-06-20T23:07:57.436062+00:00"
+ },
+ "4132285194": {
+  "id": "4132285194",
+  "title": "Deloitte Innovation Hub I AI/ML Engineering, Senior Tech Lead, Cairo, Egypt",
+  "company": "Deloitte",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "Backend Engineer",
+  "link": "https://www.linkedin.com/jobs/view/4132285194",
+  "first_seen": "2026-06-20T23:07:57.436062+00:00"
+ },
+ "4364122399": {
+  "id": "4364122399",
+  "title": "Test Automation Engineer (Playwright)",
+  "company": "Expleo Group",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "Backend Engineer",
+  "link": "https://www.linkedin.com/jobs/view/4364122399",
+  "first_seen": "2026-06-20T23:07:57.436062+00:00"
+ },
+ "4411386688": {
+  "id": "4411386688",
+  "title": "DevOps Engineer - Senior Consultant - Cairo",
+  "company": "EY",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "Backend Engineer",
+  "link": "https://www.linkedin.com/jobs/view/4411386688",
+  "first_seen": "2026-06-20T23:07:57.436062+00:00"
+ },
+ "4411338046": {
+  "id": "4411338046",
+  "title": "Data Engineer / Data Architect (AI Hub) - Cairo",
+  "company": "EY",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "Backend Engineer",
+  "link": "https://www.linkedin.com/jobs/view/4411338046",
+  "first_seen": "2026-06-20T23:07:57.436062+00:00"
  }
 }
