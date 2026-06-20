@@ -2713,7 +2713,7 @@
   "title": "Game Programmer",
   "company": "Engineered Alchemy",
   "location": "Cairo, Egypt",
-  "keyword": "Laravel",
+  "keyword": "Back end Developer",
   "link": "https://www.linkedin.com/jobs/view/4430963427",
   "first_seen": "2026-06-19T13:52:55.778608+00:00"
  },
@@ -2758,7 +2758,7 @@
   "title": "Artificial Intelligence Engineer",
   "company": "OPSERA",
   "location": "Egypt",
-  "keyword": "Laravel",
+  "keyword": "Back end Developer",
   "link": "https://www.linkedin.com/jobs/view/4428239981",
   "first_seen": "2026-06-19T16:27:37.295888+00:00"
  },
@@ -2776,7 +2776,7 @@
   "title": "Senior Consultant - AI Software Engineer- AI Hub - Cairo",
   "company": "EY",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "Laravel",
+  "keyword": "Back end Developer",
   "link": "https://www.linkedin.com/jobs/view/4411328916",
   "first_seen": "2026-06-19T16:27:37.295888+00:00"
  },
@@ -2884,7 +2884,7 @@
   "title": "Deloitte Innovation Hub | Data Engineering, Senior Tech Lead, Cairo, Egypt",
   "company": "Deloitte",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "API Developer",
+  "keyword": "Back end Developer",
   "link": "https://www.linkedin.com/jobs/view/4411643682",
   "first_seen": "2026-06-19T18:14:53.332555+00:00"
  },
@@ -2911,7 +2911,7 @@
   "title": "Cloud Engineer",
   "company": "FLO Clinics",
   "location": "Egypt",
-  "keyword": "Laravel",
+  "keyword": "Back end Developer",
   "link": "https://www.linkedin.com/jobs/view/4428296131",
   "first_seen": "2026-06-19T20:11:00.317502+00:00"
  },
@@ -2992,7 +2992,7 @@
   "title": "Odoo Developer",
   "company": "York Towers",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "Backend Engineer",
+  "keyword": "Back end Developer",
   "link": "https://www.linkedin.com/jobs/view/4429647701",
   "first_seen": "2026-06-19T21:40:45.960465+00:00"
  },
@@ -3028,7 +3028,7 @@
   "title": "Senior Site Reliability Engineer",
   "company": "geidea",
   "location": "Cairo, Egypt",
-  "keyword": "Backend Developer",
+  "keyword": "Back end Developer",
   "link": "https://www.linkedin.com/jobs/view/4418614018",
   "first_seen": "2026-06-19T23:58:59.963995+00:00"
  },
@@ -3049,5 +3049,32 @@
   "keyword": "Back end Developer",
   "link": "https://www.linkedin.com/jobs/view/4431180168",
   "first_seen": "2026-06-20T03:39:32.095426+00:00"
+ },
+ "4428534378": {
+  "id": "4428534378",
+  "title": "Senior PHP Developer",
+  "company": "مبشرات لتقنية المعلومات",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "Web Developer",
+  "link": "https://www.linkedin.com/jobs/view/4428534378",
+  "first_seen": "2026-06-20T12:13:41.509073+00:00"
+ },
+ "4431303878": {
+  "id": "4431303878",
+  "title": "Senior Data Engineer",
+  "company": "geidea",
+  "location": "Cairo, Egypt",
+  "keyword": "Back end Developer",
+  "link": "https://www.linkedin.com/jobs/view/4431303878",
+  "first_seen": "2026-06-20T12:13:41.509073+00:00"
+ },
+ "4391599233": {
+  "id": "4391599233",
+  "title": "Senior Engineer (R&D Engineering)",
+  "company": "Synopsys Inc",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "Back end Developer",
+  "link": "https://www.linkedin.com/jobs/view/4391599233",
+  "first_seen": "2026-06-20T12:13:41.509073+00:00"
  }
 }
