@@ -2686,7 +2686,7 @@
   "title": "Senior Frontend Developer",
   "company": "800 Storage",
   "location": "Cairo, Egypt",
-  "keyword": "Web Developer",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4430918853",
   "first_seen": "2026-06-19T10:10:54.279848+00:00"
  },
@@ -2713,7 +2713,7 @@
   "title": "Game Programmer",
   "company": "Engineered Alchemy",
   "location": "Cairo, Egypt",
-  "keyword": "Backend Developer",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4430963427",
   "first_seen": "2026-06-19T13:52:55.778608+00:00"
  },
@@ -2722,7 +2722,7 @@
   "title": "Senior Software Backend Development Engineer",
   "company": "Siemens",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "Full Stack Developer",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4418808926",
   "first_seen": "2026-06-19T13:52:55.778608+00:00"
  },
@@ -2758,7 +2758,7 @@
   "title": "Artificial Intelligence Engineer",
   "company": "OPSERA",
   "location": "Egypt",
-  "keyword": "Backend Developer",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4428239981",
   "first_seen": "2026-06-19T16:27:37.295888+00:00"
  },
@@ -2776,7 +2776,7 @@
   "title": "Senior Consultant - AI Software Engineer- AI Hub - Cairo",
   "company": "EY",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "Backend Developer",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4411328916",
   "first_seen": "2026-06-19T16:27:37.295888+00:00"
  },
@@ -2884,7 +2884,7 @@
   "title": "Deloitte Innovation Hub | Data Engineering, Senior Tech Lead, Cairo, Egypt",
   "company": "Deloitte",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "Backend Developer",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4411643682",
   "first_seen": "2026-06-19T18:14:53.332555+00:00"
  },
@@ -2901,7 +2901,7 @@
   "id": "4402506202",
   "title": "Senior Services Engineer",
   "company": "GE Vernova",
-  "location": "Cairo, Cairo, Egypt",
+  "location": "Cairo, Egypt",
   "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4402506202",
   "first_seen": "2026-06-19T18:14:53.332555+00:00"
@@ -2911,7 +2911,7 @@
   "title": "Cloud Engineer",
   "company": "FLO Clinics",
   "location": "Egypt",
-  "keyword": "Backend Developer",
+  "keyword": "Back end Developer",
   "link": "https://www.linkedin.com/jobs/view/4428296131",
   "first_seen": "2026-06-19T20:11:00.317502+00:00"
  },
@@ -3031,5 +3031,23 @@
   "keyword": "Backend Developer",
   "link": "https://www.linkedin.com/jobs/view/4418614018",
   "first_seen": "2026-06-19T23:58:59.963995+00:00"
+ },
+ "4431172210": {
+  "id": "4431172210",
+  "title": "Backend Engineer, EGYPT",
+  "company": "nsave",
+  "location": "Egypt",
+  "keyword": "Full Stack Developer",
+  "link": "https://www.linkedin.com/jobs/view/4431172210",
+  "first_seen": "2026-06-20T03:39:32.095426+00:00"
+ },
+ "4431180168": {
+  "id": "4431180168",
+  "title": "Django App Backend Intern",
+  "company": "Drop Me",
+  "location": "Cairo, Egypt",
+  "keyword": "Back end Developer",
+  "link": "https://www.linkedin.com/jobs/view/4431180168",
+  "first_seen": "2026-06-20T03:39:32.095426+00:00"
  }
 }
