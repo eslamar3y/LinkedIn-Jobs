@@ -2380,7 +2380,7 @@
   "title": "Android Chapter Lead",
   "company": "Vodafone",
   "location": "Giza, Al Jizah, Egypt",
-  "keyword": "PHP Laravel",
+  "keyword": "Web Developer",
   "link": "https://www.linkedin.com/jobs/view/4427832700",
   "first_seen": "2026-06-18T14:27:28.227481+00:00"
  },
@@ -3037,7 +3037,7 @@
   "title": "Backend Engineer, EGYPT",
   "company": "nsave",
   "location": "Egypt",
-  "keyword": "Full Stack Developer",
+  "keyword": "Backend Engineer",
   "link": "https://www.linkedin.com/jobs/view/4431172210",
   "first_seen": "2026-06-20T03:39:32.095426+00:00"
  },
@@ -3082,7 +3082,7 @@
   "title": "Senior Software Developer",
   "company": "VOIS",
   "location": "Giza, Al Jizah, Egypt",
-  "keyword": "PHP Laravel",
+  "keyword": "Full Stack Developer",
   "link": "https://www.linkedin.com/jobs/view/4428546409",
   "first_seen": "2026-06-20T14:37:44.581599+00:00"
  },
@@ -3100,7 +3100,7 @@
   "title": "System Design engineer - AI & Tooling, LIGHT",
   "company": "Valeo",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "PHP Laravel",
+  "keyword": "Web Developer",
   "link": "https://www.linkedin.com/jobs/view/4380382243",
   "first_seen": "2026-06-20T14:37:44.581599+00:00"
  },
@@ -3193,5 +3193,23 @@
   "keyword": "PHP Laravel",
   "link": "https://www.linkedin.com/jobs/view/4428296751",
   "first_seen": "2026-06-20T20:46:26.950988+00:00"
+ },
+ "4431351388": {
+  "id": "4431351388",
+  "title": "Mobile Engineer",
+  "company": "Vallix",
+  "location": "Egypt",
+  "keyword": "Full Stack Developer",
+  "link": "https://www.linkedin.com/jobs/view/4431351388",
+  "first_seen": "2026-06-20T21:58:45.239875+00:00"
+ },
+ "4431355383": {
+  "id": "4431355383",
+  "title": "Head of Software Engineering (On-sight)",
+  "company": "Innovitics inc.",
+  "location": "Cairo, Egypt",
+  "keyword": "Full Stack Developer",
+  "link": "https://www.linkedin.com/jobs/view/4431355383",
+  "first_seen": "2026-06-20T21:58:45.239875+00:00"
  }
 }
