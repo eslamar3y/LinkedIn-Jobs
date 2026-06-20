@@ -2380,7 +2380,7 @@
   "title": "Android Chapter Lead",
   "company": "Vodafone",
   "location": "Giza, Al Jizah, Egypt",
-  "keyword": "API Developer",
+  "keyword": "PHP Laravel",
   "link": "https://www.linkedin.com/jobs/view/4427832700",
   "first_seen": "2026-06-18T14:27:28.227481+00:00"
  },
@@ -2911,7 +2911,7 @@
   "title": "Cloud Engineer",
   "company": "FLO Clinics",
   "location": "Egypt",
-  "keyword": "Back end Developer",
+  "keyword": "PHP Laravel",
   "link": "https://www.linkedin.com/jobs/view/4428296131",
   "first_seen": "2026-06-19T20:11:00.317502+00:00"
  },
@@ -3082,7 +3082,7 @@
   "title": "Senior Software Developer",
   "company": "VOIS",
   "location": "Giza, Al Jizah, Egypt",
-  "keyword": "API Developer",
+  "keyword": "PHP Laravel",
   "link": "https://www.linkedin.com/jobs/view/4428546409",
   "first_seen": "2026-06-20T14:37:44.581599+00:00"
  },
@@ -3100,8 +3100,53 @@
   "title": "System Design engineer - AI & Tooling, LIGHT",
   "company": "Valeo",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "API Developer",
+  "keyword": "PHP Laravel",
   "link": "https://www.linkedin.com/jobs/view/4380382243",
   "first_seen": "2026-06-20T14:37:44.581599+00:00"
+ },
+ "4431334639": {
+  "id": "4431334639",
+  "title": "Architect",
+  "company": "FREE",
+  "location": "Cairo, Egypt",
+  "keyword": "PHP Laravel",
+  "link": "https://www.linkedin.com/jobs/view/4431334639",
+  "first_seen": "2026-06-20T16:10:47.328236+00:00"
+ },
+ "4431305946": {
+  "id": "4431305946",
+  "title": "Application Support Specialist",
+  "company": "geidea",
+  "location": "Cairo, Egypt",
+  "keyword": "PHP Laravel",
+  "link": "https://www.linkedin.com/jobs/view/4431305946",
+  "first_seen": "2026-06-20T16:10:47.328236+00:00"
+ },
+ "4431129451": {
+  "id": "4431129451",
+  "title": "Product Manager",
+  "company": "geidea",
+  "location": "Cairo, Egypt",
+  "keyword": "PHP Laravel",
+  "link": "https://www.linkedin.com/jobs/view/4431129451",
+  "first_seen": "2026-06-20T16:10:47.328236+00:00"
+ },
+ "4431335649": {
+  "id": "4431335649",
+  "title": "Odoo Implementor – Mid-Level",
+  "company": "Learnovia",
+  "location": "Qesm El Maadi, Cairo, Egypt",
+  "keyword": "PHP Laravel",
+  "link": "https://www.linkedin.com/jobs/view/4431335649",
+  "first_seen": "2026-06-20T16:10:47.328236+00:00"
+ },
+ "4380611477": {
+  "id": "4380611477",
+  "title": "IT Help Desk with Disability (m/w/d)",
+  "company": "sonnen Egypt",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "PHP Laravel",
+  "link": "https://www.linkedin.com/jobs/view/4380611477",
+  "first_seen": "2026-06-20T16:10:47.328236+00:00"
  }
 }
