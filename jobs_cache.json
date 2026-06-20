@@ -2380,7 +2380,7 @@
   "title": "Android Chapter Lead",
   "company": "Vodafone",
   "location": "Giza, Al Jizah, Egypt",
-  "keyword": "PHP Laravel",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4427832700",
   "first_seen": "2026-06-18T14:27:28.227481+00:00"
  },
@@ -2911,7 +2911,7 @@
   "title": "Cloud Engineer",
   "company": "FLO Clinics",
   "location": "Egypt",
-  "keyword": "PHP Laravel",
+  "keyword": "Backend Developer",
   "link": "https://www.linkedin.com/jobs/view/4428296131",
   "first_seen": "2026-06-19T20:11:00.317502+00:00"
  },
@@ -3028,7 +3028,7 @@
   "title": "Senior Site Reliability Engineer",
   "company": "geidea",
   "location": "Cairo, Egypt",
-  "keyword": "Back end Developer",
+  "keyword": "Backend Developer",
   "link": "https://www.linkedin.com/jobs/view/4418614018",
   "first_seen": "2026-06-19T23:58:59.963995+00:00"
  },
@@ -3037,7 +3037,7 @@
   "title": "Backend Engineer, EGYPT",
   "company": "nsave",
   "location": "Egypt",
-  "keyword": "Full Stack Developer",
+  "keyword": "Backend Engineer",
   "link": "https://www.linkedin.com/jobs/view/4431172210",
   "first_seen": "2026-06-20T03:39:32.095426+00:00"
  },
@@ -3073,7 +3073,7 @@
   "title": "Senior Engineer (R&D Engineering)",
   "company": "Synopsys Inc",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "Back end Developer",
+  "keyword": "Backend Developer",
   "link": "https://www.linkedin.com/jobs/view/4391599233",
   "first_seen": "2026-06-20T12:13:41.509073+00:00"
  },
@@ -3082,7 +3082,7 @@
   "title": "Senior Software Developer",
   "company": "VOIS",
   "location": "Giza, Al Jizah, Egypt",
-  "keyword": "PHP Laravel",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4428546409",
   "first_seen": "2026-06-20T14:37:44.581599+00:00"
  },
@@ -3100,7 +3100,7 @@
   "title": "System Design engineer - AI & Tooling, LIGHT",
   "company": "Valeo",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "PHP Laravel",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4380382243",
   "first_seen": "2026-06-20T14:37:44.581599+00:00"
  },
@@ -3109,7 +3109,7 @@
   "title": "Architect",
   "company": "FREE",
   "location": "Cairo, Egypt",
-  "keyword": "PHP Laravel",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4431334639",
   "first_seen": "2026-06-20T16:10:47.328236+00:00"
  },
@@ -3148,5 +3148,23 @@
   "keyword": "PHP Laravel",
   "link": "https://www.linkedin.com/jobs/view/4380611477",
   "first_seen": "2026-06-20T16:10:47.328236+00:00"
+ },
+ "4412190314": {
+  "id": "4412190314",
+  "title": "Cyber Security",
+  "company": "SBA - Grant Thornton Egypt",
+  "location": "Egypt",
+  "keyword": "PHP Laravel",
+  "link": "https://www.linkedin.com/jobs/view/4412190314",
+  "first_seen": "2026-06-20T17:51:40.480669+00:00"
+ },
+ "4431117459": {
+  "id": "4431117459",
+  "title": "Senior DevOps Engineer",
+  "company": "geidea",
+  "location": "Cairo, Egypt",
+  "keyword": "Backend Developer",
+  "link": "https://www.linkedin.com/jobs/view/4431117459",
+  "first_seen": "2026-06-20T17:51:40.480669+00:00"
  }
 }
