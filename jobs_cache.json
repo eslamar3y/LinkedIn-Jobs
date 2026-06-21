@@ -3226,7 +3226,7 @@
   "title": "Deloitte Innovation Hub I AI/ML Engineering, Senior Tech Lead, Cairo, Egypt",
   "company": "Deloitte",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "Backend Developer",
+  "keyword": "Back end Developer",
   "link": "https://www.linkedin.com/jobs/view/4132285194",
   "first_seen": "2026-06-20T23:07:57.436062+00:00"
  },
@@ -3379,7 +3379,7 @@
   "title": "Senior C++ Engineer",
   "company": "EgyBell",
   "location": "Qesm El Maadi, Cairo, Egypt",
-  "keyword": "Backend Developer",
+  "keyword": "Backend Engineer",
   "link": "https://www.linkedin.com/jobs/view/4431361688",
   "first_seen": "2026-06-21T10:24:37.708164+00:00"
  },
@@ -3397,7 +3397,7 @@
   "title": "Principal AI Engineer",
   "company": "Finaira",
   "location": "Cairo, Egypt",
-  "keyword": "Backend Engineer",
+  "keyword": "Backend Developer",
   "link": "https://www.linkedin.com/jobs/view/4428591177",
   "first_seen": "2026-06-21T10:24:37.708164+00:00"
  },
@@ -3424,7 +3424,7 @@
   "title": "Data Engineer",
   "company": "Coca-Cola HBC",
   "location": "Cairo, Egypt",
-  "keyword": "API Developer",
+  "keyword": "PHP Laravel",
   "link": "https://www.linkedin.com/jobs/view/4431377951",
   "first_seen": "2026-06-21T12:22:56.126329+00:00"
  },
@@ -3505,7 +3505,7 @@
   "title": "Linux System Administrator",
   "company": "Axis",
   "location": "Cairo, Egypt",
-  "keyword": "Backend Engineer",
+  "keyword": "Back end Developer",
   "link": "https://www.linkedin.com/jobs/view/4428586385",
   "first_seen": "2026-06-21T14:38:03.228009+00:00"
  },
@@ -3541,7 +3541,7 @@
   "title": "Senior SAS Developer (SAS BI)",
   "company": "Magnet",
   "location": "Cairo, Egypt",
-  "keyword": "Backend Engineer",
+  "keyword": "Back end Developer",
   "link": "https://www.linkedin.com/jobs/view/4427529423",
   "first_seen": "2026-06-21T14:38:03.228009+00:00"
  },
@@ -3553,5 +3553,32 @@
   "keyword": "Backend Engineer",
   "link": "https://www.linkedin.com/jobs/view/4431382192",
   "first_seen": "2026-06-21T14:38:03.228009+00:00"
+ },
+ "4428579610": {
+  "id": "4428579610",
+  "title": "Cloud & Platform Engineer",
+  "company": "Storyteller",
+  "location": "Egypt",
+  "keyword": "Laravel",
+  "link": "https://www.linkedin.com/jobs/view/4428579610",
+  "first_seen": "2026-06-21T16:24:26.553258+00:00"
+ },
+ "4431393482": {
+  "id": "4431393482",
+  "title": "CMS Setup & Implementation Specialist",
+  "company": "Network International",
+  "location": "Egypt",
+  "keyword": "PHP Laravel",
+  "link": "https://www.linkedin.com/jobs/view/4431393482",
+  "first_seen": "2026-06-21T16:24:26.553258+00:00"
+ },
+ "4428595258": {
+  "id": "4428595258",
+  "title": "Android Software Engineer ( Mid Level )",
+  "company": "MaxAB",
+  "location": "Cairo, Egypt",
+  "keyword": "Full Stack Developer",
+  "link": "https://www.linkedin.com/jobs/view/4428595258",
+  "first_seen": "2026-06-21T16:24:26.553258+00:00"
  }
 }
