@@ -3316,7 +3316,7 @@
   "title": "Full Stack Engineer",
   "company": "Systems Limited - Egypt",
   "location": "Cairo, Egypt",
-  "keyword": "API Developer",
+  "keyword": "Full Stack Developer",
   "link": "https://www.linkedin.com/jobs/view/4431382497",
   "first_seen": "2026-06-21T10:24:37.708164+00:00"
  },
@@ -3325,7 +3325,7 @@
   "title": "Back End Developer",
   "company": "Magnet",
   "location": "Cairo, Egypt",
-  "keyword": "API Developer",
+  "keyword": "Full Stack Developer",
   "link": "https://www.linkedin.com/jobs/view/4431380639",
   "first_seen": "2026-06-21T10:24:37.708164+00:00"
  },
@@ -3397,7 +3397,7 @@
   "title": "Principal AI Engineer",
   "company": "Finaira",
   "location": "Cairo, Egypt",
-  "keyword": "Backend Developer",
+  "keyword": "Back end Developer",
   "link": "https://www.linkedin.com/jobs/view/4428591177",
   "first_seen": "2026-06-21T10:24:37.708164+00:00"
  },
@@ -3406,7 +3406,7 @@
   "title": "Senior Software Engineer",
   "company": "Finaira",
   "location": "Cairo, Egypt",
-  "keyword": "API Developer",
+  "keyword": "Full Stack Developer",
   "link": "https://www.linkedin.com/jobs/view/4428589191",
   "first_seen": "2026-06-21T12:22:56.126329+00:00"
  },
@@ -3433,7 +3433,7 @@
   "title": "Back End Developer",
   "company": "Keys Recruiters",
   "location": "Egypt",
-  "keyword": "API Developer",
+  "keyword": "Full Stack Developer",
   "link": "https://www.linkedin.com/jobs/view/4430336310",
   "first_seen": "2026-06-21T14:38:03.228009+00:00"
  },
@@ -3442,7 +3442,7 @@
   "title": "Back End Developer",
   "company": "DP-Data Pulse",
   "location": "Al Manşūrah, Ad Daqahliyah, Egypt",
-  "keyword": "API Developer",
+  "keyword": "Full Stack Developer",
   "link": "https://www.linkedin.com/jobs/view/4431391320",
   "first_seen": "2026-06-21T14:38:03.228009+00:00"
  },
@@ -3460,7 +3460,7 @@
   "title": "Platform Software Engineer (m/f/d)",
   "company": "sonnen Egypt",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "API Developer",
+  "keyword": "Full Stack Developer",
   "link": "https://www.linkedin.com/jobs/view/4291343126",
   "first_seen": "2026-06-21T14:38:03.228009+00:00"
  },
@@ -3469,7 +3469,7 @@
   "title": "Java Technical Lead (Angular)",
   "company": "Fawry",
   "location": "Smart Village, Egypt",
-  "keyword": "API Developer",
+  "keyword": "Full Stack Developer",
   "link": "https://www.linkedin.com/jobs/view/4431396218",
   "first_seen": "2026-06-21T14:38:03.228009+00:00"
  },
@@ -3505,7 +3505,7 @@
   "title": "Linux System Administrator",
   "company": "Axis",
   "location": "Cairo, Egypt",
-  "keyword": "Back end Developer",
+  "keyword": "Backend Engineer",
   "link": "https://www.linkedin.com/jobs/view/4428586385",
   "first_seen": "2026-06-21T14:38:03.228009+00:00"
  },
@@ -3541,7 +3541,7 @@
   "title": "Senior SAS Developer (SAS BI)",
   "company": "Magnet",
   "location": "Cairo, Egypt",
-  "keyword": "Back end Developer",
+  "keyword": "Backend Engineer",
   "link": "https://www.linkedin.com/jobs/view/4427529423",
   "first_seen": "2026-06-21T14:38:03.228009+00:00"
  },
@@ -3580,5 +3580,59 @@
   "keyword": "Full Stack Developer",
   "link": "https://www.linkedin.com/jobs/view/4428595258",
   "first_seen": "2026-06-21T16:24:26.553258+00:00"
+ },
+ "4428587618": {
+  "id": "4428587618",
+  "title": "Full Stack Software Engineer",
+  "company": "Cypod Solutions",
+  "location": "Heliopolis, Cairo, Egypt",
+  "keyword": "Full Stack Developer",
+  "link": "https://www.linkedin.com/jobs/view/4428587618",
+  "first_seen": "2026-06-21T18:00:37.238254+00:00"
+ },
+ "4430327538": {
+  "id": "4430327538",
+  "title": "Senior Oracle Apex Developer",
+  "company": "Nexttec Technology Outsourcing",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "Back end Developer",
+  "link": "https://www.linkedin.com/jobs/view/4430327538",
+  "first_seen": "2026-06-21T18:00:37.238254+00:00"
+ },
+ "4431390716": {
+  "id": "4431390716",
+  "title": "FO Engineer -GNOC",
+  "company": "ECOTEL",
+  "location": "Qesm Heliopolis, Cairo, Egypt",
+  "keyword": "Back end Developer",
+  "link": "https://www.linkedin.com/jobs/view/4431390716",
+  "first_seen": "2026-06-21T18:00:37.238254+00:00"
+ },
+ "4431601463": {
+  "id": "4431601463",
+  "title": "Server",
+  "company": "Four Seasons",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "Backend Engineer",
+  "link": "https://www.linkedin.com/jobs/view/4431601463",
+  "first_seen": "2026-06-21T18:00:37.238254+00:00"
+ },
+ "4371455182": {
+  "id": "4371455182",
+  "title": "Deloitte Innovation Hub I Cyber Security I Active Directory Security - IAM Senior Engineer, Cairo, Egypt.",
+  "company": "Deloitte",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "Backend Engineer",
+  "link": "https://www.linkedin.com/jobs/view/4371455182",
+  "first_seen": "2026-06-21T18:00:37.238254+00:00"
+ },
+ "4431602543": {
+  "id": "4431602543",
+  "title": "E2E Solutions Architect",
+  "company": "e& CX Solutions Egypt",
+  "location": "Cairo, Egypt",
+  "keyword": "Backend Engineer",
+  "link": "https://www.linkedin.com/jobs/view/4431602543",
+  "first_seen": "2026-06-21T18:00:37.238254+00:00"
  }
 }
