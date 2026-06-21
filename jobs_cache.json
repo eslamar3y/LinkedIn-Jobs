@@ -3307,7 +3307,7 @@
   "title": "Technical Lead – Full Stack Developer (WordPress Focus)",
   "company": "Anonymous Company",
   "location": "Cairo, Egypt",
-  "keyword": "API Developer",
+  "keyword": "Full Stack Developer",
   "link": "https://www.linkedin.com/jobs/view/4431382596",
   "first_seen": "2026-06-21T10:24:37.708164+00:00"
  },
@@ -3334,7 +3334,7 @@
   "title": "CRM Developer",
   "company": "Singleclic Ltd",
   "location": "Cairo, Egypt",
-  "keyword": "API Developer",
+  "keyword": "Full Stack Developer",
   "link": "https://www.linkedin.com/jobs/view/4431368458",
   "first_seen": "2026-06-21T10:24:37.708164+00:00"
  },
@@ -3379,7 +3379,7 @@
   "title": "Senior C++ Engineer",
   "company": "EgyBell",
   "location": "Qesm El Maadi, Cairo, Egypt",
-  "keyword": "API Developer",
+  "keyword": "Backend Developer",
   "link": "https://www.linkedin.com/jobs/view/4431361688",
   "first_seen": "2026-06-21T10:24:37.708164+00:00"
  },
@@ -3427,5 +3427,131 @@
   "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4431377951",
   "first_seen": "2026-06-21T12:22:56.126329+00:00"
+ },
+ "4430336310": {
+  "id": "4430336310",
+  "title": "Back End Developer",
+  "company": "Keys Recruiters",
+  "location": "Egypt",
+  "keyword": "API Developer",
+  "link": "https://www.linkedin.com/jobs/view/4430336310",
+  "first_seen": "2026-06-21T14:38:03.228009+00:00"
+ },
+ "4431391320": {
+  "id": "4431391320",
+  "title": "Back End Developer",
+  "company": "DP-Data Pulse",
+  "location": "Al Manşūrah, Ad Daqahliyah, Egypt",
+  "keyword": "API Developer",
+  "link": "https://www.linkedin.com/jobs/view/4431391320",
+  "first_seen": "2026-06-21T14:38:03.228009+00:00"
+ },
+ "4428588387": {
+  "id": "4428588387",
+  "title": "Hiring WordPress Developer in Alexandria",
+  "company": "XonTel",
+  "location": "Alexandria, Egypt",
+  "keyword": "Full Stack Developer",
+  "link": "https://www.linkedin.com/jobs/view/4428588387",
+  "first_seen": "2026-06-21T14:38:03.228009+00:00"
+ },
+ "4291343126": {
+  "id": "4291343126",
+  "title": "Platform Software Engineer (m/f/d)",
+  "company": "sonnen Egypt",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "API Developer",
+  "link": "https://www.linkedin.com/jobs/view/4291343126",
+  "first_seen": "2026-06-21T14:38:03.228009+00:00"
+ },
+ "4431396218": {
+  "id": "4431396218",
+  "title": "Java Technical Lead (Angular)",
+  "company": "Fawry",
+  "location": "Smart Village, Egypt",
+  "keyword": "API Developer",
+  "link": "https://www.linkedin.com/jobs/view/4431396218",
+  "first_seen": "2026-06-21T14:38:03.228009+00:00"
+ },
+ "4431380889": {
+  "id": "4431380889",
+  "title": "Presales Engineer",
+  "company": "3Pillars Companies",
+  "location": "Cairo, Egypt",
+  "keyword": "Backend Engineer",
+  "link": "https://www.linkedin.com/jobs/view/4431380889",
+  "first_seen": "2026-06-21T14:38:03.228009+00:00"
+ },
+ "4383820674": {
+  "id": "4383820674",
+  "title": "AI Engineering Manager",
+  "company": "Unifonic",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "Backend Engineer",
+  "link": "https://www.linkedin.com/jobs/view/4383820674",
+  "first_seen": "2026-06-21T14:38:03.228009+00:00"
+ },
+ "4431379446": {
+  "id": "4431379446",
+  "title": "Lead Software Engineer - C/C++ Enterprise Systems ( Part Time)",
+  "company": "Integrant, Inc.",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "Backend Engineer",
+  "link": "https://www.linkedin.com/jobs/view/4431379446",
+  "first_seen": "2026-06-21T14:38:03.228009+00:00"
+ },
+ "4428586385": {
+  "id": "4428586385",
+  "title": "Linux System Administrator",
+  "company": "Axis",
+  "location": "Cairo, Egypt",
+  "keyword": "Backend Engineer",
+  "link": "https://www.linkedin.com/jobs/view/4428586385",
+  "first_seen": "2026-06-21T14:38:03.228009+00:00"
+ },
+ "4428588352": {
+  "id": "4428588352",
+  "title": "T24 Core Banking Application Development Manager",
+  "company": "Valu",
+  "location": "Qesm El Sheikh Zaid, Al Jizah, Egypt",
+  "keyword": "Backend Engineer",
+  "link": "https://www.linkedin.com/jobs/view/4428588352",
+  "first_seen": "2026-06-21T14:38:03.228009+00:00"
+ },
+ "4431389076": {
+  "id": "4431389076",
+  "title": "مهندس تبريد",
+  "company": "Frosty Foods",
+  "location": "Alexandria, Egypt",
+  "keyword": "Backend Engineer",
+  "link": "https://www.linkedin.com/jobs/view/4431389076",
+  "first_seen": "2026-06-21T14:38:03.228009+00:00"
+ },
+ "4428580480": {
+  "id": "4428580480",
+  "title": "Network Security Engineer",
+  "company": "Axis",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "Backend Engineer",
+  "link": "https://www.linkedin.com/jobs/view/4428580480",
+  "first_seen": "2026-06-21T14:38:03.228009+00:00"
+ },
+ "4427529423": {
+  "id": "4427529423",
+  "title": "Senior SAS Developer (SAS BI)",
+  "company": "Magnet",
+  "location": "Cairo, Egypt",
+  "keyword": "Backend Engineer",
+  "link": "https://www.linkedin.com/jobs/view/4427529423",
+  "first_seen": "2026-06-21T14:38:03.228009+00:00"
+ },
+ "4431382192": {
+  "id": "4431382192",
+  "title": "NOC Specialist",
+  "company": "geidea",
+  "location": "Cairo, Egypt",
+  "keyword": "Backend Engineer",
+  "link": "https://www.linkedin.com/jobs/view/4431382192",
+  "first_seen": "2026-06-21T14:38:03.228009+00:00"
  }
 }
