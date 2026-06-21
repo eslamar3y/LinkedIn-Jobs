@@ -1990,10 +1990,10 @@
  },
  "4429797482": {
   "id": "4429797482",
-  "title": "Senior C++ Engineer with Core processing experince",
+  "title": "5G Core Software Engineer",
   "company": "EgyBell",
   "location": "Cairo, Egypt",
-  "keyword": "Back end Developer",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4429797482",
   "first_seen": "2026-06-17T23:16:07.558778+00:00"
  },
@@ -2371,7 +2371,7 @@
   "title": "Retail Support Tech Specialist",
   "company": "Vodafone",
   "location": "Giza, Al Jizah, Egypt",
-  "keyword": "Web Developer",
+  "keyword": "PHP Laravel",
   "link": "https://www.linkedin.com/jobs/view/4427816884",
   "first_seen": "2026-06-18T14:27:28.227481+00:00"
  },
@@ -3292,5 +3292,113 @@
   "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4431372391",
   "first_seen": "2026-06-21T06:42:15.304064+00:00"
+ },
+ "4431363759": {
+  "id": "4431363759",
+  "title": "Laravel + Blade Web Developer",
+  "company": "Sahara Group",
+  "location": "Egypt",
+  "keyword": "API Developer",
+  "link": "https://www.linkedin.com/jobs/view/4431363759",
+  "first_seen": "2026-06-21T10:24:37.708164+00:00"
+ },
+ "4431382596": {
+  "id": "4431382596",
+  "title": "Technical Lead – Full Stack Developer (WordPress Focus)",
+  "company": "Anonymous Company",
+  "location": "Cairo, Egypt",
+  "keyword": "API Developer",
+  "link": "https://www.linkedin.com/jobs/view/4431382596",
+  "first_seen": "2026-06-21T10:24:37.708164+00:00"
+ },
+ "4431382497": {
+  "id": "4431382497",
+  "title": "Full Stack Engineer",
+  "company": "Systems Limited - Egypt",
+  "location": "Cairo, Egypt",
+  "keyword": "API Developer",
+  "link": "https://www.linkedin.com/jobs/view/4431382497",
+  "first_seen": "2026-06-21T10:24:37.708164+00:00"
+ },
+ "4431380639": {
+  "id": "4431380639",
+  "title": "Back End Developer",
+  "company": "Magnet",
+  "location": "Cairo, Egypt",
+  "keyword": "API Developer",
+  "link": "https://www.linkedin.com/jobs/view/4431380639",
+  "first_seen": "2026-06-21T10:24:37.708164+00:00"
+ },
+ "4431368458": {
+  "id": "4431368458",
+  "title": "CRM Developer",
+  "company": "Singleclic Ltd",
+  "location": "Cairo, Egypt",
+  "keyword": "API Developer",
+  "link": "https://www.linkedin.com/jobs/view/4431368458",
+  "first_seen": "2026-06-21T10:24:37.708164+00:00"
+ },
+ "4431378526": {
+  "id": "4431378526",
+  "title": "Junior AI Engineer - Computer Vision",
+  "company": "InnovationTeam",
+  "location": "Egypt",
+  "keyword": "Laravel",
+  "link": "https://www.linkedin.com/jobs/view/4431378526",
+  "first_seen": "2026-06-21T10:24:37.708164+00:00"
+ },
+ "4428598114": {
+  "id": "4428598114",
+  "title": "Head of Engineering",
+  "company": "Khazenly - خزنلي",
+  "location": "Qesm El Zamalek, Cairo, Egypt",
+  "keyword": "PHP Laravel",
+  "link": "https://www.linkedin.com/jobs/view/4428598114",
+  "first_seen": "2026-06-21T10:24:37.708164+00:00"
+ },
+ "4431361765": {
+  "id": "4431361765",
+  "title": "Payment Integration Engineer",
+  "company": "geidea",
+  "location": "Cairo, Egypt",
+  "keyword": "API Developer",
+  "link": "https://www.linkedin.com/jobs/view/4431361765",
+  "first_seen": "2026-06-21T10:24:37.708164+00:00"
+ },
+ "4431380545": {
+  "id": "4431380545",
+  "title": "Senior Integration Engineer",
+  "company": "geidea",
+  "location": "Cairo, Egypt",
+  "keyword": "API Developer",
+  "link": "https://www.linkedin.com/jobs/view/4431380545",
+  "first_seen": "2026-06-21T10:24:37.708164+00:00"
+ },
+ "4431361688": {
+  "id": "4431361688",
+  "title": "Senior C++ Engineer",
+  "company": "EgyBell",
+  "location": "Qesm El Maadi, Cairo, Egypt",
+  "keyword": "API Developer",
+  "link": "https://www.linkedin.com/jobs/view/4431361688",
+  "first_seen": "2026-06-21T10:24:37.708164+00:00"
+ },
+ "4428579275": {
+  "id": "4428579275",
+  "title": "MLOps Engineer II",
+  "company": "Finaira",
+  "location": "Cairo, Egypt",
+  "keyword": "Backend Engineer",
+  "link": "https://www.linkedin.com/jobs/view/4428579275",
+  "first_seen": "2026-06-21T10:24:37.708164+00:00"
+ },
+ "4428591177": {
+  "id": "4428591177",
+  "title": "Principal AI Engineer",
+  "company": "Finaira",
+  "location": "Cairo, Egypt",
+  "keyword": "Backend Engineer",
+  "link": "https://www.linkedin.com/jobs/view/4428591177",
+  "first_seen": "2026-06-21T10:24:37.708164+00:00"
  }
 }
