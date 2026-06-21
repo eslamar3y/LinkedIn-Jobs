@@ -2371,7 +2371,7 @@
   "title": "Retail Support Tech Specialist",
   "company": "Vodafone",
   "location": "Giza, Al Jizah, Egypt",
-  "keyword": "API Developer",
+  "keyword": "Web Developer",
   "link": "https://www.linkedin.com/jobs/view/4427816884",
   "first_seen": "2026-06-18T14:27:28.227481+00:00"
  },
@@ -2380,7 +2380,7 @@
   "title": "Android Chapter Lead",
   "company": "Vodafone",
   "location": "Giza, Al Jizah, Egypt",
-  "keyword": "API Developer",
+  "keyword": "Web Developer",
   "link": "https://www.linkedin.com/jobs/view/4427832700",
   "first_seen": "2026-06-18T14:27:28.227481+00:00"
  },
@@ -3064,7 +3064,7 @@
   "title": "Senior Data Engineer",
   "company": "geidea",
   "location": "Cairo, Egypt",
-  "keyword": "API Developer",
+  "keyword": "Backend Developer",
   "link": "https://www.linkedin.com/jobs/view/4431303878",
   "first_seen": "2026-06-20T12:13:41.509073+00:00"
  },
@@ -3100,7 +3100,7 @@
   "title": "System Design engineer - AI & Tooling, LIGHT",
   "company": "Valeo",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "API Developer",
+  "keyword": "Web Developer",
   "link": "https://www.linkedin.com/jobs/view/4380382243",
   "first_seen": "2026-06-20T14:37:44.581599+00:00"
  },
@@ -3244,7 +3244,7 @@
   "title": "DevOps Engineer - Senior Consultant - Cairo",
   "company": "EY",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "Backend Engineer",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4411386688",
   "first_seen": "2026-06-20T23:07:57.436062+00:00"
  },
@@ -3253,7 +3253,7 @@
   "title": "Data Engineer / Data Architect (AI Hub) - Cairo",
   "company": "EY",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "Backend Engineer",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4411338046",
   "first_seen": "2026-06-20T23:07:57.436062+00:00"
  },
@@ -3274,5 +3274,23 @@
   "keyword": "PHP Laravel",
   "link": "https://www.linkedin.com/jobs/view/4265256091",
   "first_seen": "2026-06-21T01:44:31.293349+00:00"
+ },
+ "4431360641": {
+  "id": "4431360641",
+  "title": "Django web Backend Intern",
+  "company": "Drop Me",
+  "location": "Cairo, Egypt",
+  "keyword": "API Developer",
+  "link": "https://www.linkedin.com/jobs/view/4431360641",
+  "first_seen": "2026-06-21T06:42:15.304064+00:00"
+ },
+ "4431372391": {
+  "id": "4431372391",
+  "title": "Oracle Application Technical Consultant",
+  "company": "Get Hired",
+  "location": "Qesm 3rd New Cairo, Cairo, Egypt",
+  "keyword": "API Developer",
+  "link": "https://www.linkedin.com/jobs/view/4431372391",
+  "first_seen": "2026-06-21T06:42:15.304064+00:00"
  }
 }
