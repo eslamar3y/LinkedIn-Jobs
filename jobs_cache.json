@@ -3316,7 +3316,7 @@
   "title": "Full Stack Engineer",
   "company": "Systems Limited - Egypt",
   "location": "Cairo, Egypt",
-  "keyword": "Full Stack Developer",
+  "keyword": "Web Developer",
   "link": "https://www.linkedin.com/jobs/view/4431382497",
   "first_seen": "2026-06-21T10:24:37.708164+00:00"
  },
@@ -3325,7 +3325,7 @@
   "title": "Back End Developer",
   "company": "Magnet",
   "location": "Cairo, Egypt",
-  "keyword": "Full Stack Developer",
+  "keyword": "Backend Engineer",
   "link": "https://www.linkedin.com/jobs/view/4431380639",
   "first_seen": "2026-06-21T10:24:37.708164+00:00"
  },
@@ -3334,7 +3334,7 @@
   "title": "CRM Developer",
   "company": "Singleclic Ltd",
   "location": "Cairo, Egypt",
-  "keyword": "Full Stack Developer",
+  "keyword": "PHP Laravel",
   "link": "https://www.linkedin.com/jobs/view/4431368458",
   "first_seen": "2026-06-21T10:24:37.708164+00:00"
  },
@@ -3406,7 +3406,7 @@
   "title": "Senior Software Engineer",
   "company": "Finaira",
   "location": "Cairo, Egypt",
-  "keyword": "Full Stack Developer",
+  "keyword": "PHP Laravel",
   "link": "https://www.linkedin.com/jobs/view/4428589191",
   "first_seen": "2026-06-21T12:22:56.126329+00:00"
  },
@@ -3433,7 +3433,7 @@
   "title": "Back End Developer",
   "company": "Keys Recruiters",
   "location": "Egypt",
-  "keyword": "Full Stack Developer",
+  "keyword": "Backend Engineer",
   "link": "https://www.linkedin.com/jobs/view/4430336310",
   "first_seen": "2026-06-21T14:38:03.228009+00:00"
  },
@@ -3442,7 +3442,7 @@
   "title": "Back End Developer",
   "company": "DP-Data Pulse",
   "location": "Al Manşūrah, Ad Daqahliyah, Egypt",
-  "keyword": "Full Stack Developer",
+  "keyword": "Backend Engineer",
   "link": "https://www.linkedin.com/jobs/view/4431391320",
   "first_seen": "2026-06-21T14:38:03.228009+00:00"
  },
@@ -3469,7 +3469,7 @@
   "title": "Java Technical Lead (Angular)",
   "company": "Fawry",
   "location": "Smart Village, Egypt",
-  "keyword": "Full Stack Developer",
+  "keyword": "PHP Laravel",
   "link": "https://www.linkedin.com/jobs/view/4431396218",
   "first_seen": "2026-06-21T14:38:03.228009+00:00"
  },
@@ -3634,5 +3634,23 @@
   "keyword": "Backend Engineer",
   "link": "https://www.linkedin.com/jobs/view/4431602543",
   "first_seen": "2026-06-21T18:00:37.238254+00:00"
+ },
+ "4431398683": {
+  "id": "4431398683",
+  "title": "Java Backend Developer",
+  "company": "geidea",
+  "location": "Cairo, Egypt",
+  "keyword": "Backend Engineer",
+  "link": "https://www.linkedin.com/jobs/view/4431398683",
+  "first_seen": "2026-06-21T20:09:29.293062+00:00"
+ },
+ "4431399794": {
+  "id": "4431399794",
+  "title": "Frontend Developer",
+  "company": "Valify Solutions",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "Web Developer",
+  "link": "https://www.linkedin.com/jobs/view/4431399794",
+  "first_seen": "2026-06-21T20:09:29.293062+00:00"
  }
 }
