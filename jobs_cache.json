@@ -2380,7 +2380,7 @@
   "title": "Android Chapter Lead",
   "company": "Vodafone",
   "location": "Giza, Al Jizah, Egypt",
-  "keyword": "Web Developer",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4427832700",
   "first_seen": "2026-06-18T14:27:28.227481+00:00"
  },
@@ -3064,7 +3064,7 @@
   "title": "Senior Data Engineer",
   "company": "geidea",
   "location": "Cairo, Egypt",
-  "keyword": "Backend Engineer",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4431303878",
   "first_seen": "2026-06-20T12:13:41.509073+00:00"
  },
@@ -3073,7 +3073,7 @@
   "title": "Senior Engineer (R&D Engineering)",
   "company": "Synopsys Inc",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "Backend Engineer",
+  "keyword": "Backend Developer",
   "link": "https://www.linkedin.com/jobs/view/4391599233",
   "first_seen": "2026-06-20T12:13:41.509073+00:00"
  },
@@ -3082,7 +3082,7 @@
   "title": "Senior Software Developer",
   "company": "VOIS",
   "location": "Giza, Al Jizah, Egypt",
-  "keyword": "Web Developer",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4428546409",
   "first_seen": "2026-06-20T14:37:44.581599+00:00"
  },
@@ -3100,7 +3100,7 @@
   "title": "System Design engineer - AI & Tooling, LIGHT",
   "company": "Valeo",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "Web Developer",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4380382243",
   "first_seen": "2026-06-20T14:37:44.581599+00:00"
  },
@@ -3208,7 +3208,7 @@
   "title": "Head of Software Engineering (On-sight)",
   "company": "Innovitics inc.",
   "location": "Cairo, Egypt",
-  "keyword": "Web Developer",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4431355383",
   "first_seen": "2026-06-20T21:58:45.239875+00:00"
  },
@@ -3226,7 +3226,7 @@
   "title": "Deloitte Innovation Hub I AI/ML Engineering, Senior Tech Lead, Cairo, Egypt",
   "company": "Deloitte",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "Backend Engineer",
+  "keyword": "Backend Developer",
   "link": "https://www.linkedin.com/jobs/view/4132285194",
   "first_seen": "2026-06-20T23:07:57.436062+00:00"
  },
@@ -3256,5 +3256,23 @@
   "keyword": "Backend Engineer",
   "link": "https://www.linkedin.com/jobs/view/4411338046",
   "first_seen": "2026-06-20T23:07:57.436062+00:00"
+ },
+ "4428547897": {
+  "id": "4428547897",
+  "title": "Java Software Engineer",
+  "company": "Technoverse",
+  "location": "Egypt",
+  "keyword": "API Developer",
+  "link": "https://www.linkedin.com/jobs/view/4428547897",
+  "first_seen": "2026-06-21T01:44:31.293349+00:00"
+ },
+ "4265256091": {
+  "id": "4265256091",
+  "title": "All Levels | ETP | SAP FICO/ MM/ SD| Egypt",
+  "company": "Deloitte",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "PHP Laravel",
+  "link": "https://www.linkedin.com/jobs/view/4265256091",
+  "first_seen": "2026-06-21T01:44:31.293349+00:00"
  }
 }
