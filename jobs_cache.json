@@ -3316,7 +3316,7 @@
   "title": "Full Stack Engineer",
   "company": "Systems Limited - Egypt",
   "location": "Cairo, Egypt",
-  "keyword": "Full Stack Developer",
+  "keyword": "Web Developer",
   "link": "https://www.linkedin.com/jobs/view/4431382497",
   "first_seen": "2026-06-21T10:24:37.708164+00:00"
  },
@@ -3325,7 +3325,7 @@
   "title": "Back End Developer",
   "company": "Magnet",
   "location": "Cairo, Egypt",
-  "keyword": "Full Stack Developer",
+  "keyword": "Backend Engineer",
   "link": "https://www.linkedin.com/jobs/view/4431380639",
   "first_seen": "2026-06-21T10:24:37.708164+00:00"
  },
@@ -3433,7 +3433,7 @@
   "title": "Back End Developer",
   "company": "Keys Recruiters",
   "location": "Egypt",
-  "keyword": "Full Stack Developer",
+  "keyword": "Backend Engineer",
   "link": "https://www.linkedin.com/jobs/view/4430336310",
   "first_seen": "2026-06-21T14:38:03.228009+00:00"
  },
@@ -3442,7 +3442,7 @@
   "title": "Back End Developer",
   "company": "DP-Data Pulse",
   "location": "Al Manşūrah, Ad Daqahliyah, Egypt",
-  "keyword": "Full Stack Developer",
+  "keyword": "Backend Engineer",
   "link": "https://www.linkedin.com/jobs/view/4431391320",
   "first_seen": "2026-06-21T14:38:03.228009+00:00"
  },
@@ -3649,7 +3649,7 @@
   "title": "Frontend Developer",
   "company": "Valify Solutions",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "Full Stack Developer",
+  "keyword": "Web Developer",
   "link": "https://www.linkedin.com/jobs/view/4431399794",
   "first_seen": "2026-06-21T20:09:29.293062+00:00"
  },
@@ -3661,5 +3661,23 @@
   "keyword": "PHP Developer",
   "link": "https://www.linkedin.com/jobs/view/4431619048",
   "first_seen": "2026-06-21T22:59:22.952745+00:00"
+ },
+ "4431624147": {
+  "id": "4431624147",
+  "title": "Senior Product Designer",
+  "company": "Yassir",
+  "location": "Alexandria, Alexandria, Egypt",
+  "keyword": "Web Developer",
+  "link": "https://www.linkedin.com/jobs/view/4431624147",
+  "first_seen": "2026-06-22T00:13:12.638692+00:00"
+ },
+ "4431624148": {
+  "id": "4431624148",
+  "title": "Senior Product Designer",
+  "company": "Yassir",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "Web Developer",
+  "link": "https://www.linkedin.com/jobs/view/4431624148",
+  "first_seen": "2026-06-22T00:13:12.638692+00:00"
  }
 }
