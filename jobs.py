@@ -13,7 +13,16 @@ KEYWORDS = [
     "Full Stack Developer",
     "API Developer",
 ]
-LOCATION   = "Egypt"
+LOCATIONS  = [
+    "Egypt",
+    "Saudi Arabia",
+    "United Arab Emirates",
+    "Qatar",
+    "Jordan",
+    "Kuwait",
+    "Bahrain",
+    "Oman",
+]
 MAX_PAGES  = 4        # لكل كلمة مفتاحية (كل صفحة ~25 وظيفة) — تغطية أوسع
 KEEP_DAYS  = 14       # الوظيفة تفضل في الكاش كام يوم
 CACHE_FILE = "jobs_cache.json"
@@ -22,10 +31,10 @@ BASE = "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search"
 HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"}
 
 
-def fetch_for_keyword(kw):
+def fetch_for_keyword(kw, location):
     found = {}
     for page in range(MAX_PAGES):
-        params = {"keywords": kw, "location": LOCATION,
+        params = {"keywords": kw, "location": location,
                   "f_TPR": "r86400", "start": page * 25}
         try:
             r = requests.get(BASE, headers=HEADERS, params=params, timeout=20)
@@ -92,10 +101,12 @@ def send_telegram(new_jobs):
 def main():
     now = datetime.now(timezone.utc)
     cache = load_cache()
+    first_run = len(cache) == 0   # أول تشغيلة الكاش بيكون فاضي
 
     fetched = {}
     for kw in KEYWORDS:
-        fetched.update(fetch_for_keyword(kw))
+        for loc in LOCATIONS:
+            fetched.update(fetch_for_keyword(kw, loc))
 
     new_jobs = []
     for jid, job in fetched.items():
@@ -116,8 +127,10 @@ def main():
 
     jobs = sorted(cache.values(), key=lambda j: j["first_seen"], reverse=True)
     build_html(jobs, now)
-    send_telegram(new_jobs)
-    print("cached=" + str(len(jobs)) + " new=" + str(len(new_jobs)))
+    # أول تشغيلة منبعتش تيليجرام عشان مايجيش سيل رسائل بكل الوظايف الحالية
+    if not first_run:
+        send_telegram(new_jobs)
+    print("cached=" + str(len(jobs)) + " new=" + str(len(new_jobs)) + " first_run=" + str(first_run))
 
 
 TEMPLATE = """<!doctype html>
