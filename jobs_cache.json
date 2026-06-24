@@ -6340,7 +6340,7 @@
   "title": "Sr. FullStack Engineer - (Node.js, React.js & MongoDB)",
   "company": "Global Software Solutions Group",
   "location": "Dubai, Dubai, United Arab Emirates",
-  "keyword": "Backend Engineer",
+  "keyword": "Web Developer",
   "link": "https://www.linkedin.com/jobs/view/4432081902",
   "first_seen": "2026-06-23T08:56:39.293661+00:00"
  },
@@ -6466,7 +6466,7 @@
   "title": "Frontend Developer",
   "company": "Net2Source (N2S)",
   "location": "Dubai, United Arab Emirates",
-  "keyword": "API Developer",
+  "keyword": "Web Developer",
   "link": "https://www.linkedin.com/jobs/view/4430799480",
   "first_seen": "2026-06-23T08:56:39.293661+00:00"
  },
@@ -6637,7 +6637,7 @@
   "title": "Software Engineer, Traders Experience (AI-Native)",
   "company": "NEXT Ventures",
   "location": "Dubai, Dubai, United Arab Emirates",
-  "keyword": "Web Developer",
+  "keyword": "Laravel",
   "link": "https://www.linkedin.com/jobs/view/4431222148",
   "first_seen": "2026-06-23T11:54:58.013115+00:00"
  },
@@ -6817,7 +6817,7 @@
   "title": "Semi Senior Java Developer - Remote Work",
   "company": "BairesDev",
   "location": "Egypt",
-  "keyword": "Backend Engineer",
+  "keyword": "PHP Laravel",
   "link": "https://www.linkedin.com/jobs/view/4431224878",
   "first_seen": "2026-06-23T11:54:58.013115+00:00"
  },
@@ -7051,7 +7051,7 @@
   "title": "Back End Engineer",
   "company": "Octane",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "Web Developer",
+  "keyword": "PHP Laravel",
   "link": "https://www.linkedin.com/jobs/view/4431240531",
   "first_seen": "2026-06-23T14:24:13.032307+00:00"
  },
@@ -7078,7 +7078,7 @@
   "title": "Staff Software Engineer - Backend",
   "company": "almentor",
   "location": "Cairo, Egypt",
-  "keyword": "Backend Engineer",
+  "keyword": "PHP Laravel",
   "link": "https://www.linkedin.com/jobs/view/4432233400",
   "first_seen": "2026-06-23T14:24:13.032307+00:00"
  },
@@ -7294,7 +7294,7 @@
   "title": "AI Integrations Engineer (Open Source)",
   "company": "SearchApi",
   "location": "Egypt",
-  "keyword": "Backend Engineer",
+  "keyword": "PHP Laravel",
   "link": "https://www.linkedin.com/jobs/view/4432280040",
   "first_seen": "2026-06-23T14:24:13.032307+00:00"
  },
@@ -7339,7 +7339,7 @@
   "title": "Lead AI Engineer",
   "company": "Auxo Talent",
   "location": "Dubai, United Arab Emirates",
-  "keyword": "API Developer",
+  "keyword": "Laravel",
   "link": "https://www.linkedin.com/jobs/view/4431240569",
   "first_seen": "2026-06-23T14:24:13.032307+00:00"
  },
@@ -7375,7 +7375,7 @@
   "title": "Frontend Engineer & UI Designer (Developer Tooling)",
   "company": "SearchApi",
   "location": "Egypt",
-  "keyword": "API Developer",
+  "keyword": "PHP Laravel",
   "link": "https://www.linkedin.com/jobs/view/4432289265",
   "first_seen": "2026-06-23T16:46:05.681869+00:00"
  },
@@ -7429,7 +7429,7 @@
   "title": "ABAP Developer",
   "company": "Coca-Cola HBC",
   "location": "Cairo, Egypt",
-  "keyword": "Full Stack Developer",
+  "keyword": "PHP Laravel",
   "link": "https://www.linkedin.com/jobs/view/4432280801",
   "first_seen": "2026-06-23T16:46:05.681869+00:00"
  },
@@ -7717,7 +7717,7 @@
   "title": "Agentic AI Developer",
   "company": "Sword Group",
   "location": "Cairo, Egypt",
-  "keyword": "Backend Engineer",
+  "keyword": "PHP Laravel",
   "link": "https://www.linkedin.com/jobs/view/4429448545",
   "first_seen": "2026-06-23T19:01:41.451892+00:00"
  },
@@ -7987,7 +7987,7 @@
   "title": "Senior Software Engineer, LearnWith.AI (Remote) - $100,000/year USD",
   "company": "Crossover",
   "location": "Dubai, Dubai, United Arab Emirates",
-  "keyword": "Web Developer",
+  "keyword": "Laravel",
   "link": "https://www.linkedin.com/jobs/view/4431448053",
   "first_seen": "2026-06-23T22:46:33.749217+00:00"
  },
@@ -7996,7 +7996,7 @@
   "title": "مهندس برمجيات",
   "company": "Elite Tech Information Technology Company",
   "location": "Cairo, Egypt",
-  "keyword": "Full Stack Developer",
+  "keyword": "PHP Laravel",
   "link": "https://www.linkedin.com/jobs/view/4429481559",
   "first_seen": "2026-06-23T22:46:33.749217+00:00"
  },
@@ -8005,7 +8005,7 @@
   "title": "Senior Full-Stack Engineer (Proptech)",
   "company": "OWNRSCLB - Dubai Owners Club",
   "location": "Dubai, Dubai, United Arab Emirates",
-  "keyword": "API Developer",
+  "keyword": "Web Developer",
   "link": "https://www.linkedin.com/jobs/view/4432463483",
   "first_seen": "2026-06-23T22:46:33.749217+00:00"
  },
@@ -8107,5 +8107,59 @@
   "keyword": "Backend Engineer",
   "link": "https://www.linkedin.com/jobs/view/4432468483",
   "first_seen": "2026-06-24T02:08:40.541048+00:00"
+ },
+ "4432516896": {
+  "id": "4432516896",
+  "title": "Frontend Developer (Remote)",
+  "company": "Hire Feed",
+  "location": "United Arab Emirates",
+  "keyword": "Web Developer",
+  "link": "https://www.linkedin.com/jobs/view/4432516896",
+  "first_seen": "2026-06-24T06:27:37.404091+00:00"
+ },
+ "4432515845": {
+  "id": "4432515845",
+  "title": "Frontend Web Developer (Remote)",
+  "company": "Hire Feed",
+  "location": "United Arab Emirates",
+  "keyword": "Web Developer",
+  "link": "https://www.linkedin.com/jobs/view/4432515845",
+  "first_seen": "2026-06-24T06:27:37.404091+00:00"
+ },
+ "4432517973": {
+  "id": "4432517973",
+  "title": "Full Stack Web Developer (Remote)",
+  "company": "Hire Feed",
+  "location": "United Arab Emirates",
+  "keyword": "Web Developer",
+  "link": "https://www.linkedin.com/jobs/view/4432517973",
+  "first_seen": "2026-06-24T06:27:37.404091+00:00"
+ },
+ "4432533223": {
+  "id": "4432533223",
+  "title": "Full Stack Web Developer (Remote)",
+  "company": "Hire Feed",
+  "location": "United Arab Emirates",
+  "keyword": "Web Developer",
+  "link": "https://www.linkedin.com/jobs/view/4432533223",
+  "first_seen": "2026-06-24T06:27:37.404091+00:00"
+ },
+ "4432510918": {
+  "id": "4432510918",
+  "title": "Full-Stack Software Engineer (Remote)",
+  "company": "Hire Feed",
+  "location": "United Arab Emirates",
+  "keyword": "Web Developer",
+  "link": "https://www.linkedin.com/jobs/view/4432510918",
+  "first_seen": "2026-06-24T06:27:37.404091+00:00"
+ },
+ "4432516673": {
+  "id": "4432516673",
+  "title": "Full Stack Javascript Developer (Remote)",
+  "company": "Hire Feed",
+  "location": "United Arab Emirates",
+  "keyword": "Web Developer",
+  "link": "https://www.linkedin.com/jobs/view/4432516673",
+  "first_seen": "2026-06-24T06:27:37.404091+00:00"
  }
 }
