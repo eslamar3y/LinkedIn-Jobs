@@ -1,139 +1,4 @@
 {
- "4429951404": {
-  "id": "4429951404",
-  "title": "PHP Technical Interviewer",
-  "company": "Intetics",
-  "location": "Egypt",
-  "keyword": "PHP Developer",
-  "link": "https://www.linkedin.com/jobs/view/4429951404",
-  "first_seen": "2026-06-17T14:06:36.560528+00:00"
- },
- "4429961305": {
-  "id": "4429961305",
-  "title": "Full Stack Developer",
-  "company": "NubaLink",
-  "location": "New Cairo, Cairo, Egypt",
-  "keyword": "Full Stack Developer",
-  "link": "https://www.linkedin.com/jobs/view/4429961305",
-  "first_seen": "2026-06-17T14:06:36.560528+00:00"
- },
- "4429795808": {
-  "id": "4429795808",
-  "title": "Full-Stack Developer (OutSystems + High-Code)",
-  "company": "Simon-Kucher",
-  "location": "Cairo, Egypt",
-  "keyword": "Full Stack Developer",
-  "link": "https://www.linkedin.com/jobs/view/4429795808",
-  "first_seen": "2026-06-17T14:06:36.560528+00:00"
- },
- "4427344690": {
-  "id": "4427344690",
-  "title": "Provisioning Specialist",
-  "company": "Vodafone",
-  "location": "Giza, Al Jizah, Egypt",
-  "keyword": "Backend Engineer",
-  "link": "https://www.linkedin.com/jobs/view/4427344690",
-  "first_seen": "2026-06-17T14:06:36.560528+00:00"
- },
- "4427366501": {
-  "id": "4427366501",
-  "title": "Backend Chapter Lead",
-  "company": "Vodafone",
-  "location": "Giza, Al Jizah, Egypt",
-  "keyword": "Backend Engineer",
-  "link": "https://www.linkedin.com/jobs/view/4427366501",
-  "first_seen": "2026-06-17T14:06:36.560528+00:00"
- },
- "4427360399": {
-  "id": "4427360399",
-  "title": "Java Technical Lead",
-  "company": "Fawry",
-  "location": "6th of October, Al Jizah, Egypt",
-  "keyword": "Back end Developer",
-  "link": "https://www.linkedin.com/jobs/view/4427360399",
-  "first_seen": "2026-06-17T14:06:36.560528+00:00"
- },
- "4427352044": {
-  "id": "4427352044",
-  "title": "Data Engineer",
-  "company": "Tamer Group",
-  "location": "Cairo, Egypt",
-  "keyword": "Back end Developer",
-  "link": "https://www.linkedin.com/jobs/view/4427352044",
-  "first_seen": "2026-06-17T14:06:36.560528+00:00"
- },
- "4429559265": {
-  "id": "4429559265",
-  "title": "Staff DevOps Engineer",
-  "company": "Lean Technologies",
-  "location": "Cairo, Egypt",
-  "keyword": "Back end Developer",
-  "link": "https://www.linkedin.com/jobs/view/4429559265",
-  "first_seen": "2026-06-17T14:06:36.560528+00:00"
- },
- "4427346630": {
-  "id": "4427346630",
-  "title": "Senior Data Engineer (VOIS)",
-  "company": "VOIS",
-  "location": "Giza, Al Jizah, Egypt",
-  "keyword": "Backend Developer",
-  "link": "https://www.linkedin.com/jobs/view/4427346630",
-  "first_seen": "2026-06-17T14:06:36.560528+00:00"
- },
- "4427358291": {
-  "id": "4427358291",
-  "title": "Odoo Team Lead",
-  "company": "Aumet inc",
-  "location": "Cairo, Cairo, Egypt",
-  "keyword": "Back end Developer",
-  "link": "https://www.linkedin.com/jobs/view/4427358291",
-  "first_seen": "2026-06-17T14:06:36.560528+00:00"
- },
- "4429568026": {
-  "id": "4429568026",
-  "title": "Senior Embedded Engineer",
-  "company": "Arrow Electronics",
-  "location": "Cairo, Cairo, Egypt",
-  "keyword": "Back end Developer",
-  "link": "https://www.linkedin.com/jobs/view/4429568026",
-  "first_seen": "2026-06-17T14:06:36.560528+00:00"
- },
- "4427365338": {
-  "id": "4427365338",
-  "title": "Senior Software Development Engineer in Test",
-  "company": "Pixelogic Media",
-  "location": "Cairo, Cairo, Egypt",
-  "keyword": "Backend Developer",
-  "link": "https://www.linkedin.com/jobs/view/4427365338",
-  "first_seen": "2026-06-17T14:06:36.560528+00:00"
- },
- "4429900241": {
-  "id": "4429900241",
-  "title": "Senior Hybrid Cloud Automation Engineer",
-  "company": "Coca-Cola HBC",
-  "location": "Cairo, Egypt",
-  "keyword": "Backend Engineer",
-  "link": "https://www.linkedin.com/jobs/view/4429900241",
-  "first_seen": "2026-06-17T14:06:36.560528+00:00"
- },
- "4429530907": {
-  "id": "4429530907",
-  "title": "Software Quality Engineer (Automation)",
-  "company": "Bosta",
-  "location": "Cairo, Cairo, Egypt",
-  "keyword": "Back end Developer",
-  "link": "https://www.linkedin.com/jobs/view/4429530907",
-  "first_seen": "2026-06-17T14:06:36.560528+00:00"
- },
- "4429936124": {
-  "id": "4429936124",
-  "title": "Zoho Developer",
-  "company": "فانوس للإنارة",
-  "location": "New Cairo, Cairo, Egypt",
-  "keyword": "Full Stack Developer",
-  "link": "https://www.linkedin.com/jobs/view/4429936124",
-  "first_seen": "2026-06-17T14:06:36.560528+00:00"
- },
  "4427365563": {
   "id": "4427365563",
   "title": "Charging Tech Specialist",
@@ -9094,7 +8959,7 @@
   "title": "Python Engineer",
   "company": "Virtusa",
   "location": "Dubai, Dubai, United Arab Emirates",
-  "keyword": "Full Stack Developer",
+  "keyword": "Web Developer",
   "link": "https://www.linkedin.com/jobs/view/4430214962",
   "first_seen": "2026-06-25T20:27:36.675476+00:00"
  },
@@ -17185,7 +17050,7 @@
   "title": "Senior Flutter Developer",
   "company": "Tanemera",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "Backend Engineer",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4431953656",
   "first_seen": "2026-06-30T17:20:45.049798+00:00"
  },
@@ -17410,7 +17275,7 @@
   "title": "Staff Software Engineer (Medical Imaging)",
   "company": "Akura Medical",
   "location": "Doha, Doha, Qatar",
-  "keyword": "Web Developer",
+  "keyword": "Full Stack Developer",
   "link": "https://www.linkedin.com/jobs/view/4418470157",
   "first_seen": "2026-06-30T19:13:59.389887+00:00"
  },
@@ -17419,7 +17284,7 @@
   "title": "Principal Software Engineer (Medical Imaging)",
   "company": "Akura Medical",
   "location": "Doha, Doha, Qatar",
-  "keyword": "Web Developer",
+  "keyword": "Full Stack Developer",
   "link": "https://www.linkedin.com/jobs/view/4418454921",
   "first_seen": "2026-06-30T19:13:59.389887+00:00"
  },
@@ -17491,7 +17356,7 @@
   "title": "IT Backend Developer",
   "company": "Telecom Egypt",
   "location": "Cairo, Egypt",
-  "keyword": "API Developer",
+  "keyword": "Backend Developer",
   "link": "https://www.linkedin.com/jobs/view/4431959937",
   "first_seen": "2026-06-30T21:11:27.733937+00:00"
  },
@@ -17536,7 +17401,7 @@
   "title": "AI Engineer, Sr",
   "company": "Globant",
   "location": "United Arab Emirates",
-  "keyword": "Back end Developer",
+  "keyword": "PHP Developer",
   "link": "https://www.linkedin.com/jobs/view/4434365117",
   "first_seen": "2026-06-30T21:11:27.733937+00:00"
  },
@@ -17635,7 +17500,7 @@
   "title": "AI-Native Engineer",
   "company": "Jobs In Cyprus - Job Portal in Cyprus",
   "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
-  "keyword": "Full Stack Developer",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4434360222",
   "first_seen": "2026-06-30T21:11:27.733937+00:00"
  },
@@ -17707,7 +17572,7 @@
   "title": "Semi Senior Python Developer - Remote Work | REF#296567",
   "company": "BairesDev",
   "location": "Egypt",
-  "keyword": "API Developer",
+  "keyword": "Backend Developer",
   "link": "https://www.linkedin.com/jobs/view/4435325975",
   "first_seen": "2026-06-30T22:47:19.968979+00:00"
  },
@@ -17716,7 +17581,7 @@
   "title": "Semi Senior Python Developer - Remote Work | REF#296563",
   "company": "BairesDev",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "API Developer",
+  "keyword": "Backend Developer",
   "link": "https://www.linkedin.com/jobs/view/4435328994",
   "first_seen": "2026-06-30T22:47:19.968979+00:00"
  },
@@ -17725,7 +17590,7 @@
   "title": "Javascript Developer - Remote Work | REF#296484",
   "company": "BairesDev",
   "location": "Egypt",
-  "keyword": "Laravel",
+  "keyword": "Full Stack Developer",
   "link": "https://www.linkedin.com/jobs/view/4435335771",
   "first_seen": "2026-06-30T22:47:19.968979+00:00"
  },
@@ -17734,7 +17599,7 @@
   "title": "Javascript Developer - Remote Work | REF#296482",
   "company": "BairesDev",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "Backend Developer",
+  "keyword": "Full Stack Developer",
   "link": "https://www.linkedin.com/jobs/view/4435331893",
   "first_seen": "2026-06-30T22:47:19.968979+00:00"
  },
@@ -17842,7 +17707,7 @@
   "title": "Senior Java Developer - Remote Work | REF#296524",
   "company": "BairesDev",
   "location": "Egypt",
-  "keyword": "Backend Developer",
+  "keyword": "Backend Engineer",
   "link": "https://www.linkedin.com/jobs/view/4435337442",
   "first_seen": "2026-06-30T22:47:19.968979+00:00"
  },
@@ -17914,7 +17779,7 @@
   "title": "Semi Senior React Developer - Remote Work | REF#296505",
   "company": "BairesDev",
   "location": "Egypt",
-  "keyword": "PHP Developer",
+  "keyword": "Backend Engineer",
   "link": "https://www.linkedin.com/jobs/view/4435331900",
   "first_seen": "2026-06-30T23:57:10.733672+00:00"
  },
@@ -17932,7 +17797,7 @@
   "title": "Semi Senior React Developer - Remote Work | REF#296501",
   "company": "BairesDev",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "PHP Developer",
+  "keyword": "Full Stack Developer",
   "link": "https://www.linkedin.com/jobs/view/4435341357",
   "first_seen": "2026-06-30T23:57:10.733672+00:00"
  },
@@ -17941,7 +17806,7 @@
   "title": "Full-Stack Developer",
   "company": "SeekCars",
   "location": "Egypt",
-  "keyword": "API Developer",
+  "keyword": "Web Developer",
   "link": "https://www.linkedin.com/jobs/view/4435328709",
   "first_seen": "2026-06-30T23:57:10.733672+00:00"
  },
@@ -17950,7 +17815,7 @@
   "title": "PwC - Full stack developer (AI and Data) - Senior Associate - Egypt",
   "company": "PwC Middle East",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "Web Developer",
+  "keyword": "Full Stack Developer",
   "link": "https://www.linkedin.com/jobs/view/4435344309",
   "first_seen": "2026-06-30T23:57:10.733672+00:00"
  },
@@ -18031,7 +17896,7 @@
   "title": "Java Technical Support Engineer - Remote Work | REF#296673",
   "company": "BairesDev",
   "location": "Egypt",
-  "keyword": "Backend Engineer",
+  "keyword": "Backend Developer",
   "link": "https://www.linkedin.com/jobs/view/4435334799",
   "first_seen": "2026-07-01T02:55:07.476019+00:00"
  },
@@ -18040,7 +17905,7 @@
   "title": "Senior Java Technical Support Engineer - Remote Work | REF#296668",
   "company": "BairesDev",
   "location": "Egypt",
-  "keyword": "Back end Developer",
+  "keyword": "Backend Developer",
   "link": "https://www.linkedin.com/jobs/view/4435347098",
   "first_seen": "2026-07-01T02:55:07.476019+00:00"
  },
@@ -18049,7 +17914,7 @@
   "title": "Software Engineer (AI Training)",
   "company": "Alignerr",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "Back end Developer",
+  "keyword": "Backend Engineer",
   "link": "https://www.linkedin.com/jobs/view/4435368249",
   "first_seen": "2026-07-01T02:55:07.476019+00:00"
  },
@@ -18085,7 +17950,7 @@
   "title": "Software Engineer (AI Training)",
   "company": "Alignerr",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "Backend Engineer",
+  "keyword": "Backend Developer",
   "link": "https://www.linkedin.com/jobs/view/4435369246",
   "first_seen": "2026-07-01T02:55:07.476019+00:00"
  },
@@ -18094,7 +17959,7 @@
   "title": "Software Engineer (AI Training)",
   "company": "Alignerr",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "Back end Developer",
+  "keyword": "Backend Developer",
   "link": "https://www.linkedin.com/jobs/view/4435378052",
   "first_seen": "2026-07-01T02:55:07.476019+00:00"
  },
@@ -18112,7 +17977,7 @@
   "title": "Software Engineer (AI Training)",
   "company": "Alignerr",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "Backend Engineer",
+  "keyword": "Backend Developer",
   "link": "https://www.linkedin.com/jobs/view/4435375129",
   "first_seen": "2026-07-01T02:55:07.476019+00:00"
  },
@@ -18121,7 +17986,7 @@
   "title": "Senior Full-Stack Engineer, LearnWith.AI (Remote) - $100,000/year USD",
   "company": "Crossover",
   "location": "United Arab Emirates",
-  "keyword": "Web Developer",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4434398593",
   "first_seen": "2026-07-01T02:55:07.476019+00:00"
  },
@@ -18157,7 +18022,7 @@
   "title": "Senior Frontend Engineer (Space42)",
   "company": "Space42",
   "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
-  "keyword": "API Developer",
+  "keyword": "PHP Developer",
   "link": "https://www.linkedin.com/jobs/view/4435334488",
   "first_seen": "2026-07-01T02:55:07.476019+00:00"
  },
@@ -18211,7 +18076,7 @@
   "title": "Back End Developer",
   "company": "Fekra Technologies",
   "location": "Egypt",
-  "keyword": "API Developer",
+  "keyword": "Backend Engineer",
   "link": "https://www.linkedin.com/jobs/view/4435513530",
   "first_seen": "2026-07-01T07:03:19.259232+00:00"
  },
@@ -18229,7 +18094,7 @@
   "title": "MES Support Developer (Python / Flask / JavaScript)",
   "company": "Al Fanar Auto Spare Parts Trading",
   "location": "Sharjah, Sharjah Emirate, United Arab Emirates",
-  "keyword": "Full Stack Developer",
+  "keyword": "Web Developer",
   "link": "https://www.linkedin.com/jobs/view/4432324086",
   "first_seen": "2026-07-01T07:03:19.259232+00:00"
  },
@@ -18274,7 +18139,7 @@
   "title": "Senior Backend Engineer (Python)",
   "company": "Hire Feed",
   "location": "Egypt",
-  "keyword": "Full Stack Developer",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4435515117",
   "first_seen": "2026-07-01T07:03:19.259232+00:00"
  },
@@ -18292,7 +18157,7 @@
   "title": "Front-End  Engineer /  Full stack",
   "company": "Klanik",
   "location": "Abu Dhabi Emirate, United Arab Emirates",
-  "keyword": "Full Stack Developer",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4432327416",
   "first_seen": "2026-07-01T07:03:19.259232+00:00"
  },
@@ -18337,7 +18202,7 @@
   "title": "Golang Developer (Remote)",
   "company": "Hire Feed",
   "location": "Saudi Arabia",
-  "keyword": "API Developer",
+  "keyword": "Back end Developer",
   "link": "https://www.linkedin.com/jobs/view/4435514540",
   "first_seen": "2026-07-01T07:03:19.259232+00:00"
  },
@@ -18373,7 +18238,7 @@
   "title": "Application Support Manager",
   "company": "Arab Financial Services",
   "location": "Manama, Capital Governorate, Bahrain",
-  "keyword": "Backend Engineer",
+  "keyword": "Web Developer",
   "link": "https://www.linkedin.com/jobs/view/4432348243",
   "first_seen": "2026-07-01T10:51:59.334844+00:00"
  },
@@ -18382,7 +18247,7 @@
   "title": "Senior Full-Stack Engineer",
   "company": "Inklusiv",
   "location": "Cairo, Egypt",
-  "keyword": "Full Stack Developer",
+  "keyword": "PHP Developer",
   "link": "https://www.linkedin.com/jobs/view/4435124481",
   "first_seen": "2026-07-01T10:51:59.334844+00:00"
  },
@@ -18391,7 +18256,7 @@
   "title": "Backend Engineer - Wallets (100% Remote)",
   "company": "Tether.io",
   "location": "United Arab Emirates",
-  "keyword": "Backend Engineer",
+  "keyword": "Full Stack Developer",
   "link": "https://www.linkedin.com/jobs/view/4410065723",
   "first_seen": "2026-07-01T10:51:59.334844+00:00"
  },
@@ -18436,7 +18301,7 @@
   "title": "Frontend Developer - Javascript (Remote)",
   "company": "Hire Feed",
   "location": "Egypt",
-  "keyword": "Web Developer",
+  "keyword": "Full Stack Developer",
   "link": "https://www.linkedin.com/jobs/view/4435526311",
   "first_seen": "2026-07-01T10:51:59.334844+00:00"
  },
@@ -18445,7 +18310,7 @@
   "title": "Senior Fullstack Software Engineer",
   "company": "Snowheap",
   "location": "Egypt",
-  "keyword": "Web Developer",
+  "keyword": "Full Stack Developer",
   "link": "https://www.linkedin.com/jobs/view/4432330966",
   "first_seen": "2026-07-01T10:51:59.334844+00:00"
  },
@@ -18454,7 +18319,7 @@
   "title": "Member of Technical Staff - Research Engineering (Remote)",
   "company": "Quik Hire Staffing",
   "location": "Egypt",
-  "keyword": "Back end Developer",
+  "keyword": "Full Stack Developer",
   "link": "https://www.linkedin.com/jobs/view/4435397916",
   "first_seen": "2026-07-01T10:51:59.334844+00:00"
  },
@@ -18463,7 +18328,7 @@
   "title": "Senior Backend Engineer (Remote)",
   "company": "Hire Feed",
   "location": "Egypt",
-  "keyword": "Full Stack Developer",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4435553589",
   "first_seen": "2026-07-01T10:51:59.334844+00:00"
  },
@@ -18472,7 +18337,7 @@
   "title": "Senior AI Engineer",
   "company": "Pharco Corporation",
   "location": "Qesm 1st New Cairo, Cairo, Egypt",
-  "keyword": "Backend Developer",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4435517969",
   "first_seen": "2026-07-01T10:51:59.334844+00:00"
  },
@@ -18490,7 +18355,7 @@
   "title": "Jira Developer",
   "company": "Dautom",
   "location": "Cairo, Egypt",
-  "keyword": "Backend Developer",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4435529991",
   "first_seen": "2026-07-01T10:51:59.334844+00:00"
  },
@@ -18499,7 +18364,7 @@
   "title": "Software Engineer - Python, JavaScript/TypeScript, Go (Remote)",
   "company": "Hire Feed",
   "location": "Egypt",
-  "keyword": "Backend Developer",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4435513186",
   "first_seen": "2026-07-01T10:51:59.334844+00:00"
  },
@@ -18517,7 +18382,7 @@
   "title": "Backend Developer - JSON (Remote)",
   "company": "Hire Feed",
   "location": "Egypt",
-  "keyword": "PHP Developer",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4435546496",
   "first_seen": "2026-07-01T10:51:59.334844+00:00"
  },
@@ -18562,7 +18427,7 @@
   "title": "Mobile, Developer",
   "company": "Adree",
   "location": "Riyadh, Riyadh, Saudi Arabia",
-  "keyword": "Full Stack Developer",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4432358465",
   "first_seen": "2026-07-01T10:51:59.334844+00:00"
  },
@@ -18589,7 +18454,7 @@
   "title": "UI Engineer",
   "company": "Deeplight AI",
   "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
-  "keyword": "Full Stack Developer",
+  "keyword": "Web Developer",
   "link": "https://www.linkedin.com/jobs/view/4432362137",
   "first_seen": "2026-07-01T10:51:59.334844+00:00"
  },
@@ -18634,7 +18499,7 @@
   "title": "Integration Specialist",
   "company": "Vistas Global",
   "location": "Doha, Qatar",
-  "keyword": "Web Developer",
+  "keyword": "Backend Engineer",
   "link": "https://www.linkedin.com/jobs/view/4432348726",
   "first_seen": "2026-07-01T10:51:59.334844+00:00"
  },
@@ -18643,7 +18508,7 @@
   "title": "Full Stack Developer",
   "company": "Easygenerator",
   "location": "Alexandria, Alexandria, Egypt",
-  "keyword": "API Developer",
+  "keyword": "Full Stack Developer",
   "link": "https://www.linkedin.com/jobs/view/4416651413",
   "first_seen": "2026-07-01T13:30:34.719831+00:00"
  },
@@ -18661,7 +18526,7 @@
   "title": "Senior Backend Developer",
   "company": "Hypercell",
   "location": "Cairo, Egypt",
-  "keyword": "Backend Developer",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4435578122",
   "first_seen": "2026-07-01T13:30:34.719831+00:00"
  },
@@ -18670,7 +18535,7 @@
   "title": "Embedded System Developer 4  (ESP32, BLE & IoT)",
   "company": "LVJ Soft",
   "location": "Egypt",
-  "keyword": "Backend Engineer",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4435567396",
   "first_seen": "2026-07-01T13:30:34.719831+00:00"
  },
@@ -18706,7 +18571,7 @@
   "title": "Machine Learning (AI) Engineer (Hybrid)",
   "company": "Hire Feed",
   "location": "United Arab Emirates",
-  "keyword": "Laravel",
+  "keyword": "Backend Engineer",
   "link": "https://www.linkedin.com/jobs/view/4435540707",
   "first_seen": "2026-07-01T13:30:34.719831+00:00"
  },
@@ -18715,7 +18580,7 @@
   "title": "Build a Searchable Fabric Finder",
   "company": "Love Original Designs",
   "location": "Dubai, Dubai, United Arab Emirates",
-  "keyword": "PHP Laravel",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4435390717",
   "first_seen": "2026-07-01T13:30:34.719831+00:00"
  },
@@ -18733,7 +18598,7 @@
   "title": "Back End Developer (AI Infrastructure)",
   "company": "Alignerr",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "Full Stack Developer",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4435370294",
   "first_seen": "2026-07-01T13:30:34.719831+00:00"
  },
@@ -18751,7 +18616,7 @@
   "title": "Senior Backend Software Engineer with AI",
   "company": "Envision Employment Solutions",
   "location": "New Cairo, Cairo, Egypt",
-  "keyword": "API Developer",
+  "keyword": "Full Stack Developer",
   "link": "https://www.linkedin.com/jobs/view/4435542138",
   "first_seen": "2026-07-01T13:30:34.719831+00:00"
  },
@@ -18769,7 +18634,7 @@
   "title": "Software Engineer - Backend (Remote)",
   "company": "Hire Feed",
   "location": "United Arab Emirates",
-  "keyword": "PHP Developer",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4435514150",
   "first_seen": "2026-07-01T13:30:34.719831+00:00"
  },
@@ -18778,7 +18643,7 @@
   "title": "Senior Software Engineer",
   "company": "Smartera 3S Solutions and Systems",
   "location": "Alexandria, Alexandria, Egypt",
-  "keyword": "Backend Engineer",
+  "keyword": "Backend Developer",
   "link": "https://www.linkedin.com/jobs/view/4435531758",
   "first_seen": "2026-07-01T13:30:34.719831+00:00"
  },
@@ -18787,7 +18652,7 @@
   "title": "Integration Support Engineer",
   "company": "Vodafone",
   "location": "Giza, Al Jizah, Egypt",
-  "keyword": "Backend Developer",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4432386861",
   "first_seen": "2026-07-01T13:30:34.719831+00:00"
  },
@@ -18823,7 +18688,7 @@
   "title": "Software Engineer - Go (Golang) (m/f/d)",
   "company": "Halian | Managed Services, Recruitment Agency & Contract Staffing",
   "location": "Dubai, Dubai, United Arab Emirates",
-  "keyword": "Full Stack Developer",
+  "keyword": "Backend Developer",
   "link": "https://www.linkedin.com/jobs/view/4432392101",
   "first_seen": "2026-07-01T13:30:34.719831+00:00"
  },
@@ -18832,7 +18697,7 @@
   "title": "Senior Full-Stack Software Engineer (Remote)",
   "company": "Hire Feed",
   "location": "Egypt",
-  "keyword": "Full Stack Developer",
+  "keyword": "Back end Developer",
   "link": "https://www.linkedin.com/jobs/view/4435505849",
   "first_seen": "2026-07-01T13:30:34.719831+00:00"
  },
@@ -18841,7 +18706,7 @@
   "title": "React Native Developer (Remote)",
   "company": "Hire Feed",
   "location": "Egypt",
-  "keyword": "Full Stack Developer",
+  "keyword": "Backend Engineer",
   "link": "https://www.linkedin.com/jobs/view/4435542267",
   "first_seen": "2026-07-01T13:30:34.719831+00:00"
  },
@@ -18850,7 +18715,7 @@
   "title": "Senior Full-Stack Engineer - Frontend Focussed (Remote)",
   "company": "Hire Feed",
   "location": "Egypt",
-  "keyword": "Full Stack Developer",
+  "keyword": "Backend Engineer",
   "link": "https://www.linkedin.com/jobs/view/4435517547",
   "first_seen": "2026-07-01T13:30:34.719831+00:00"
  },
@@ -18868,7 +18733,7 @@
   "title": "Solutions Developer",
   "company": "MedNet Egypt L.L.C",
   "location": "Cairo, Egypt",
-  "keyword": "Backend Engineer",
+  "keyword": "Laravel",
   "link": "https://www.linkedin.com/jobs/view/4435565823",
   "first_seen": "2026-07-01T13:30:34.719831+00:00"
  },
@@ -18976,7 +18841,7 @@
   "title": "Fullstack Engineer",
   "company": "Halan - حالا",
   "location": "Cairo, Cairo, Egypt",
-  "keyword": "Web Developer",
+  "keyword": "Full Stack Developer",
   "link": "https://www.linkedin.com/jobs/view/4434613130",
   "first_seen": "2026-07-01T13:30:34.719831+00:00"
  },
@@ -18985,7 +18850,7 @@
   "title": "Full Stack Developer - JavaScript (Remote)",
   "company": "Hire Feed",
   "location": "Egypt",
-  "keyword": "Web Developer",
+  "keyword": "Full Stack Developer",
   "link": "https://www.linkedin.com/jobs/view/4435515263",
   "first_seen": "2026-07-01T13:30:34.719831+00:00"
  },
@@ -19012,7 +18877,7 @@
   "title": "Product Developer - Saudi Arabia",
   "company": "BMC Helix",
   "location": "Riyadh, Riyadh, Saudi Arabia",
-  "keyword": "Web Developer",
+  "keyword": "Full Stack Developer",
   "link": "https://www.linkedin.com/jobs/view/4435570144",
   "first_seen": "2026-07-01T13:30:34.719831+00:00"
  },
@@ -19030,7 +18895,7 @@
   "title": "Senior Full Stack Engineer (Remote)",
   "company": "Hire Feed",
   "location": "Egypt",
-  "keyword": "Full Stack Developer",
+  "keyword": "Backend Engineer",
   "link": "https://www.linkedin.com/jobs/view/4435518462",
   "first_seen": "2026-07-01T13:30:34.719831+00:00"
  },
@@ -19057,7 +18922,7 @@
   "title": "CRM Developer(TAMM)",
   "company": "Birbal AI",
   "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
-  "keyword": "Full Stack Developer",
+  "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4432323210",
   "first_seen": "2026-07-01T13:30:34.719831+00:00"
  },
@@ -19096,5 +18961,356 @@
   "keyword": "API Developer",
   "link": "https://www.linkedin.com/jobs/view/4434440994",
   "first_seen": "2026-07-01T13:30:34.719831+00:00"
+ },
+ "4425830101": {
+  "id": "4425830101",
+  "title": "Software Engineer ll - Backend",
+  "company": "talabat",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "Backend Developer",
+  "link": "https://www.linkedin.com/jobs/view/4425830101",
+  "first_seen": "2026-07-01T16:14:46.897962+00:00"
+ },
+ "4435810961": {
+  "id": "4435810961",
+  "title": "Software Engineer",
+  "company": "HCLTech",
+  "location": "Dubai, United Arab Emirates",
+  "keyword": "Web Developer",
+  "link": "https://www.linkedin.com/jobs/view/4435810961",
+  "first_seen": "2026-07-01T16:14:46.897962+00:00"
+ },
+ "4434625444": {
+  "id": "4434625444",
+  "title": "后端开发工程师｜包食宿",
+  "company": "uPay",
+  "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
+  "keyword": "Full Stack Developer",
+  "link": "https://www.linkedin.com/jobs/view/4434625444",
+  "first_seen": "2026-07-01T16:14:46.897962+00:00"
+ },
+ "4435507672": {
+  "id": "4435507672",
+  "title": "Senior Backend Engineer (Python)",
+  "company": "Hire Feed",
+  "location": "United Arab Emirates",
+  "keyword": "PHP Developer",
+  "link": "https://www.linkedin.com/jobs/view/4435507672",
+  "first_seen": "2026-07-01T16:14:46.897962+00:00"
+ },
+ "4416103967": {
+  "id": "4416103967",
+  "title": "Software Development Engineer",
+  "company": "Siemens EDA (Siemens Digital Industries Software)",
+  "location": "Qesm 2nd New Cairo, Cairo, Egypt",
+  "keyword": "Backend Developer",
+  "link": "https://www.linkedin.com/jobs/view/4416103967",
+  "first_seen": "2026-07-01T16:14:46.897962+00:00"
+ },
+ "4435511374": {
+  "id": "4435511374",
+  "title": "Backend Software Developer (Remote)",
+  "company": "Hire Feed",
+  "location": "Egypt",
+  "keyword": "API Developer",
+  "link": "https://www.linkedin.com/jobs/view/4435511374",
+  "first_seen": "2026-07-01T16:14:46.897962+00:00"
+ },
+ "4432399322": {
+  "id": "4432399322",
+  "title": "Data Engineer Lead",
+  "company": "Souhoola",
+  "location": "Cairo, Egypt",
+  "keyword": "API Developer",
+  "link": "https://www.linkedin.com/jobs/view/4432399322",
+  "first_seen": "2026-07-01T16:14:46.897962+00:00"
+ },
+ "4435518045": {
+  "id": "4435518045",
+  "title": "Full Stack Engineer - Python & React (Remote)",
+  "company": "Hire Feed",
+  "location": "Egypt",
+  "keyword": "Backend Engineer",
+  "link": "https://www.linkedin.com/jobs/view/4435518045",
+  "first_seen": "2026-07-01T16:14:46.897962+00:00"
+ },
+ "4435582543": {
+  "id": "4435582543",
+  "title": "Automotive Senior/Expert Model Based Development Engineer (Avelabs LLC Egypt)",
+  "company": "Arrow Electronics",
+  "location": "Egypt",
+  "keyword": "Backend Developer",
+  "link": "https://www.linkedin.com/jobs/view/4435582543",
+  "first_seen": "2026-07-01T16:14:46.897962+00:00"
+ },
+ "4432700092": {
+  "id": "4432700092",
+  "title": "Billing Support Tech Sr. Specialist",
+  "company": "Vodafone",
+  "location": "Giza, Al Jizah, Egypt",
+  "keyword": "Backend Developer",
+  "link": "https://www.linkedin.com/jobs/view/4432700092",
+  "first_seen": "2026-07-01T16:14:46.897962+00:00"
+ },
+ "4435566289": {
+  "id": "4435566289",
+  "title": "Product Developer - Saudi Arabia",
+  "company": "BMC Helix",
+  "location": "Riyadh, Riyadh, Saudi Arabia",
+  "keyword": "Back end Developer",
+  "link": "https://www.linkedin.com/jobs/view/4435566289",
+  "first_seen": "2026-07-01T16:14:46.897962+00:00"
+ },
+ "4435553176": {
+  "id": "4435553176",
+  "title": "Oracle senior developer",
+  "company": "ASAS for Developing & Operating industrial Cities",
+  "location": "Riyadh, Saudi Arabia",
+  "keyword": "Backend Developer",
+  "link": "https://www.linkedin.com/jobs/view/4435553176",
+  "first_seen": "2026-07-01T16:14:46.897962+00:00"
+ },
+ "4432384853": {
+  "id": "4432384853",
+  "title": "AI Software Engineer",
+  "company": "Discovered MENA",
+  "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
+  "keyword": "Backend Developer",
+  "link": "https://www.linkedin.com/jobs/view/4432384853",
+  "first_seen": "2026-07-01T16:14:46.897962+00:00"
+ },
+ "4434603990": {
+  "id": "4434603990",
+  "title": "Data Engineer",
+  "company": "LanceSoft Middle East",
+  "location": "Doha, Qatar",
+  "keyword": "Backend Engineer",
+  "link": "https://www.linkedin.com/jobs/view/4434603990",
+  "first_seen": "2026-07-01T16:14:46.897962+00:00"
+ },
+ "4434624109": {
+  "id": "4434624109",
+  "title": "Senior Full Stack Developer",
+  "company": "Adeer International",
+  "location": "Cairo, Cairo, Egypt",
+  "keyword": "Full Stack Developer",
+  "link": "https://www.linkedin.com/jobs/view/4434624109",
+  "first_seen": "2026-07-01T16:14:46.897962+00:00"
+ },
+ "4434621602": {
+  "id": "4434621602",
+  "title": "Full Stack Engineer",
+  "company": "Vedasoft Inc",
+  "location": "Dubai, United Arab Emirates",
+  "keyword": "Full Stack Developer",
+  "link": "https://www.linkedin.com/jobs/view/4434621602",
+  "first_seen": "2026-07-01T16:14:46.897962+00:00"
+ },
+ "4434641046": {
+  "id": "4434641046",
+  "title": "Integration & Switch Maintenance Assistant Manager",
+  "company": "Network International",
+  "location": "Egypt",
+  "keyword": "Backend Engineer",
+  "link": "https://www.linkedin.com/jobs/view/4434641046",
+  "first_seen": "2026-07-01T16:14:46.897962+00:00"
+ },
+ "4432706312": {
+  "id": "4432706312",
+  "title": "Forward Deployed Engineer - High Profile AI Scale-Up",
+  "company": "oryxsearch.io",
+  "location": "Dubai, United Arab Emirates",
+  "keyword": "API Developer",
+  "link": "https://www.linkedin.com/jobs/view/4432706312",
+  "first_seen": "2026-07-01T16:14:46.897962+00:00"
+ },
+ "4435509172": {
+  "id": "4435509172",
+  "title": "Senior MLOps Engineer",
+  "company": "SoftServe",
+  "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
+  "keyword": "API Developer",
+  "link": "https://www.linkedin.com/jobs/view/4435509172",
+  "first_seen": "2026-07-01T16:14:46.897962+00:00"
+ },
+ "4426382709": {
+  "id": "4426382709",
+  "title": "Data Engineer",
+  "company": "Easygenerator",
+  "location": "Dubai, Dubai, United Arab Emirates",
+  "keyword": "Backend Engineer",
+  "link": "https://www.linkedin.com/jobs/view/4426382709",
+  "first_seen": "2026-07-01T16:14:46.897962+00:00"
+ },
+ "4435520990": {
+  "id": "4435520990",
+  "title": "Onsite Oracle Fusion PaaS Integration Architect (OIC)",
+  "company": "Tata Consultancy Services",
+  "location": "Riyadh, Saudi Arabia",
+  "keyword": "Web Developer",
+  "link": "https://www.linkedin.com/jobs/view/4435520990",
+  "first_seen": "2026-07-01T16:14:46.897962+00:00"
+ },
+ "4435818543": {
+  "id": "4435818543",
+  "title": "Application Architect",
+  "company": "Penta Consulting",
+  "location": "Al Khobar, Eastern, Saudi Arabia",
+  "keyword": "API Developer",
+  "link": "https://www.linkedin.com/jobs/view/4435818543",
+  "first_seen": "2026-07-01T16:14:46.897962+00:00"
+ },
+ "4435814108": {
+  "id": "4435814108",
+  "title": "Product Engineer - Advent",
+  "company": "Net2Source (N2S)",
+  "location": "Dubai, United Arab Emirates",
+  "keyword": "Full Stack Developer",
+  "link": "https://www.linkedin.com/jobs/view/4435814108",
+  "first_seen": "2026-07-01T16:14:46.897962+00:00"
+ },
+ "4435555113": {
+  "id": "4435555113",
+  "title": "C++ Software Engineer — Low Latency / HFT (Mid-Level & Senior)",
+  "company": "PLATINUM & PARTNERS",
+  "location": "Dubai, United Arab Emirates",
+  "keyword": "Full Stack Developer",
+  "link": "https://www.linkedin.com/jobs/view/4435555113",
+  "first_seen": "2026-07-01T16:14:46.897962+00:00"
+ },
+ "4435819717": {
+  "id": "4435819717",
+  "title": "Database Reliability Engineer",
+  "company": "Fuse Energy",
+  "location": "Dubai, Dubai, United Arab Emirates",
+  "keyword": "Full Stack Developer",
+  "link": "https://www.linkedin.com/jobs/view/4435819717",
+  "first_seen": "2026-07-01T16:14:46.897962+00:00"
+ },
+ "4435520717": {
+  "id": "4435520717",
+  "title": "Go Developer (Remote)",
+  "company": "Quik Hire Staffing",
+  "location": "Egypt",
+  "keyword": "API Developer",
+  "link": "https://www.linkedin.com/jobs/view/4435520717",
+  "first_seen": "2026-07-01T16:14:46.897962+00:00"
+ },
+ "4434622873": {
+  "id": "4434622873",
+  "title": "Frontend Tech lead  (Angular)",
+  "company": "Engaz AI",
+  "location": "Cairo, Egypt",
+  "keyword": "API Developer",
+  "link": "https://www.linkedin.com/jobs/view/4434622873",
+  "first_seen": "2026-07-01T16:14:46.897962+00:00"
+ },
+ "4434634186": {
+  "id": "4434634186",
+  "title": "Factory Digital Engineer",
+  "company": "Unilever",
+  "location": "Alexandria, Alexandria, Egypt",
+  "keyword": "API Developer",
+  "link": "https://www.linkedin.com/jobs/view/4434634186",
+  "first_seen": "2026-07-01T16:14:46.897962+00:00"
+ },
+ "4434604882": {
+  "id": "4434604882",
+  "title": "DEVELOPER L4",
+  "company": "Wipro",
+  "location": "Dubai, Dubai, United Arab Emirates",
+  "keyword": "API Developer",
+  "link": "https://www.linkedin.com/jobs/view/4434604882",
+  "first_seen": "2026-07-01T16:14:46.897962+00:00"
+ },
+ "4434636085": {
+  "id": "4434636085",
+  "title": "Portfolio Lead -Social Development & Healthcare",
+  "company": "Halian | Managed Services, Recruitment Agency & Contract Staffing",
+  "location": "Dubai, United Arab Emirates",
+  "keyword": "API Developer",
+  "link": "https://www.linkedin.com/jobs/view/4434636085",
+  "first_seen": "2026-07-01T16:14:46.897962+00:00"
+ },
+ "4432382121": {
+  "id": "4432382121",
+  "title": "Senior Oracle Integration Cloud Developer",
+  "company": "JAM Event Services",
+  "location": "Dubai, United Arab Emirates",
+  "keyword": "API Developer",
+  "link": "https://www.linkedin.com/jobs/view/4432382121",
+  "first_seen": "2026-07-01T16:14:46.897962+00:00"
+ },
+ "4425893553": {
+  "id": "4425893553",
+  "title": "API Architect",
+  "company": "Cognizant",
+  "location": "Dubai, Dubai, United Arab Emirates",
+  "keyword": "API Developer",
+  "link": "https://www.linkedin.com/jobs/view/4425893553",
+  "first_seen": "2026-07-01T16:14:46.897962+00:00"
+ },
+ "4435519669": {
+  "id": "4435519669",
+  "title": "Android Engineer",
+  "company": "IC Markets",
+  "location": "Dubai, United Arab Emirates",
+  "keyword": "API Developer",
+  "link": "https://www.linkedin.com/jobs/view/4435519669",
+  "first_seen": "2026-07-01T16:14:46.897962+00:00"
+ },
+ "4416285800": {
+  "id": "4416285800",
+  "title": "Senior IOS Developer",
+  "company": "Analog",
+  "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
+  "keyword": "API Developer",
+  "link": "https://www.linkedin.com/jobs/view/4416285800",
+  "first_seen": "2026-07-01T16:14:46.897962+00:00"
+ },
+ "4432321399": {
+  "id": "4432321399",
+  "title": "Solution Architect",
+  "company": "Klanik",
+  "location": "Dubai, United Arab Emirates",
+  "keyword": "API Developer",
+  "link": "https://www.linkedin.com/jobs/view/4432321399",
+  "first_seen": "2026-07-01T16:14:46.897962+00:00"
+ },
+ "4432388406": {
+  "id": "4432388406",
+  "title": "Senior AI Engineer (m/f/d)",
+  "company": "Halian | Managed Services, Recruitment Agency & Contract Staffing",
+  "location": "Abu Dhabi Emirate, United Arab Emirates",
+  "keyword": "API Developer",
+  "link": "https://www.linkedin.com/jobs/view/4432388406",
+  "first_seen": "2026-07-01T16:14:46.897962+00:00"
+ },
+ "4432317958": {
+  "id": "4432317958",
+  "title": "Machine Learning Engineer",
+  "company": "Klanik",
+  "location": "Abu Dhabi Emirate, United Arab Emirates",
+  "keyword": "API Developer",
+  "link": "https://www.linkedin.com/jobs/view/4432317958",
+  "first_seen": "2026-07-01T16:14:46.897962+00:00"
+ },
+ "4432390289": {
+  "id": "4432390289",
+  "title": "Senior AI Engineer (m/f/d)",
+  "company": "Halian | Managed Services, Recruitment Agency & Contract Staffing",
+  "location": "Abu Dhabi Emirate, United Arab Emirates",
+  "keyword": "API Developer",
+  "link": "https://www.linkedin.com/jobs/view/4432390289",
+  "first_seen": "2026-07-01T16:14:46.897962+00:00"
+ },
+ "4435505855": {
+  "id": "4435505855",
+  "title": "Software Engineer - Python, JavaScript/TypeScript, Go (Remote)",
+  "company": "Hire Feed",
+  "location": "United Arab Emirates",
+  "keyword": "API Developer",
+  "link": "https://www.linkedin.com/jobs/view/4435505855",
+  "first_seen": "2026-07-01T16:14:46.897962+00:00"
  }
 }
